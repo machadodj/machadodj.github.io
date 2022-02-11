@@ -1,10 +1,10 @@
 # My GitHib Page
 
-Visit [https://machadodj.github.io/](machadodj.github.io).
+Visit [machadodj.github.io](https://machadodj.github.io/).
 
 ## Source
 
-This website is based on the "Academic Responsive (AR) Website Template."
+This website is based on the [Academic Responsive (AR) Website Template](https://github.com/dmsl/academic-responsive-template).
 
 ### Responsive HTML5/CSS3 template for setting up an academic website.
 
@@ -16,7 +16,7 @@ The original idea for setting up this template was to make an academic profile e
 
 The AR template is open to reuse under a CC BY 4.0 licence. This license lets others distribute, remix, tweak, and build upon AR even commercially, as long as they credit the original creation in the footer of the site. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
-Click  [http://creativecommons.org/licenses/by/4.0/legalcode](here) to read more.
+Click  [here](http://creativecommons.org/licenses/by/4.0/legalcode) to read more.
 
 ### Components
 
