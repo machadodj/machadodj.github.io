@@ -1,4 +1,4 @@
-# My GitHib Page
+# My GitHub Page
 
 Visit [machadodj.github.io](https://machadodj.github.io/).
 
