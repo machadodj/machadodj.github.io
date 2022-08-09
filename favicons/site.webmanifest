@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "The Phyloinformatics Lab",
+    "short_name": "Phyloinformatics",
     "icons": [
         {
             "src": "favicons/android.png",
@@ -8,7 +8,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#005035",
+    "background_color": "#101820",
     "display": "standalone"
 }
