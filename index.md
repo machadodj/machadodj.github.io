@@ -26,42 +26,42 @@ In response to the continued increase in the risk of zoonoses, the Phyloinformat
 {% capture text %}
 **Our reserach can be divided into four components.** _First_, facilitating resource-efficient molecular analyses and making data from museum biorepositories more readily available to biomedical research. _Second_, improving genomic resources of non-model organisms with a focus on animals of particular medical or environmental interest. _Third_, developing phylogenetics solutions, especially if they can help improve our understanding of zoonosis. _Fourth_, integrating “omics” technologies (e.g., genomics, transcriptomics, metabolomics, and proteomics) to study complex host-pathogen systems in the context of One Health.
 
-{% include link.html link="research" text="Learn more" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://phyloinformatics.com/research/" text="Learn more" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
 
-{% include feature.html image="images/Research.png" link="research" title="Research" text=text %}
+{% include feature.html image="images/Research.png" link="https://phyloinformatics.com/research/" title="Research" text=text %}
 
 <!--Resources-->
 
 {% capture text %}
 **We produce bioinformatics solutions tailored to the needs of phylogeneticists and museum biorepositories.** Our toolbox is diverse. For example, our genomic resources count on dedicated gene annotators for various targets, from flatworms' mitogenomes to viruses' genomes. Furthermore, our phylogenetic resources provide different solutions for phylogenetics result analysis, including character categorization and branch support analysis.
 
-{% include link.html link="resources" text="Browse our tools" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://phyloinformatics.com/resources/" text="Browse our tools" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
 
-{% include feature.html image="images/Resources.png" link="resources" title="Resources" flip=true text=text %}
+{% include feature.html image="images/Resources.png" link="https://phyloinformatics.com/resources/" title="Resources" flip=true text=text %}
 
 <!--People-->
 
 {% capture text %}
 **Dr. Denis Jacob Machado leads the Phyloinformatics Lab.** The lab was inaugurated in August 2022 as part of UNC Charlotte's CIPHER research center. Our collaborators include brilliant researchers from different colleges at UNC Charlotte. In addition, we also have collaborators from other institutions in the USA, Brazil, Colombia, and more. In addition, we are always happy to meet new collaborators, prospective students, and potential postdocs.
 
-{% include link.html link="people" text="Meet our team & collaborators" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://phyloinformatics.com/people/" text="Meet our team & collaborators" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/People.png" link="people" title="People" text=text %}
+{% include feature.html image="images/People.png" link="https://phyloinformatics.com/people/" title="People" text=text %}
 
 <!--News-->
 
 {% capture text %}
 **We stand on a tripod of research, teaching, and outreach.** Whenever possible, we post about recent developments in our lab and get involved in community outreach. Keep posted about our papers, talks, posters, classes, and more on this website.
 
-{% include link.html link="news" text="Recent developments" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://phyloinformatics.com/news/" text="Recent developments" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/News.png" link="news" title="News" flip=true text=text %}
+{% include feature.html image="images/News.png" link="news" title="https://phyloinformatics.com/news/" flip=true text=text %}
 
 <!--Closing remarks-->
 
@@ -70,4 +70,4 @@ In response to the continued increase in the risk of zoonoses, the Phyloinformat
 **The Phyloinformatics Lab promotes equity, equality, diversity, and inclusion** in STEM, other academic fields, and the industry. We strive to be a safe and inclusive workspace by creating a sense of community and providing multiple ways for our team to learn, communicate, succeed, and connect new ideas to goals.
 
 {:.center}
-{% include link.html type="email" icon="" text="Contact" link="contact" style="button" %}
+{% include link.html type="email" icon="" text="Contact" link="https://phyloinformatics.com/contact/" style="button" %}
