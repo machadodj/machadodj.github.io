@@ -2,8 +2,8 @@
 
 contact:
   icon: fas fa-envelope
-  text: Email
-  tooltip: Email
+  text: Contact
+  tooltip: Contact
   link: $LINK
 
 link:
