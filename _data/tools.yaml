@@ -1,47 +1,95 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: FLAVi
+  subtitle: Fast Loci Annotation of Viruses
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/FLAVi.jpg
+  link: http://flavi-web.com/
+  description: The FLAVi pipeline aims to provide an annotation framework for multiple complete or partial genomes of viruses. Currently, FLAVi is designed to annotate the genomes of viruses of the family _Flaviviridae_ only.
+  repo: https://gitlab.com/MachadoDJ/FLAVi
   tags:
-    - resource
+    - gene annotation
+    - stand alone
+    - viruses
+    - web app
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: YBYRÁ
+  subtitle: Phylogenetics Result Analyses
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/YBYRA.jpg
+  link: https://gitlab.com/MachadoDJ/ybyra/-/wikis/home
+  description: The YBYRÁ project integrates software solutions for data analysis in phylogenetics. It comprises tools for topological distance calculation, clade sensitivity analysis, categorization of synapomorphies, identidfication of wildcard taxa, and more.
+  repo: https://gitlab.com/MachadoDJ/ybyra
   tags:
-    - resource
+    - character optimization
+    - phylogenetics
+    - sensitivity analyses
+    - stand alone
+    - tolopological distances
+    - wildcard seacrh
 
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: CMA
+  subtitle: Cestode Mitogenome Annotator
+  group: application
+  image: images/CMA.jpg
+  link: https://gitlab.com/MachadoDJ/cma
+  description: Dedicated gene prediction and annotation for cestode mitogenomes.
+  repo: https://gitlab.com/MachadoDJ/cma
   tags:
-    - resource
-    - publication
+    - gene annotation
+    - mitochondrion
+    - parasites
+    - stand alone
+    - web server
 
-- title: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: AWA
+  subtitle: Infer Genome Circularity
+  group: application
+  image: images/AWA.jpg
+  link: https://gitlab.com/MachadoDJ/awa
+  description: The AWA project integrates software solutions for testing the completeness of assemblies of circular DNA based on short sequence reads.
+  repo: https://gitlab.com/MachadoDJ/awa
   tags:
-    - software
+    - circularity
+    - mitochondrion
+    - stand alone
 
-- title: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: EchinoDB
+  subtitle: Infer Genome Circularity
+  group: database
+  image: images/EchinoDB.jpg
+  link: https://echinodb.uncc.edu/
+  description: EchinoDB is a database consisting of amino acid sequence othoclusters from echinoderm transcriptomes.
   tags:
-    - software
+    - database
+    - echinodemrs
+    - genomics
+    - web app
+
+- title: Soft Tips
+  subtitle: Miscellaneous
+  group: tip
+  image: images/Computer.jpg
+  link: https://www.notion.so/phyloinformatics/Soft-tips-2303f513e4e6461285e4ad838bc9db61
+  description: Assorted bioinformatics tips, tricks, and solutions.
+  tags:
+    - tips
+    - guides
+    - tutorials
+
+- title: SLURM
+  subtitle: How To Use
+  group: guide
+  image: images/SLURM.jpg
+  link: https://www.notion.so/phyloinformatics/How-to-use-the-SLURM-job-scheduler-3eb8be78f603474281c11424083df1fe
+  description: How to use the SLURM job scheduler, especially in UNC Charlotte's reserach clusters.
+  tags:
+    - guides
+
+- title: Better Poster
+  subtitle: Scientific Poster Template
+  group: template
+  image: images/BetterPoster.jpg
+  link: https://www.youtube.com/watch?v=1RwJbhkCA58
+  description: A template that helps you creating a better research poster in less time. [Click here](https://youtu.be/1RwJbhkCA58) for the YouTube video and [click here](https://osf.io/ef53g/) for the template.
+  tags:
+    - poster
+    - template

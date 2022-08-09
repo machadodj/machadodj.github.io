@@ -45,7 +45,7 @@ search:
 # social media
 
 orcid:
-  icon: orcid-logo.svg
+  icon: fab fa-orcid
   text: ORCID
   tooltip: ORCID
   link: https://orcid.org/$LINK
@@ -55,6 +55,12 @@ google-scholar:
   text: Google Scholar
   tooltip: Google Scholar
   link: https://scholar.google.com/citations?hl=en&user=$LINK
+
+scopus:
+  icon: fa-solid fa-arrow-up-right-from-square
+  text: Scopus
+  tooltip: Scopus
+  link: https://www.scopus.com/authid/detail.uri?authorId=$LINK
 
 github:
   icon: fab fa-github

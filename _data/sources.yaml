@@ -1,33 +1,260 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+##
+# 2022
+##
+
+# 2022: Indeterminate growth in brittle stars
+- id: doi:10.1186/s12983-022-00461-0
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12983-022-00461-0/MediaObjects/12983_2022_461_Fig2_HTML.png?as=webp
   tags:
-    - knowledge graphs
+    - echinoderms
+    - gene expression
+    - invertebrates
+    - non-model organism
+    - regeneration
+    - zoology
 
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+# 2022: Predictions of the SARS-CoV-2 Omicron variant
+- id: doi:10.3389/fviro.2022.830202
+  image: https://www.frontiersin.org/files/Articles/830202/fviro-02-830202-HTML/image_m/fviro-02-830202-g005.jpg
+  tags:
+    - artificial intelligence
+    - genomic epidemiology
+    - molecular docking
+    - phylogenetics
+    - sensitivity analyses
+    - viruses
+    - zoonoses
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+##
+# 2021
+##
+
+
+# 2021: Fundamentals of genomic epidemiology
+- id: doi:10.1017/ash.2021.222
+  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20211202193237344-0196:S2732494X21002229:S2732494X21002229_fig1.png?pub-status=live
+  tags:
+    - coronavirus
+    - genomic epidemiology
+    - high-throughput sequencing
+    - One Health
+    - viruses
+    - zoonoses
+
+
+# 2021: Fundamental evolution of all CoVs
+- id: doi:10.1111/cla.12454
+  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20211202193237344-0196:S2732494X21002229:S2732494X21002229_fig3.png?pub-status=live
+  title: Fundamental evolution of all Orthocoronavirinae including three deadly lineages descendent from Chiroptera-hosted coronaviruses - SARS-CoV, MERS-CoV and SARS-CoV-2
+  tags:
+    - character categorization
+    - coronaviruses
+    - gene annotation
+    - gene prediction
+    - genomic epidemiology
+    - outgroup selection
+    - phylogenetics
+    - sequence alignment
+    - sensitivity analyses
+    - viruses
+    - zoonoses
+
+# 2021: Support
+- id: doi:10.1111/cla.12496
+  image: https://onlinelibrary.wiley.com/cms/asset/3a5d0667-7501-4f3d-bdde-6e1914fcb4a4/cla12496-fig-0001-m.jpg
+  authors:
+    - Denis Jacob Machado
+    - Fernando Portella de Luna Marques
+    - Larry Jiménez-Ferbans
+    - Taran Grant
+  tags:
+    - phylogenetics
+    - clade support
+    - clade frequencies
+    - sensitivity analyses
+    - maximum likelihood
+
+# 2021: Evidence of absence treated as absence of evidence
+- id: doi:10.1016/j.ympev.2020.106966
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1055790320302384-gr5.jpg
+  tags:
+    - phylogenetics
+    - clade support
+    - clade frequencies
+    - sequence alignment
+    - sensitivity analyses
+    - maximum likelihood
+
+# 2021: The phylogeny of Dendropsophini
+- id: doi:10.1111/cla.12429
+  image: https://onlinelibrary.wiley.com/cms/asset/bae01dd2-0f27-45c1-b5b3-896c7ddd460e/cla12429-fig-0003-m.jpg
+  tags:
+    - amphibians
+    - character categorization
+    - outgroup selection
+    - phylogenetics
+    - vertebrates
+    - wildcard taxa
+    - zoological taxonomy
+    - zoology
+
+
+# 2021: Comparative characterization of mitogenomes
+- id: doi:10.3389/fgene.2021.788871
+  image: https://www.frontiersin.org/files/Articles/788871/fgene-12-788871-HTML/image_m/fgene-12-788871-g003.jpg
+  tags:
+    - comparative genomics
+    - gene annotation
+    - gene prediction
+    - genome skimming
+    - invertebates
+    - mitochondrion
+    - parasitology
+    - zoology
+
+##
+# 2020
+##
+
+
+# 2020: FLAVi
+- id: doi:10.3390/v12080892
+  image: https://www.mdpi.com/viruses/viruses-12-00892/article_deploy/html/images/viruses-12-00892-g009-550.jpg
+  tag:
+    - character categorization
+    - flaviviruses
+    - gene annotation
+    - gene prediction
+    - genomic epidemiology
+    - outgroup selection
+    - phylogenetics
+    - sequence alignment
+    - sensitivity analyses
+    - viruses
+    - zoonoses
+
+
+# 2020: Active Notch signaling
+- id: doi:10.1371/journal.pone.0232981
+  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0232981.g003
+  tags:
+    - echinoderms
+    - gene expression
+    - invertebrates
+    - non-model organism
+    - regeneration
+    - zoology
+
+# 2020: The first complete mitochondrial genome of the sand dollar
+- id: doi:10.1016/j.ygeno.2019.10.007
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0888754319301855-gr1.jpg
+  tags:
+    - echinoderms
+    - genome skimming
+    - invertebrates
+    - mitochondrion
+    - non-model organism
+    - zoology
+
+##
+# 2019
+##
+
+
+# 2019: Genome skimming
+- id: doi:10.7717/peerj.7543
+  image: https://dfzljdn9uc3pi.cloudfront.net/2019/7543/1/fig-2-2x.jpg
+  tag:
+    - genome skimming
+    - invertebrates
+    - mitochondrion
+    - non-model organism
+    - zoology
+
+
+##
+# 2018
+##
+
+
+# 2018: A new strategy to infer circularity
+- id: doi:10.1002/ece3.3918
+  image: https://onlinelibrary.wiley.com/cms/asset/e7a780bc-056a-4cb7-bd7c-2e8c1c554289/ece33918-fig-0001-m.jpg
+  tag:
+    - amphibian
+    - genome skimming
+    - vertebrates
+    - mitochondrion
+    - non-model organism
+    - sensitivity analyses
+    - zoology
+
+##
+# 2017
+##
+
+
+# 2017: Phylogenetic Systematics of Dart-Poison Frogs and Their Relatives
+- id: doi:10.2994/SAJH-D-17-00017.1
+  image: https://bioone.org/ContentImages/Journals/sajh/12/s1/SAJH-D-17-00017.1/graphic/f36_S1.jpg
+  tags:
+    - amphibians
+    - character categorization
+    - outgroup selection
+    - phylogenetics
+    - vertebrates
+    - zoological taxonomy
+    - zoology
+
+##
+# 2016
+##
+
+
+# 2016: Mitogenome assembly from genomic multiplex libraries
+- id: doi:10.1111/1755-0998.12492
+  image: https://onlinelibrary.wiley.com/cms/asset/4febcad6-6a17-4f0b-9b24-d97882b9f346/men12492-fig-0001-m.jpg
+  tags:
+    - amphibian
+    - genome skimming
+    - vertebrates
+    - mitochondrion
+    - non-model organism
+    - zoology
+##
+# 2015
+##
+
+
+# 2015: YBYRÁ
+- id: doi:10.1186/s12859-015-0642-9
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-015-0642-9/MediaObjects/12859_2015_642_Fig1_HTML.gif?as=webp
+  tags:
+    - character categorization
+    - phylogenetics
+    - sensitivity analyses
+    - topological distances
+    - tree comparison
+    - wildcard taxa
+
+
+##
+# 2012
+##
+
+
+# 2012: The forgotten origin of \emph{Acanthobothrium} Blanchard, 1848 (Tetraphyllidea: Onchobothriidae)
+# - title: The forgotten origin of Acanthobothrium Blanchard, 1848 (Tetraphyllidea: Onchobothriidae)
+#   authors:
+#     - Denis Jacob Machado
+#     - Fernando Portella de Luna Marques
+#   publisher: Zootaxa
+#   date: 2012
+#   link: https://www.biotaxa.org/Zootaxa/article/view/zootaxa.3505.1.7
+- id: doi:10.11646/zootaxa.3505.1.7
+  image: https://uconn-today-universityofconn.netdna-ssl.com/wp-content/uploads/2017/12/2_20171029-Acanth_rodm.jpg
+  tags:
+    - invertebates
+    - parasitology
+    - zoological taxonomy
+    - zoology

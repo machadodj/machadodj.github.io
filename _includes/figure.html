@@ -27,7 +27,7 @@
       width: 100%;
     {%- endif -%}
   {%- endcapture -%}
-  
+
   {%- capture img -%}
     max-height: {{ height }};
   {%- endcapture -%}
@@ -43,7 +43,7 @@
 {%- endif -%}
 
 <figure class="figure">
-  <a 
+  <a
     {% if include.link %}href="{{ include.link | relative_url }}"{% endif %}
     class="figure_image"
     style="{{ link }}"
