@@ -16,12 +16,12 @@ button {
   border: none;
   border-radius: 5px;
   background: $accent;
-  color: $white;
+  color: $quartz-white;
   font-size: 1rem;
   cursor: pointer;
   transition: background $fast;
 
   &:hover {
-    background: $gray-500;
+    background: $pine-green;
   }
 }

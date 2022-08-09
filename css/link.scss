@@ -45,10 +45,11 @@ a:hover {
     padding: 5px 10px;
     border-radius: 5px;
     background: $accent;
-    color: $white;
+    color: $quartz-white;
 
     &:hover {
-      background: $gray-500;
+      background: $niner-gold;
+      color: $ore-black;
     }
   }
 }

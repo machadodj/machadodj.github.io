@@ -1,14 +1,14 @@
 // colors for links, tags, etc.
 // see colors.scss for available colors
-$accent: $light-blue-500;
-$light-accent: $light-blue-200;
-$dark-accent: $light-blue-900;
+$accent: $charlotte-green;
+$light-accent: $charlotte-light-green;
+$dark-accent: $charlotte-dark-green;
 
 // font types
 // also see /_includes/fonts.html to change fonts
-$serif: "Lora", serif; // font name, fallback font type
-$sans: "Poppins", sans-serif;
-$mono: "Cousine", monospace;
+$serif: "Una", serif; // font name, fallback font type
+$sans: "Roboto", sans-serif;
+$mono: "Ubuntu", monospace;
 
 // line spacing
 $spacing: 1.5;

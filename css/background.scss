@@ -26,12 +26,12 @@
   }
 
   &[data-dark="false"] {
-    background: $gray-100;
-    color: $black;
+    background: $quartz-white;
+    color: $ore-black;
   }
 
   &[data-dark="true"] {
-    background: $gray-900;
-    color: $white;
+    background: $ore-black;
+    color: $quartz-white;
   }
 }
