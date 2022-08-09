@@ -1,5 +1,11 @@
 # general
 
+contact:
+  icon: fas fa-envelope
+  text: Email
+  tooltip: Email
+  link: $LINK
+
 link:
   icon: fas fa-globe
   text: Link
