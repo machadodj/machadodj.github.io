@@ -2,102 +2,72 @@
 title: Home
 ---
 
-# Your Lab Slogan
+<!--Openning statement-->
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+# Phyloinformatics
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+We call **phyloinformactis** the approach that uses computational intelligence and phylogenetics to create an evolutionary framework to integrate multi-omics data to answer practical questions in **One Health**.
+
+**One Health** is the collaborative efforts of multiple disciplines working locally, nationally, and globally to attain optimal human, animal, plant, and environmental health. Although One Health is not new, the Phyloinformatics Lab recognizes that it has become more critical in recent years. Factors that make One Health essential include the increased risk of zoonotic diseases due to contact between humans and wild animals. Additional factors are urbanization, destruction of natural habitats, climate change, and the movent of people and animals due to travel and global trade, among other factors.
+
+In response to the continued increase in the risk of zoonoses, the Phyloinformatics Lab has two main lines of research. **First**, investigate new pathogens' emergence, evolution, and spread, focusing on preventing and treating infectious diseases. **Second**, create computational and molecular solutions to make data from biorepositories more readily available to biomedical research.
+
+<!--Banner-->
+
 {:.center}
-
 {% include section.html full=true %}
-
 {% include banner.html image="images/banner.jpg" %}
-
 {% include section.html %}
 
 # Highlights
 
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<!--Research-->
 
-{%
-  include link.html
-  link="research"
-  text="See what we've published"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
+{% capture text %}
+**Our reserach can be divided into four components.** _First_, facilitating resource-efficient molecular analyses and making data from museum biorepositories more readily available to biomedical research. _Second_, improving genomic resources of non-model organisms with a focus on animals of particular medical or environmental interest. _Third_, developing phylogenetics solutions, especially if they can help improve our understanding of zoonosis. _Fourth_, integrating “omics” technologies (e.g., genomics, transcriptomics, metabolomics, and proteomics) to study complex host-pathogen systems in the context of One Health.
+
+{% include link.html link="research" text="Learn more" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
+{% include feature.html image="images/Research.png" link="research" title="Research" text=text %}
+
+<!--Resources-->
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**We produce bioinformatics solutions tailored to the needs of phylogeneticists and museum biorepositories.** Our toolbox is diverse. For example, our genomic resources count on dedicated gene annotators for various targets, from flatworms' mitogenomes to viruses' genomes. Furthermore, our phylogenetic resources provide different solutions for phylogenetics result analysis, including character categorization and branch support analysis.
 
-{%
-  include link.html
-  link="tools"
-  text="Browse our tools"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
+{% include link.html link="resources" text="Browse our tools" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
-  flip=true
-  text=text
-%}
+{% include feature.html image="images/Resources.png" link="resources" title="Resources" flip=true text=text %}
+
+<!--People-->
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**Dr. Denis Jacob Machado leads the Phyloinformatics Lab.** The lab was inaugurated in August 2022 as part of UNC Charlotte's CIPHER research center. Our collaborators include brilliant researchers from different colleges at UNC Charlotte. In addition, we also have collaborators from other institutions in the USA, Brazil, Colombia, and more. In addition, we are always happy to meet new collaborators, prospective students, and potential postdocs.
 
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
+{% include link.html link="people" text="Meet our team & collaborators" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
+{% include feature.html image="images/People.png" link="people" title="People" text=text %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+<!--News-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% capture text %}
+**We stand on a tripod of research, teaching, and outreach.** Whenever possible, we post about recent developments in our lab and get involved in community outreach. Keep posted about our papers, talks, posters, classes, and more on this website.
+
+{% include link.html link="news" text="Recent developments" icon="fas fa-arrow-right" flip=true %}
+{:.center}
+{% endcapture %}
+{% include feature.html image="images/News.png" link="news" title="News" flip=true text=text %}
+
+<!--Closing remarks-->
+
+# Join us
+
+**The Phyloinformatics Lab promotes equity, equality, diversity, and inclusion** in STEM, other academic fields, and the industry. We strive to be a safe and inclusive workspace by creating a sense of community and providing multiple ways for our team to learn, communicate, succeed, and connect new ideas to goals.
+
+{:.center}
+{% include link.html type="email" icon="" text="Contact" link="contact" style="button" %}

@@ -1,4 +1,16 @@
-# GitHub citation metadata for lab-website-template itself
+# GitHub citation metadata for the Phyloinformatics Lab page
+
+cff-version: 0.0.0
+authors:
+  - family-names: "Jacob Machado"
+    given-names: "Denis"
+    orcid: "https://orcid.org/0000-0001-9858-4515"
+title: "The Phyloinformatics Lab"
+version: 0.0.0
+date-released: 2022-08-15
+url: "https://phyloinformatics.com"
+
+# GitHub citation metadata for lab-website-template
 
 cff-version: 1.2.0
 authors:
