@@ -9,6 +9,12 @@
     - echinoderms
     - non-model organism
     - genomics
+    - invertebates
+    - zoology
+    - gene annotation
+    - gene prediction
+    - mitogenome
+    - nuclear genome
 
 # 2022: Indeterminate growth in brittle stars
 - id: doi:10.1186/s12983-022-00461-0
@@ -116,7 +122,7 @@
     - gene prediction
     - genome skimming
     - invertebates
-    - mitochondrion
+    - mitogenome
     - parasitology
     - zoology
 
@@ -160,7 +166,7 @@
     - echinoderms
     - genome skimming
     - invertebrates
-    - mitochondrion
+    - mitogenome
     - non-model organism
     - zoology
 
@@ -175,7 +181,7 @@
   tag:
     - genome skimming
     - invertebrates
-    - mitochondrion
+    - mitogenome
     - non-model organism
     - zoology
 
@@ -192,7 +198,7 @@
     - amphibian
     - genome skimming
     - vertebrates
-    - mitochondrion
+    - mitogenome
     - non-model organism
     - sensitivity analyses
     - zoology
@@ -226,7 +232,7 @@
     - amphibian
     - genome skimming
     - vertebrates
-    - mitochondrion
+    - mitogenome
     - non-model organism
     - zoology
 ##
