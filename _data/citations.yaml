@@ -1,6 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1186/s12864-022-08750-y
+  title: 'Twinkle twinkle brittle star: the draft genome of Ophioderma brevispinum
+    (Echinodermata: Ophiuroidea) as a resource for regeneration research'
+  authors:
+  - Vladimir Mashanov
+  - Denis Jacob Machado
+  - Robert Reid
+  - Cory Brouwer
+  - Janice Kofsky
+  - Daniel A. Janies
+  publisher: BMC Genomics
+  date: '2022-08-11'
+  link: https://doi.org/gqm8zn
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12864-022-08750-y/MediaObjects/12864_2022_8750_Fig1_HTML.png?as=webp
+  tags:
+  - echinoderms
+  - non-model organism
+  - genomics
+  _cache: d8b61d44296011f32c6913e006ed9ea03cbcec02b3c23470c6a1bb1ddac55e0f
 - id: doi:10.1186/s12983-022-00461-0
   title: A subterminal growth zone at arm tip likely underlies life-long indeterminate
     growth in brittle stars
