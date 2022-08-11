@@ -19,7 +19,13 @@
   - echinoderms
   - non-model organism
   - genomics
-  _cache: d8b61d44296011f32c6913e006ed9ea03cbcec02b3c23470c6a1bb1ddac55e0f
+  - invertebates
+  - zoology
+  - gene annotation
+  - gene prediction
+  - mitogenome
+  - nuclear genome
+  _cache: 6c0e4715a74cab11a101de747d00fb78311d78ac39bffcf4b34847bebdbcb844
 - id: doi:10.1186/s12983-022-00461-0
   title: A subterminal growth zone at arm tip likely underlies life-long indeterminate
     growth in brittle stars
@@ -203,10 +209,10 @@
   - gene prediction
   - genome skimming
   - invertebates
-  - mitochondrion
+  - mitogenome
   - parasitology
   - zoology
-  _cache: 520a71eb69808cec13ff64b4511982456f2f8d00f8401cfce9279d67d7e94a08
+  _cache: 21e7330be335d10a2406454027e32854a8f833db5e835907ccaeddb9db8d0832
 - id: doi:10.3390/v12080892
   title: 'FLAVi: An Enhanced Annotator for Viral Genomes of Flaviviridae'
   authors:
@@ -277,10 +283,10 @@
   - echinoderms
   - genome skimming
   - invertebrates
-  - mitochondrion
+  - mitogenome
   - non-model organism
   - zoology
-  _cache: ea75c03073038f713bddf6597dbc1fb61983d039b13eaaee5ac3b01fdd2a6837
+  _cache: 4ef892c72c0642ffc7636601c11efc6b3dff84f017b608845fda499f463ff4b8
 - id: doi:10.7717/peerj.7543
   title: Genome skimming is a low-cost and robust strategy to assemble complete mitochondrial
     genomes from ethanol preserved specimens in biodiversity studies
@@ -297,10 +303,10 @@
   tag:
   - genome skimming
   - invertebrates
-  - mitochondrion
+  - mitogenome
   - non-model organism
   - zoology
-  _cache: ae3f9c6189f9218584f9649c3ff17c7330b63e78bbc6262456043aeaaab6036f
+  _cache: aed4224847f823747a8e2a55c204db17bc902f9140eeb1b8845f4e565a877a9c
 - id: doi:10.1002/ece3.3918
   title: A new strategy to infer circularity applied to four new complete frog mitogenomes
   authors:
@@ -316,11 +322,11 @@
   - amphibian
   - genome skimming
   - vertebrates
-  - mitochondrion
+  - mitogenome
   - non-model organism
   - sensitivity analyses
   - zoology
-  _cache: 6cd4714daa93ce12ef072cd01209cb5d08d0a4bdbbad175f2a1dd599a44bc93f
+  _cache: 004e2e6c4df733d2d52daadc88f078eb627cb3ed028b37b3c0e72339702183b1
 - id: doi:10.2994/SAJH-D-17-00017.1
   title: 'Phylogenetic Systematics of Dart-Poison Frogs and Their Relatives Revisited
     (Anura: Dendrobatoidea)'
@@ -361,10 +367,10 @@
   - amphibian
   - genome skimming
   - vertebrates
-  - mitochondrion
+  - mitogenome
   - non-model organism
   - zoology
-  _cache: 2ef6d5518a9dfdadf3cd9d0639186587cabd0f519b04afeeaf93f299f1d8125f
+  _cache: 5015ae4a0de86051178d0f2d4ac01f7f390e22923511ec250bd4c4a96a9d6df3
 - id: doi:10.1186/s12859-015-0642-9
   title: "YBYR\xC1 facilitates comparison of large phylogenetic trees"
   authors:
