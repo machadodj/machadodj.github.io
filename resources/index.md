@@ -40,6 +40,26 @@ This section may include materials that were not produced by the Phyloinformatic
 
 {% include list.html component="card" data="tools" filters="group: template" style="small" %}
 
+{% include section.html %}
+
 ## UNC Charlotte
 
-- **[UNC Charlotte's Trans](https://trans.charlotte.edu/)**: This initiative is a campus-wide partnership operated out of the Office of Identity, Equity, and Engagement.
+There are a number of resources that are made available by UNC Charlotte to the 49ners community. The following list (last updated on August 12, 2022) has a few examples:
+
+- [**UNC Charlotte's Trans**](https://trans.charlotte.edu/): This initiative is a campus-wide partnership operated out of the Office of Identity, Equity, and Engagement.
+- The [**Christine F. Price Center for Counseling and Psychological Services(CAPS)**](https://caps.charlotte.edu/): Supports the holistic well-being and academic success of students and contributes to a healthy and inclusive campus climate by provid ing short-term individual and group counseling, crisis management, consultation, referral services, and educational and preventive initiatives for the campus community.
+- The [**Dean of Students Office**](https://dso.charlotte.edu/)'s website: Includes important links for involvement & connections, advocacy & support, and rights & responsibilities
+- The [**Office of Civil Rights and Title IX**](https://civilrights.charlotte.edu/): They are committed to supporting the University’s mission of maintaining an environment conducive to learning for all students and a professional workplace for all employees. The website contains forms to report sexual and interpersonal misconduct as well as discrimination or harassment.
+- [**Jamil Niner Student Pantry**](https://ninerpantry.charlotte.edu/): The Jamil Niner Student Pantry provides food assistance to UNC Charlotte undergraduate and graduate students who struggle with food insecurity.
+- [**Niner Nation Cares**](https://ninernationcares.charlotte.edu/): Updates on Campus COVID-19 Safety Protocols.
+- [**Lactation Rooms at UNC Charlotte**](https://hr.uncc.edu/employee)
+- [**University Counseling Center**](counselingcenter.uncc.edu)
+- [**Student Health Center**](studenthealth.uncc.edu)
+- [**Office of Disability Services**](https://ds.charlotte.edu/)
+- [**Multicultural Resource Center**](https://identity.charlotte.edu/)
+- [**List of computer labs on campus**](https://spaces.charlotte.edu/pages/viewpage.action?pageId=3145889)
+- [**Atkins Library laptop lending program**](https://library.charlotte.edu/check-out-request/borrow-laptops)
+
+## Charlotte NC
+
+The UNC Charlotte's ADVANCE Team hasn an [**On the Town**](https://advance.charlotte.edu/programming/programs/resources-all-faculty/faculty-work-and-life-resources/town) with links that help you enjoy life in Charlotte NC. It includes information about chieldcare, transportantion, events, health, museums, sightseeing, threatres, sports, and more.
