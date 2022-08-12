@@ -134,7 +134,7 @@
 # 2020: FLAVi
 - id: doi:10.3390/v12080892
   image: https://www.mdpi.com/viruses/viruses-12-00892/article_deploy/html/images/viruses-12-00892-g009-550.jpg
-  tag:
+  tags:
     - character categorization
     - flaviviruses
     - gene annotation
@@ -178,7 +178,7 @@
 # 2019: Genome skimming
 - id: doi:10.7717/peerj.7543
   image: https://dfzljdn9uc3pi.cloudfront.net/2019/7543/1/fig-2-2x.jpg
-  tag:
+  tags:
     - genome skimming
     - invertebrates
     - mitogenome
@@ -194,7 +194,7 @@
 # 2018: A new strategy to infer circularity
 - id: doi:10.1002/ece3.3918
   image: https://onlinelibrary.wiley.com/cms/asset/e7a780bc-056a-4cb7-bd7c-2e8c1c554289/ece33918-fig-0001-m.jpg
-  tag:
+  tags:
     - amphibian
     - genome skimming
     - vertebrates
