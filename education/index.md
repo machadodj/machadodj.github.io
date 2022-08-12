@@ -16,7 +16,7 @@ nav:
 ## <i class="fas fa-school"></i>Teaching and training
 
 ### 2022
-- UNC Charlotte: **Machine Learning for Bioinformatics** (BINF-6210/BINF-8210)
+- UNC Charlotte: [**Machine Learning for Bioinformatics**](https://www.notion.so/phyloinformatics/Syllabus-58059c320c6244f48750514d0729a915) (BINF-6210/BINF-8210)
 
 ### 2021
 - Pennsylvania State University (PSU): [**A short two-part workshop on transcriptomics**](https://denisjacobmachado.wixsite.com/psu21)
@@ -26,4 +26,4 @@ nav:
 - Universidade de São Paulo (USP) [**Introduction to programming**](https://denisjacobmachado.wixsite.com/biz5788) (BIZ-5788)
 
 ### 2017
-- Universidad del Magdalena: Introduction to bioinformatics
+- Universidad del Magdalena: [**Introduction to bioinformatics**]
