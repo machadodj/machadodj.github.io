@@ -52,13 +52,10 @@ There are a number of resources that are made available by UNC Charlotte to the 
 - The [**Office of Civil Rights and Title IX**](https://civilrights.charlotte.edu/): They are committed to supporting the University’s mission of maintaining an environment conducive to learning for all students and a professional workplace for all employees. The website contains forms to report sexual and interpersonal misconduct as well as discrimination or harassment.
 - [**Jamil Niner Student Pantry**](https://ninerpantry.charlotte.edu/): The Jamil Niner Student Pantry provides food assistance to UNC Charlotte undergraduate and graduate students who struggle with food insecurity.
 - [**Niner Nation Cares**](https://ninernationcares.charlotte.edu/): Updates on Campus COVID-19 Safety Protocols.
-- [**Lactation Rooms at UNC Charlotte**](https://hr.uncc.edu/employee)
-- [**University Counseling Center**](counselingcenter.uncc.edu)
-- [**Student Health Center**](studenthealth.uncc.edu)
-- [**Office of Disability Services**](https://ds.charlotte.edu/)
-- [**Multicultural Resource Center**](https://identity.charlotte.edu/)
-- [**List of computer labs on campus**](https://spaces.charlotte.edu/pages/viewpage.action?pageId=3145889)
-- [**Atkins Library laptop lending program**](https://library.charlotte.edu/check-out-request/borrow-laptops)
+- [**Lactation Rooms at UNC Charlotte**](https://hr.charlotte.edu/employee-relations/lactation-room): Provides nursing mothers with a private place to express breast milk for her nursing child.
+- [**Christine F. Price Center for Counseling and Psychological Services**](https://caps.charlotte.edu/): The Center for Counseling at Psychological Services (CAPS) is a department within the Division of Student Affairs at UNC Charlotte. CAPS, along with the [Student Health Center](https://studenthealth.uncc.edu/), the [Center for Wellness Promotion](https://wellness.uncc.edu/), and [University Recreation](https://urec.uncc.edu/), is a component of Health and Wellbeing, an administrative unit whose primary goal is to provide comprehensive wellness-related programs and services to UNC Charlotte students.
+- See also: [**Student Health Center**](https://studenthealth.charlotte.edu/), [**Office of Disability Services**](https://ds.charlotte.edu/)
+- [**Multicultural Resource Center**](https://identity.charlotte.edu/), [**List of computer labs on campus**](https://spaces.charlotte.edu/pages/viewpage.action?pageId=3145889), and [**Atkins Library laptop lending program**](https://library.charlotte.edu/check-out-request/borrow-laptops)
 
 ## Charlotte NC
 
