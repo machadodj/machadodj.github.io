@@ -26,4 +26,4 @@ nav:
 - Universidade de São Paulo (USP) [**Introduction to programming**](https://denisjacobmachado.wixsite.com/biz5788) (BIZ-5788)
 
 ### 2017
-- Universidad del Magdalena: [**Introduction to bioinformatics**]
+- Universidad del Magdalena: **Introduction to bioinformatics**
