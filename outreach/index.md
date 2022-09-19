@@ -14,6 +14,19 @@ nav:
 <!--Event organization-->
 
 
+## <i class="fas fa-user-group"></i>Talks
+
+This subsection is a work in progress. Whenever possible, I'll add materials from recent oral presentations in here. Over time, I will also add older materials from older talks.
+
+### 2022
+
+- **Sept. 16, 2022**: "What is phyloinformatics and how can it help us respond faster to health emergencies?," at CCI's Academic Research Seminar -- Charlotte, NC, USA ([PDF](https://drive.google.com/file/d/1EC5uAxjaWelf0XsoTaTn0UgWNLBuIpMa/view?usp=sharing))
+
+{% include section.html %}
+
+<!--Event organization-->
+
+
 ## <i class="fas fa-user-group"></i>Event organization
 
 
