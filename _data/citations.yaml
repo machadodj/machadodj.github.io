@@ -1,6 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1186/s12863-022-01090-6
+  title: 'EchinoDB: an update to the web-based application for genomic and transcriptomic data on echinoderms'
+  authors:
+  - Varnika Mittal
+  - Robert W. Reid
+  - Denis Jacob Machado
+  - Vladimir Mashanov
+  - Daniel A. Janies
+  publisher: BMC Genomics
+  date: '2022-10-23'
+  link: https://doi.org/10.1186/s12863-022-01090-6
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12863-022-01090-6/MediaObjects/12863_2022_1090_Fig1_HTML.png?as=webp
+
+
 - id: doi:10.1186/s12864-022-08750-y
   title: 'Twinkle twinkle brittle star: the draft genome of Ophioderma brevispinum
     (Echinodermata: Ophiuroidea) as a resource for regeneration research'
