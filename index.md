@@ -61,7 +61,7 @@ In response to the continued increase in the risk of zoonoses, the Phyloinformat
 {% include link.html link="news" text="Recent developments" icon="fas fa-arrow-right" flip=true %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/News.png" link="news" title="news" flip=true text=text %}
+{% include feature.html image="images/News.png" link="news" title="News" flip=true text=text %}
 
 <!--Closing remarks-->
 
