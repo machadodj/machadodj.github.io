@@ -1,6 +1,6 @@
 ---
 name: Gabriel Massami Izumi de Freitas
-image: https://media-exp1.licdn.com/dms/image/C4D03AQExnTCcH1OtIQ/profile-displayphoto-shrink_200_200/0/1616635409596?e=1665014400&v=beta&t=5vNcI1BQS_N9ebol4dZm7LZ0eMvW5xpW3kIDuXLbXTE
+image: headshots/GabrielFreitas.jpg
 description: Bioinformaticist
 role: colab
 aliases:
