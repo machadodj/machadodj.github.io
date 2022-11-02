@@ -1,30 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1186/s12863-022-01090-6
-  title: 'EchinoDB: an update to the web-based application for genomic and transcriptomic data on echinoderms'
-  authors:
-  - Varnika Mittal
-  - Robert W. Reid
-  - Denis Jacob Machado
-  - Vladimir Mashanov
-  - Daniel A. Janies
-  publisher: BMC Genomics
-  date: '2022-10-23'
-  link: https://doi.org/10.1186/s12863-022-01090-6
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12863-022-01090-6/MediaObjects/12863_2022_1090_Fig1_HTML.png?as=webp
-  tags:
-  - echinoderms
-  - non-model organism
-  - genomics
-  - invertebates
-  - zoology
-  - gene annotation
-  - gene prediction
-  - mitogenome
-  - nuclear genome
-  - database
-
 - id: doi:10.1186/s12864-022-08750-y
   title: 'Twinkle twinkle brittle star: the draft genome of Ophioderma brevispinum
     (Echinodermata: Ophiuroidea) as a resource for regeneration research'
@@ -50,7 +26,6 @@
   - mitogenome
   - nuclear genome
   _cache: 6c0e4715a74cab11a101de747d00fb78311d78ac39bffcf4b34847bebdbcb844
-
 - id: doi:10.1186/s12983-022-00461-0
   title: A subterminal growth zone at arm tip likely underlies life-long indeterminate
     growth in brittle stars
@@ -75,7 +50,6 @@
   - regeneration
   - zoology
   _cache: b90bc624f4f5a4b9bf072796f820866548a1ac8baf010584c13ee850134207b7
-
 - id: doi:10.3389/fviro.2022.830202
   title: Predictions of the SARS-CoV-2 Omicron Variant (B.1.1.529) Spike Protein Receptor-Binding
     Domain Structure and Neutralizing Antibody Interactions
@@ -96,9 +70,9 @@
   - viruses
   - zoonoses
   _cache: c50ef8aea52b4f32460463af3e324bec7b3a0171f5d88552aa34b99aed51a5c9
-
 - id: doi:10.1017/ash.2021.222
-  title: Fundamentals of genomic epidemiology, lessons learned from the coronavirus disease 2019 (COVID-19) pandemic, and new directions
+  title: Fundamentals of genomic epidemiology, lessons learned from the coronavirus
+    disease 2019 (COVID-19) pandemic, and new directions
   authors:
   - Denis Jacob Machado
   - Richard Allen White
@@ -116,7 +90,6 @@
   - viruses
   - zoonoses
   _cache: 0f9a78e0a5d13bf5830ab38640c2045746a0d7a1b3625a2327731403e56c7b7c
-
 - id: doi:10.1111/cla.12454
   title: Fundamental evolution of all Orthocoronavirinae including three deadly lineages
     descendent from Chiroptera-hosted coronaviruses - SARS-CoV, MERS-CoV and SARS-CoV-2
@@ -141,9 +114,7 @@
   - sensitivity analyses
   - viruses
   - zoonoses
-  - web app
   _cache: 987cd70412948f0285919deafd85c361627b32c576dc51df488b9f3ba0b1765e
-
 - id: doi:10.1111/cla.12496
   title: An empirical test of the relationship between the bootstrap and likelihood
     ratio support in maximum likelihood phylogenetic analysis
@@ -163,7 +134,6 @@
   - sensitivity analyses
   - maximum likelihood
   _cache: df99fca5dde5ad8f9c2d020acec0b92c4a38fe0b2c5c9d106344384efac513d6
-
 - id: doi:10.1016/j.ympev.2020.106966
   title: 'Evidence of absence treated as absence of evidence: The effects of variation
     in the number and distribution of gaps treated as missing data on the results
@@ -184,7 +154,6 @@
   - sensitivity analyses
   - maximum likelihood
   _cache: 27671d2bd3a2ac35c865d174483364c04d6a3413f9221f8f1b7ec6865e0c263d
-
 - id: doi:10.1111/cla.12429
   title: 'The phylogeny of Dendropsophini (Anura: Hylidae: Hylinae)'
   authors:
@@ -222,7 +191,6 @@
   - zoological taxonomy
   - zoology
   _cache: 32e6995a81495ec4fc797a140f09b11b4d1cf74a2e94cd852ad1b363f3128a87
-
 - id: doi:10.3389/fgene.2021.788871
   title: 'Comparative Characterization of Mitogenomes From Five Orders of Cestodes
     (Eucestoda: Tapeworms)'
@@ -245,7 +213,6 @@
   - parasitology
   - zoology
   _cache: 21e7330be335d10a2406454027e32854a8f833db5e835907ccaeddb9db8d0832
-
 - id: doi:10.3390/v12080892
   title: 'FLAVi: An Enhanced Annotator for Viral Genomes of Flaviviridae'
   authors:
@@ -270,7 +237,6 @@
   - viruses
   - zoonoses
   _cache: 33d6d0aa2fdd128f703e7484d7e94a764159fa685ce029dc6c67587398a98be4
-
 - id: doi:10.1371/journal.pone.0232981
   title: Active Notch signaling is required for arm regeneration in a brittle star
   authors:
@@ -294,7 +260,6 @@
   - regeneration
   - zoology
   _cache: fd688840647d99734aecca5a8f1b43a95fa2cddf1662a5c2cc28022da22172c1
-
 - id: doi:10.1016/j.ygeno.2019.10.007
   title: 'The first complete mitochondrial genome of the sand dollar Sinaechinocyamus
     mai (Echinoidea: Clypeasteroida)'
@@ -322,7 +287,6 @@
   - non-model organism
   - zoology
   _cache: 4ef892c72c0642ffc7636601c11efc6b3dff84f017b608845fda499f463ff4b8
-
 - id: doi:10.7717/peerj.7543
   title: Genome skimming is a low-cost and robust strategy to assemble complete mitochondrial
     genomes from ethanol preserved specimens in biodiversity studies
@@ -343,7 +307,6 @@
   - non-model organism
   - zoology
   _cache: 2ca2fd95e88a62d18318c8c660ce65c4c9504b92b220a72b858f409d90c81375
-
 - id: doi:10.1002/ece3.3918
   title: A new strategy to infer circularity applied to four new complete frog mitogenomes
   authors:
@@ -364,7 +327,6 @@
   - sensitivity analyses
   - zoology
   _cache: aa1510732969ef362676652ca275b79f6919bee5614e35dc818e8b79f7ff1020
-
 - id: doi:10.2994/SAJH-D-17-00017.1
   title: 'Phylogenetic Systematics of Dart-Poison Frogs and Their Relatives Revisited
     (Anura: Dendrobatoidea)'
@@ -390,7 +352,6 @@
   - zoological taxonomy
   - zoology
   _cache: 6a9dc374f6971d02faa58caff311b1649b9d220f40926999d76d829fa0e4767b
-
 - id: doi:10.1111/1755-0998.12492
   title: 'Mitogenome assembly from genomic multiplex libraries: comparison of strategies
     and novel mitogenomes for five species of frogs'
@@ -410,7 +371,6 @@
   - non-model organism
   - zoology
   _cache: 5015ae4a0de86051178d0f2d4ac01f7f390e22923511ec250bd4c4a96a9d6df3
-
 - id: doi:10.1186/s12859-015-0642-9
   title: "YBYR\xC1 facilitates comparison of large phylogenetic trees"
   authors:
@@ -426,9 +386,7 @@
   - topological distances
   - tree comparison
   - wildcard taxa
-  - software
   _cache: 0c83a75fe03ddfb31d7cf2bb186fd8737f6fde0bfeb2bcb3ca24ddcf2b5d1f2d
-
 - id: doi:10.11646/zootaxa.3505.1.7
   title: 'The forgotten origin of Acanthobothrium Blanchard, 1848 (Tetraphyllidea:
     Onchobothriidae)'
