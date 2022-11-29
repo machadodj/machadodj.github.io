@@ -69,7 +69,7 @@ In response to the continued increase in the risk of zoonoses, the Phyloinformat
 
 **The Phyloinformatics Lab promotes equity, equality, diversity, and inclusion** in STEM, other academic fields, and the industry. We strive to be a safe and inclusive workspace by creating a sense of community and providing multiple ways for our team to learn, communicate, succeed, and connect new ideas to goals.
 
-We have one [postdoc position open](https://phyloinformatics.com/2022/11/02/POST40.html) and are looking for a Ph.D. student to start on August 2023.
+We have one [postdoc position open](https://phyloinformatics.com/2022/11/02/POST40.html). Additionally, we are always interested in helping talented graduate students through the Master's program in Bioinformatics or the Ph.D. program in Bioinformatics and Computational Biology at UNC Charlotte's College of Computing and Informatics. [Click here](https://cci.charlotte.edu/graduate-programs) to learn more about these graduate programs.
 
 {:.center}
 {% include link.html type="contact" icon="" text="Contact" link="contact" style="button" %}
