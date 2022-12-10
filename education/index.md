@@ -16,7 +16,7 @@ nav:
 ## <i class="fas fa-school"></i>Teaching and training
 
 ### 2022
-- UNC Charlotte: [**Machine Learning for Bioinformatics**](https://www.notion.so/phyloinformatics/Syllabus-58059c320c6244f48750514d0729a915) (BINF-6210/BINF-8210)
+- UNC Charlotte: [**Machine Learning for Bioinformatics**](https://gitlab.com/phyloinformatics/malebi22) (BINF-6210/BINF-8210 combined), an ellective graduate level course (3 credits) at the UNC Charlotte's Department of Bioinformatics and Genomics
 
 ### 2021
 - Pennsylvania State University (PSU): [**A short two-part workshop on transcriptomics**](https://denisjacobmachado.wixsite.com/psu21)
