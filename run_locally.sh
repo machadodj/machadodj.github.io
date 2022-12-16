@@ -4,5 +4,5 @@
 # Icons cheat sheet: https://kapeli.com/cheat_sheets/Font_Awesome.docset/Contents/Resources/Documents/index
 python3 ./auto-cite/auto-cite.py
 wait
-# bundle exec jekyll serve
+bundle exec jekyll serve
 bundle exec jekyll serve --open-url --livereload --trace
