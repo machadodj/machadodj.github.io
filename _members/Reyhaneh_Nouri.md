@@ -2,7 +2,7 @@
 name: Reyhaneh Nouri
 image: headshots/ReyhanehNouri.jpg
 description: Ph.D. student (rotation)
-role: graduate
+role: pdh
 aliases:
   - Reyhaneh Nouri
   - R. Nouri
