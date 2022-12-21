@@ -1,5 +1,5 @@
 ---
-name: Elton Popp Antunes
+name: Elton Popp Antunes (he/him)
 image: headshots/EltonPoppAntunes.jpg
 description: Zoologist
 role: colab

@@ -1,5 +1,5 @@
 ---
-name: Taran Grant
+name: Taran Grant (he/him)
 image: headshots/TaranGrant.jpg
 description: Professor
 role: colab

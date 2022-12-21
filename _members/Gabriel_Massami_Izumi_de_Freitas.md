@@ -1,5 +1,5 @@
 ---
-name: Gabriel Massami Izumi de Freitas
+name: Gabriel Massami Izumi de Freitas (he/him)
 image: headshots/GabrielFreitas.jpg
 description: Bioinformaticist
 role: colab

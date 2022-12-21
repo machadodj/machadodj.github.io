@@ -1,5 +1,5 @@
 ---
-name: Kary Ocaña
+name: Kary Ocaña (she/her)
 image: headshots/KaryOcana.jpg
 description: Full Researcher
 role: colab

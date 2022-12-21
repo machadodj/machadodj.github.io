@@ -1,5 +1,5 @@
 ---
-name: Denis Jacob Machado
+name: Denis Jacob Machado (he/him)
 image: headshots/DenisJacobMachado.jpg
 description: Assistant Professor
 role: pi
