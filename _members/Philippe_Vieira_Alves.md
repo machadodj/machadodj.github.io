@@ -1,6 +1,6 @@
 ---
 name: Philippe Vieira Alves (he/him)
-image: headshots/PhilippeVieiraAlves.jpg
+image: headshots/Philippe_Vieira_Alves.jpg
 description: Postdoctoral Fellow
 role: colab
 aliases:
