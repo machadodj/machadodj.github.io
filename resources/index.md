@@ -40,6 +40,12 @@ This section may include materials that were not produced by the Phyloinformatic
 
 {% include list.html component="card" data="tools" filters="group: template" style="small" %}
 
+## Phyloinformatics Lab
+
+This section is dedicate to internal paperwork of the Phyloinformatics Lab.
+
+{% include list.html component="card" data="tools" filters="group: lab" style="small" %}
+
 ## UNC Charlotte
 
 There are a number of resources that are made available by UNC Charlotte to the 49ners community.

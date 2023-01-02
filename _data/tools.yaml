@@ -114,6 +114,16 @@
     - slides
     - template
 
+- title: Mentor-Mentee Agreement
+  subtitle: Phyloinformatics Lab's Documents
+  group: lab
+  image: images/paperwork.jpg
+  link: https://docs.google.com/document/d/1P1_ud7Zez0gDoVof5bAKc84VZbpcHU2mWheam4KMPOE/edit?usp=sharing
+  description: Most up-to-date version of the Phloinformatics Lab's Mentor-Mentee Agreement.
+  tags:
+    - paperwork
+    - template
+
 - title: UNC Charlotte's
   subtitle: Resources for the 49ners
   group: niners
