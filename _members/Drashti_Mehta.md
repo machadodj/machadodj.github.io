@@ -1,7 +1,7 @@
 ---
 name: Drashti Mehta (she/her)
 image: headshots/DrashtiMehta.jpg
-description: Ph.D. student (rotation)
+description: Master's student (intern)
 role: msc
 aliases:
   - Drashti Mehta
