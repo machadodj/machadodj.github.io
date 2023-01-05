@@ -12,4 +12,8 @@ links:
   linkedin: https://www.linkedin.com/in/reyhaneh-nouri/
 ---
 
-Reyhaneh Nouri (she/her) is a Ph.D. student in bioinformatics at UNC Charlotte. Since Nov. 2021, she has been working as a Graduate Research Assistant at UNC Charlotte's Dept. of Bioinformatics and Genomics.
+Hello!
+
+I am Iranian, and my pronouns are she/her. I received my Pharm.D. from Islamic Azad University, Tehran Medical Sciences branch. Pharmaceutical sciences' computational applications sparked my interest in bioinformatics. Therefore, I decided to pursue a graduate degree in this field. Currently, I am a Ph.D. student in bioinformatics and computational biology at UNC Charlotte.
+
+Before joining the Phyloinformatics Lab, I worked as a research assistant on Drs. Cynthia Gibas and Jessica Schlueter's COVID-19 wastewater surveillance project. Now, I am interested in studying machine learning applications in One Health.
