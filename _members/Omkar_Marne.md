@@ -9,8 +9,8 @@ aliases:
   - Marne, O.
   - Marne, Omkar
 links:
-  linkedin: https://www.linkedin.com/in/omkar-marne-919592122/
-  github: https://github.com/root2omkar
+  linkedin: omkar-marne-919592122
+  github: root2omkar
 ---
 
 I am a Ph.D. student in UNC Charlotte's Department of Bioinformatics and Genomics. I have a Master's in information technology and Bachelor in computer science. My interest in bioinformatics comes from its pivotal role in developing vaccines against coronavirus disease 2019 (COVID-19).

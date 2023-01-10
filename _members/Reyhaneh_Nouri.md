@@ -9,7 +9,7 @@ aliases:
   - Nouri, R.
   - Nouri, Reyhaneh
 links:
-  linkedin: https://www.linkedin.com/in/reyhaneh-nouri/
+  linkedin: reyhaneh-nouri
 ---
 
 Hello!

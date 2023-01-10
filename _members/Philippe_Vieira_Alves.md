@@ -15,8 +15,8 @@ aliases:
   - Philippe Alves
   - P. Alves
 links:
-  linkedin: https://www.linkedin.com/in/philippe-alves-06070272/
-  twitter: https://twitter.com/PhilippeVieir14
+  linkedin: philippe-alves-06070272/
+  twitter: PhilippeVieir14
   google-scholar: https://scholar.google.com.br/citations?user=tJZhB9wAAAAJ&hl=pt-BR
   external: https://www.researchgate.net/profile/Philippe-Alves
 ---
