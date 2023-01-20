@@ -98,7 +98,7 @@ Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the Unive
 
 # Education
 
-- **Ph.D.** (_Bioinformatics_): Universidade de São Paulo (USP), São Paulo–SP, Brazil, 2018
+- **Ph.D.** (_Bioinformatics_): Universidade de São Paulo (USP), São Paulo–SP, Brazil, 2018 ([click here](https://www.teses.usp.br/teses/disponiveis/95/95131/tde-20012023-095836/pt-br.php) for the dissertation; doi: [10.11606/T.95.2018.tde-20012023-095836](https://doi.org/10.11606/T.95.2018.tde-20012023-095836))
 - **M.Sc.** (_Zoology_): Universidade de São Paulo (USP), São Paulo–SP, Brazil, 2013
 - **B.Sc.** (_Biological Sciences_/ _Marine Biology_): Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP), São Vicente–SP, Brazil, 2009
 
