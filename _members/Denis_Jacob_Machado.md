@@ -73,7 +73,7 @@ Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the Unive
 **Postdoctoral Researcher**, _University of North Carolina at Charlotte_, Charlotte--NC, USA.
 
 - I studied the origins, evolution, and zoonotic events of coronaviruses. I also employed big data analysis to categorize different variants of SARS-CoV-2 and applied deep learning techniques to produce highly accurate structure predictions of their proteins.
-- I predict how structural changes in the receptor-binding domain pf the spike protein of different variants of SARS-CoV-2 may reduce antibody interaction without completely evading existing neutralizing antibodies (and therefore current vaccines).
+- I predict how structural changes in the receptor-binding domain of the spike protein of different variants of SARS-CoV-2 may reduce antibody interaction without completely evading existing neutralizing antibodies (and therefore current vaccines).
 - I created the first programs for gene prediction and annotation of Orthocoronavirinae (including SARS-COV-2) and Flaviviridae (including Hepatites C, yellow fever, dengue, and Zika virus) and deployed the pipelines as a web application.
 - Produced draft genomes of highly regenerative echinoderms such as brittle stars and sea cucumbers for comparative genomics and tissue regeneration research.
 
