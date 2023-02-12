@@ -47,7 +47,7 @@ links:
 %}
 {:.center}
 
-Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the University of North Carolina at Charlotte (UNC Charlotte), College of Computing and Informatics (CCI), Department of Bioinformatics and Genomics (BiG), starting on Aug. 15, 2022. He was one of the first hires of the Computational Intelligence to Predict Health and Environmental Risks (CIPHER) research center. He is also the first Latine faculty at UNC Charlotte's BiG.
+Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the University of North Carolina at Charlotte (UNC Charlotte), College of Computing and Informatics (CCI), Department of Bioinformatics and Genomics (BiG), starting on Aug. 15, 2022. He was one of the first hires of the Computational Intelligence to Predict Health and Environmental Risks (CIPHER) research center.
 
 # Highlights
 
@@ -55,9 +55,9 @@ Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the Unive
 
 - 3+ years of experience using **machine learning** (e.g., PyTorch, TensorFlow), **predictive modeling**, **high-throughput data processing**, and **data mining** algorithms to solve practical problems.
 
-- 10+ years of experience in **molecular biology**, **high-throughput sequencing** (e.g., Illumina, PacBio, Hi-C, GWAS, and RNA-Seq), and sequence assembly, and differential gene expression analyses.
+- 10+ years of experience in **molecular biology**, **high-throughput sequencing** (e.g., Illumina, PacBio, Hi-C, GWAS, and RNA-Seq), sequence assembly, and differential gene expression analyses.
 
-- Concepts used in my current and past projects include Python, Flask, R, Shiny, Tableu, SQL, Git, Jupyter, AlphaFold2, RoseTTAFold, HADDOCK, SQL, and AWS.
+- Concepts used in my current and past projects include Python, Flask, R, Shiny, Tableau, SQL, Git, Jupyter, AlphaFold2, RoseTTAFold, HADDOCK, SQL, and AWS.
 
 # Experience
 
@@ -73,8 +73,8 @@ Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the Unive
 **Postdoctoral Researcher**, _University of North Carolina at Charlotte_, Charlotte--NC, USA.
 
 - I studied the origins, evolution, and zoonotic events of coronaviruses. I also employed big data analysis to categorize different variants of SARS-CoV-2 and applied deep learning techniques to produce highly accurate structure predictions of their proteins.
-- I predict how structural changes in the receptor-binding domain of the spike protein of different variants of SARS-CoV-2 may reduce antibody interaction without completely evading existing neutralizing antibodies (and therefore current vaccines).
-- I created the first programs for gene prediction and annotation of Orthocoronavirinae (including SARS-COV-2) and Flaviviridae (including Hepatites C, yellow fever, dengue, and Zika virus) and deployed the pipelines as a web application.
+- I predict how structural changes in the receptor-binding domain of the spike protein of different variants of SARS-CoV-2 may reduce antibody interaction without completely evading existing neutralizing antibodies (and, therefore, current vaccines).
+- I created the first programs for gene prediction and annotation of *Orthocoronavirinae* (including SARS-COV-2) and *Flaviviridae* (including Hepatites C, yellow fever, dengue, and Zika virus) and deployed the pipelines as web applications.
 - Produced draft genomes of highly regenerative echinoderms such as brittle stars and sea cucumbers for comparative genomics and tissue regeneration research.
 
 ## 2018–2019
@@ -87,14 +87,14 @@ Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the Unive
 
 **Invited Lecturer**, _Universidade de São Paulo_, São Paulo--SP, Brazil.
 
-- I created and taught the first graduate-level courses in bioinformatics and computer programming for biologists at USP’s Graduate Program in Zoology, which is ranked first in animal research worldwide.
+- I created and taught the first graduate-level courses in bioinformatics and computer programming for biologists at USP’s Graduate Program in Zoology, ranked first in animal research worldwide for several years.
 
 ## 2017
 
 **Invited Lecturer**, _Universidad del Magdalena_, Santa Marta D.T.C.H., Colombia.
 
 - I designed and taught the first course in bioinformatics at the University of Magdalena. Classes included practical and theoretical lessons on DNA extraction and isolation, high-throughput sequencing, sequence alignment, reference, and de novo genome assembly, and gene prediction and annotation.
-- I also offered consultation to faculty members involved in animal research who needed web and dry lab solutions for next-generation sequence analyses
+- I also consulted to faculty members involved in animal research who needed web and dry lab solutions for next-generation sequence analyses.
 
 # Education
 
