@@ -1,6 +1,50 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2023.02.10.528025
+  title: Predicting changes in neutralizing antibody activity for SARS-CoV-2 XBB.1.5
+    using<i>in silico</i>protein modeling
+  authors:
+  - Colby T. Ford
+  - Shirish Yasa
+  - Denis Jacob Machado
+  - Richard Allen White
+  - Daniel Janies
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-02-13'
+  link: https://doi.org/grw7rv
+  image: https://upload.wikimedia.org/wikipedia/commons/8/82/SARS-CoV-2_without_background.png
+  tags:
+  - artificial intelligence
+  - genomic epidemiology
+  - molecular docking
+  - phylogenetics
+  - sensitivity analyses
+  - viruses
+  - zoonoses
+  _cache: 6476aa74e01eab75d2911d6b06a373134801f0bdce97700d24d38ece6638261b
+- id: doi:10.1186/s12863-022-01090-6
+  title: 'EchinoDB: an update to the web-based application for genomic and transcriptomic
+    data on echinoderms'
+  authors:
+  - Varnika Mittal
+  - Robert W. Reid
+  - Denis Jacob Machado
+  - Vladimir Mashanov
+  - Daniel A. Janies
+  publisher: BMC Genomic Data
+  date: '2022-10-23'
+  link: https://doi.org/grw7rw
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12863-022-01090-6/MediaObjects/12863_2022_1090_Fig1_HTML.png?as=webp
+  tags:
+  - echinoderms
+  - non-model organism
+  - genomics
+  - invertebates
+  - zoology
+  - database
+  - softare
+  _cache: 7516badf6b5595564e8308d8d84a47f777a4d78f4aefdecb76383d21eff8d0c6
 - id: doi:10.1186/s12864-022-08750-y
   title: 'Twinkle twinkle brittle star: the draft genome of Ophioderma brevispinum
     (Echinodermata: Ophiuroidea) as a resource for regeneration research'
@@ -133,7 +177,8 @@
   - clade frequencies
   - sensitivity analyses
   - maximum likelihood
-  _cache: df99fca5dde5ad8f9c2d020acec0b92c4a38fe0b2c5c9d106344384efac513d6
+  - software
+  _cache: 204c7afd121183e271207a370d9b3477d35a3369d0ae7ec20cf8c61ecd3a4557
 - id: doi:10.1016/j.ympev.2020.106966
   title: 'Evidence of absence treated as absence of evidence: The effects of variation
     in the number and distribution of gaps treated as missing data on the results
@@ -236,7 +281,8 @@
   - sensitivity analyses
   - viruses
   - zoonoses
-  _cache: 33d6d0aa2fdd128f703e7484d7e94a764159fa685ce029dc6c67587398a98be4
+  - software
+  _cache: de1e8d4fc3f2cf2a9b035f57b1ff8505dbd48cc6c2ead35c0ff21efc09dc8109
 - id: doi:10.1371/journal.pone.0232981
   title: Active Notch signaling is required for arm regeneration in a brittle star
   authors:
@@ -326,7 +372,8 @@
   - non-model organism
   - sensitivity analyses
   - zoology
-  _cache: aa1510732969ef362676652ca275b79f6919bee5614e35dc818e8b79f7ff1020
+  - software
+  _cache: b22baeace90370d2efeb451f49a086841aa2b78ff7f6b2c10fb8fc7632a38ab6
 - id: doi:10.2994/SAJH-D-17-00017.1
   title: 'Phylogenetic Systematics of Dart-Poison Frogs and Their Relatives Revisited
     (Anura: Dendrobatoidea)'
@@ -370,7 +417,8 @@
   - mitogenome
   - non-model organism
   - zoology
-  _cache: 5015ae4a0de86051178d0f2d4ac01f7f390e22923511ec250bd4c4a96a9d6df3
+  - software
+  _cache: 05dd68219e08c9c4e94aadcd85ad31802ca57bf7f250c39a27bfe53cdbb908b9
 - id: doi:10.1186/s12859-015-0642-9
   title: "YBYR\xC1 facilitates comparison of large phylogenetic trees"
   authors:
@@ -386,7 +434,8 @@
   - topological distances
   - tree comparison
   - wildcard taxa
-  _cache: 0c83a75fe03ddfb31d7cf2bb186fd8737f6fde0bfeb2bcb3ca24ddcf2b5d1f2d
+  - software
+  _cache: 7f5e5cd4cd36ec58731254415a0b561bbbab8679ec0653bea3b81ce904127bd5
 - id: doi:10.11646/zootaxa.3505.1.7
   title: 'The forgotten origin of Acanthobothrium Blanchard, 1848 (Tetraphyllidea:
     Onchobothriidae)'
