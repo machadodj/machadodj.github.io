@@ -16,7 +16,6 @@ aliases:
   - Oliveira, P.
 links:
   linkedin: paula-prieto-oliveira-7a0698a6/
-  google-scholar: https://scholar.google.com/citations?user=jkGPjjMAAAAJ&hl=pt-BR&oi=sra
   external: https://www.researchgate.net/profile/Paula-Prieto-Oliveira
 ---
 
