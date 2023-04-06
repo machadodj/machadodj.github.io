@@ -104,4 +104,4 @@ Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the Unive
 
 # Random links
 
-- [Click here](https://youtu.be/fUwCwPK6DC8) to learn how to pronounce Denis Jacob Machado in (Brazilian) Portuguese.
+- My first name is Denis and my last name is Jacob Machado. I don't have a middle name. [Click here](https://youtu.be/fUwCwPK6DC8) to learn how to pronounce my full name, Denis Jacob Machado, in (Brazilian) Portuguese.
