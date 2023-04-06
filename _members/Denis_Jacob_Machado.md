@@ -66,7 +66,7 @@ Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the Unive
 **Assistant Professor in Bioinformatics**, _University of North Carolina at Charlotte_, Charlotte--NC, USA.
 
 - Head of the Phyloinformatics Lab at the College of Computing in Informatics (CCI), Department of Bioinformatics and Genomics (BiG), Computational Intelligence to Predict Health and Environmental Risks (CIPHER) research center.
-- BiG's first Latine faculty.
+- Dr. Jacob Machado is Brazilian. He was BiG's first Latine faculty.
 
 ## 2019–2022
 
