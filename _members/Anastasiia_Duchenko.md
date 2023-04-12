@@ -1,13 +1,13 @@
 ---
-name: Anastasiia Duckenko (she/her)
+name: Anastasiia Duchenko (she/her)
 image: headshots/AnastasiiaDuchenko.jpg
 description: Phylogenetics and Artificial Intelligence Specialist
 role: tech
 aliases:
-  - Anastasiia Duckenko
-  - A. Duckenko
-  - Duckenko, Anastasiia
-  - Duckenko, A.
+  - Anastasiia Duchenko
+  - A. Duchenko
+  - Duchenko, Anastasiia
+  - Duchenko, A.
 links:
   linkedin: anastasiia-duchenko-bb720a130
 ---
