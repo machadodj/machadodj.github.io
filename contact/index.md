@@ -61,3 +61,19 @@ You can mail Dr. Denis Jacob Machado at 9331 Robert D. Snyder Rd, Office 321,  C
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
+
+{% capture col1 %}
+{%
+include figure.html
+image="images/Patio1.jpg"
+caption="Campus view from the CIPHER center"
+%}
+{% endcapture %}
+{% capture col2 %}
+{%
+include figure.html
+image="images/Patio2.jpg"
+caption="The CIPHER's patio"
+%}
+{% endcapture %}
+{% include two-col.html col1=col1 col2=col2 %}
