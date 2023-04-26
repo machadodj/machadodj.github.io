@@ -32,7 +32,7 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 ### 2023
 
 - **April 28, 2023**: "Are there alkaloid-resistance mutations in _Phyllobates terribilis_’ sodium channels?" by R. Nouri and D. Jacob Machado. Poster presenter at the Spring graduate poster session of UNC Charlotte's Dept. of Bioinformatics and Genomics -- Charlotte, NC, USA ([Google Drive](https://drive.google.com/drive/folders/1Buv7pVdwTh9bZcWi2RVl-i89VYDgFkt8?usp=sharing))
-- **April 28, 2023**: "A phylogenomics and machine learning framework for discriminating SARS-CoV-2 variants" by O. Marne and D. Jacob Machado. Poster presenter at the Spring graduate poster session of UNC Charlotte's Dept. of Bioinformatics and Genomics -- Charlotte, NC, USA ([Google Drive](https://drive.google.com/drive/folders/1Buv7pVdwTh9bZcWi2RVl-i89VYDgFkt8?usp=sharing))
+- **April 28, 2023**: "A phylogenomics and machine learning framework for discriminating SARS-CoV-2 variants" by O. Marne and D. Jacob Machado. Poster presenter at the Spring graduate poster session of UNC Charlotte's Dept. of Bioinformatics and Genomics -- Charlotte, NC, USA ([Google Drive](https://drive.google.com/drive/folders/1Nzj7uxV1kpH8VrH9PiVj9ir06YuA9UBJ?usp=sharing))
 
 {% include section.html %}
 
