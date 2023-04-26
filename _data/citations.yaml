@@ -1,18 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1101/2023.02.10.528025
+- id: doi:10.3389/fviro.2023.1172027
   title: Predicting changes in neutralizing antibody activity for SARS-CoV-2 XBB.1.5
-    using<i>in silico</i>protein modeling
+    using in silico protein modeling
   authors:
   - Colby T. Ford
   - Shirish Yasa
   - Denis Jacob Machado
   - Richard Allen White
-  - Daniel Janies
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-02-13'
-  link: https://doi.org/grw7rv
+  - Daniel A. Janies
+  publisher: Frontiers in Virology
+  date: '2023-01-01'
+  link: https://doi.org/gr6j35
   image: https://upload.wikimedia.org/wikipedia/commons/8/82/SARS-CoV-2_without_background.png
   tags:
   - artificial intelligence
@@ -22,7 +22,7 @@
   - sensitivity analyses
   - viruses
   - zoonoses
-  _cache: 6476aa74e01eab75d2911d6b06a373134801f0bdce97700d24d38ece6638261b
+  _cache: 91e88ef50f56300924bb15450d5d6f31f149328d4f0a332e905d6941e87a595d
 - id: doi:10.1186/s12863-022-01090-6
   title: 'EchinoDB: an update to the web-based application for genomic and transcriptomic
     data on echinoderms'
