@@ -6,9 +6,9 @@ title: Home
 
 # Phyloinformatics
 
-We call **phyloinformactis** the approach that uses computational intelligence and phylogenetics to create an evolutionary framework to integrate multi-omics data to answer practical questions in **One Health**.
+We call **phyloinformatics** the approach that uses computational intelligence and phylogenetics to create an evolutionary framework to integrate multi-omics data to answer practical questions in **One Health**.
 
-**One Health** is the collaborative efforts of multiple disciplines working locally, nationally, and globally to attain optimal human, animal, plant, and environmental health. Although One Health is not new, the Phyloinformatics Lab recognizes that it has become more critical in recent years. Factors that make One Health essential include the increased risk of zoonotic diseases due to contact between humans and wild animals. Additional factors are urbanization, destruction of natural habitats, climate change, and the movent of people and animals due to travel and global trade, among other factors.
+**One Health** is the collaborative efforts of multiple disciplines working locally, nationally, and globally to attain optimal human, animal, plant, and environmental health. Although One Health is not new, the Phyloinformatics Lab recognizes that it has become more critical in recent years. Factors that make One Health essential include the increased risk of zoonotic diseases due to contact between humans and wild animals. Additional factors are urbanization, destruction of natural habitats, climate change, and the moving of people and animals due to travel and global trade, among other factors.
 
 In response to the continued increase in the risk of zoonoses, our lab has two main lines of research. **First**, investigate new pathogens' emergence, evolution, and spread, focusing on preventing and treating infectious diseases. **Second**, create computational and molecular solutions to make data from biorepositories more readily available to biomedical research.
 
