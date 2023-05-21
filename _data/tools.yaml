@@ -75,6 +75,18 @@
     - guides
     - tutorials
 
+- title: Nanodrop and Qubit
+  subtitle: How To Use
+  group: guide
+  image: images/dna_helix.jpg
+  link: https://phyloinformatics.notion.site/Nanodrop-and-Qubit-614d5dde66714904bda10f6b0ff909d2
+  description: How to use the Nanodrop and Qubit instruments available in CIPHER's wet labs
+  tags:
+    - tips
+    - guides
+    - tutorials
+    - wet lab
+
 - title: SLURM
   subtitle: How To Use
   group: guide
