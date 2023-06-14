@@ -13,10 +13,13 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 {% include section.html %}
 
-<!--Event organization-->
+<!--Oral Presentations-->
+
+- - **Sept. 16, 2022**: "What is phyloinformatics and how can it help us respond faster to health emergencies?," a talk prepared as response to an invitation from [Dr. Jhon Ospina-Sarria](https://orcid.org/0000-0002-9099-7793) -- [Calima Foundation](https://en.fundacioncalima.org/), Cali, Valle del Cauca, Colombia ([PDF](https://drive.google.com/file/d/1FZQ5azNeGHLWIiACQTEnYvwRDuvy5vGp/view?usp=sharing))
 
 
 ## <i class="fas fa-user-group"></i>Talks
+
 
 ### 2022
 
