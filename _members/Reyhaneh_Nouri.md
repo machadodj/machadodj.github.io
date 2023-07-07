@@ -1,7 +1,7 @@
 ---
 name: Reyhaneh Nouri (she/her)
 image: headshots/ReyhanehNouri.jpg
-description: Ph.D. student (rotation)
+description: Ph.D. student
 role: phd
 aliases:
   - Reyhaneh Nouri

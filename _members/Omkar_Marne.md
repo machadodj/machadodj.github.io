@@ -1,7 +1,7 @@
 ---
 name: Omkar Marne (he/him)
 image: headshots/OmkarMarne.jpg
-description: Ph.D. student (rotation)
+description: Ph.D. student
 role: phd
 aliases:
   - Omkar Marne
