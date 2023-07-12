@@ -15,15 +15,12 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 <!--Oral Presentations-->
 
-### 2023
+## <i class="fas fa-user-group"></i>Talks
 
+### 2023
 
 - **July 11, 2023**: "Combining phylogenetic and artificial intelligence to unravel viral recombination," a talk given at the XL Annual Meeting of the [Willi Hennig Society](https://cladistics.org/) -- Cornell University, Ithaca, N.Y., U.S.A. ([PDF](https://drive.google.com/file/d/1jupSdnD0Q2mxHt-unEpYUua6c36laA0N/view?usp=sharing))
 - **June 15, 2023**: "What is phyloinformatics and how can it help us respond faster to health emergencies?," a talk prepared as response to an invitation from [Dr. Jhon Ospina-Sarria](https://orcid.org/0000-0002-9099-7793) -- [Calima Foundation](https://en.fundacioncalima.org/), Cali, Valle del Cauca, Colombia ([PDF](https://drive.google.com/file/d/1FZQ5azNeGHLWIiACQTEnYvwRDuvy5vGp/view?usp=sharing))
-
-
-## <i class="fas fa-user-group"></i>Talks
-
 
 ### 2022
 
