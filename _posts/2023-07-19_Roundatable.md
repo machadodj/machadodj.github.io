@@ -29,7 +29,6 @@ Our guest will be Dr. Kary Ocaña is a researcher at National Laboratory of Scie
 - Address: National Laboratory of Scientific Computing (LNCC), Bioinformatics Laboratory (LABINFO). Avenida Getúlio Vargas 333, Quitandinha 25651075--Petrópolis, RJ--Brasil, PO box 68511.
 - Contact: karyann [at] lncc [dot] br
 
-
 ## Moderator
 
 Our moderator will be Dr. Denis Jacob Machado. He is an assistant professor in bioinformatics and head of CIPHER’s phyloinformatics lab. Dr. Jacob Machado is interested in integrating omics technologies in One Health's context, utilizing evolutionary analyses and artificial intelligence.

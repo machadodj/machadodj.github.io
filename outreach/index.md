@@ -45,6 +45,21 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 ## <i class="fas fa-user-group"></i>Event organization
 
+## The "Phylogenetics as Applied to Infectious Diseases" Symposium at the XL Hennig Meeting
+
+This symposium was organized by Drs. Daniel Janies and Denis Jacob Machado at the [The XL Annual Meeting of the Willi Hennig Society](https://cladistics.org/2023/03/01/hennig-xl-annual-meeting/) (Cornell University, Ithaca, NY July 9th -13th, 2023). The symposium took place on July 11, 2023.
+
+### Program
+- 1:30-2:10 pm, Janies: “Phylogenetics as applied to infectious diseases”
+- 2:10-3 pm, Czech & Stamatakis: “Leveraging phylogenetic placement to understand the environmental drivers of microbial community composition”
+- 3-3:40pm, Dornburg, Hassler, and Townsend: “An evolving future for pandemic preparedness: evolutionary medicine and phylogenetic comparative methods inform the durability of SARS-CoV-2 immunity”
+- 4:10-4:50 pm, Ocaña, Silva, Coelho, Terra, & Osthoff: “Phylogenetic and evolutionary analysis of dengue virus serotypes in Brazil: User-steering in large-scale phylogenomic workflows”
+- 4:50-5:30 pm, Jacob Machado: “Combining phylogenetic and artificial intelligence to unravel viral recombination"
+
+{:.center}
+{% include link.html type="external" icon="" text="The Willi Hennig Society" link="https://cladistics.org/" style="button" %}
+
+### SBE meetings (2020-22)
 
 In response to the COVID-19 pandemic, our lab has co-founded and co-organized **Virtual Meetings in Systematics, Biogeography, and Evolution** (SBE), also known as the SBE meetings.
 
