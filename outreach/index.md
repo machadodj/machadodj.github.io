@@ -35,6 +35,8 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 ### 2023
 
+- **July 28, 2023**: "Replicating Ford _et al_.’s investigation on the immune
+consequences and SARS-CoV-2 antibody’s binding affinity using an _in silico_ approach" by C. Jones, H. Zeru, and D. Jacob Machado ([Google Drive](https://drive.google.com/drive/folders/1iPcip7kIEQxjv9oHRKLypa_zOFGditk-?usp=sharing))
 - **April 28, 2023**: "Are there alkaloid-resistance mutations in _Phyllobates terribilis_’ sodium channels?" by R. Nouri and D. Jacob Machado. Poster presenter at the Spring graduate poster session of UNC Charlotte's Dept. of Bioinformatics and Genomics -- Charlotte, NC, USA ([Google Drive](https://drive.google.com/drive/folders/1Buv7pVdwTh9bZcWi2RVl-i89VYDgFkt8?usp=sharing))
 - **April 28, 2023**: "A phylogenomics and machine learning framework for discriminating SARS-CoV-2 variants" by O. Marne and D. Jacob Machado. Poster presenter at the Spring graduate poster session of UNC Charlotte's Dept. of Bioinformatics and Genomics -- Charlotte, NC, USA ([Google Drive](https://drive.google.com/drive/folders/1Nzj7uxV1kpH8VrH9PiVj9ir06YuA9UBJ?usp=sharing))
 
