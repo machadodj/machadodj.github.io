@@ -2,7 +2,7 @@
 name: Hannah Zeru (she/her)
 image: headshots/HannahZeru.jpg
 description: Undergraduate Student
-role: undergrad
+role: alumni
 aliases:
   - Hannah Zeru
   - H. Zeru

@@ -32,10 +32,10 @@ This list is ordered alphabetically (first name). It does not include collaborat
 {% include list.html data="members" component="portrait" filters="role: colab" %}
 {:.center}
 
-<!-- ## Alumni -->
+## Alumni
 
-<!-- {% include list.html data="members" component="portrait" filters="role: alumni" %} -->
-<!-- {:.center} -->
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
+{:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
