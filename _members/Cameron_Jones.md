@@ -2,7 +2,7 @@
 name: Cameron Jones (he/him)
 image: headshots/CameronJones.jpg
 description: Undergraduate Student (external)
-role: undergrad
+role: alumni
 aliases:
   - Cameron Jones
   - C. Jones
