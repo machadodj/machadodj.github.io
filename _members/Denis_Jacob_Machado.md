@@ -21,10 +21,9 @@ aliases:
   - Machado, Denis Jacob
 links:
   home-page: phyloinformatics.com
-  email: dmachado@uncc.edu
+  email: dmachado@charlotte.edu
   linkedin: machadodj
   google-scholar: https://scholar.google.com/citations?user=RSChnSQAAAAJ&hl=en
-  twitter: machadodj_bio
 ---
 
 {%
