@@ -17,6 +17,9 @@ nav:
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
+
+<!--
+
 {% include section.html %}
 
 ## Twitter
@@ -27,3 +30,5 @@ nav:
 <a href="https://twitter.com/machadodj_bio" class="twitter-follow-button" data-show-count="false">Follow @machadodj\_bio</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://twitter.com/machadodj_bio" class="twitter-mention-button" data-show-count="false">Tweet to @machadodj\_bio</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
+
+-->
