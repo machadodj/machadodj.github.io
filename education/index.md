@@ -17,7 +17,7 @@ nav:
 
 ### 2023
 
-- UNC Charlotte: [**Larry Mays Seminars in Bioinformatics**](https://cci.charlotte.edu/departments/bioinformatics/seminars/#:~:text=The%20Department%20of%20Bioinformatics%20and,30%2D%203%3A30%20PM) (BINF-6600-001 and BINF-8600-001 combined), the Dept. of Bioinformatics and Genomics' weekly seminar series. The seminars are open to all.
+- UNC Charlotte: [**Larry Mays Seminars in Bioinformatics**](https://cci.charlotte.edu/departments/bioinformatics/seminars/) (BINF-6600-001 and BINF-8600-001 combined), the Dept. of Bioinformatics and Genomics' weekly seminar series. The seminars are open to all.
 
 - UNC Charlotte: [**Phyloinformatics Journal Club**](https://www.notion.so/phyloinformatics/The-Phyloinformatics-Journal-Club-fd42a8b2ab9e409eb53b4fe728da24e4?pvs=4), a weekly meeting (Wednesdays at 11 am) to discuss publications on phylogenetic systematics and its applications. Every session we host a trivia contest on the selected literature. Everyone is welcome to join.
 
