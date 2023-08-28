@@ -1,7 +1,7 @@
 ---
 name: Reyhaneh Nouri (she/her)
 image: headshots/ReyhanehNouri.jpg
-description: Ph.D. student
+description: Ph.D. student and research assistant
 role: phd
 aliases:
   - Reyhaneh Nouri
