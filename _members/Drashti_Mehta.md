@@ -1,7 +1,7 @@
 ---
 name: Drashti Mehta (she/her)
 image: headshots/DrashtiMehta.jpg
-description: Master's student (intern)
+description: Master's student and lab's intern
 role: alumni
 aliases:
   - Drashti Mehta
