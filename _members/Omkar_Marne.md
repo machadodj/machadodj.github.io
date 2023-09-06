@@ -25,9 +25,9 @@ I am interested in using my background in computer science to advance the field 
 
 ## What am I working on?
 
-Most phylogenetic analyses of SARS-CoV-2 fail to meet the standards of the field. For example, a number of phylogenies do not have an outgroup, making it impossible to determine the root of the tree and determine the order of characeter transformations. As a second example, SARS-CoV-2 trees are often based on the spike (S) gene or on whole genome alignments, which can obscure important differences between genes.
+Most phylogenetic analyses of SARS-CoV-2 fail to meet the standards of the field. For example, several phylogenies do not have an outgroup, making it impossible to determine the tree's root and the order of character transformations. As a second example, SARS-CoV-2 trees are often based on the spike (S) gene or whole genome alignments, which can obscure significant gene differences.
 
-Our research aims to address these limitations by creating a phylogenetic tree of SARS-CoV-2 using outgroup sequences and individual gene alignments based on completely annotated genomes. We will do this by developing machine learning applications (decision trees) that can classify SARS-CoV-2 lineages based on individual gene sequences. These applications will also be able to make predictions about evolutionary models that are unique to each gene or lineage.
+Our research aims to address these limitations by creating a phylogenetic tree of SARS-CoV-2 using outgroup sequences and individual gene alignments based on thoroughly annotated genomes. We will develop machine learning applications (decision trees) that classify SARS-CoV-2 lineages based on individual gene sequences. These applications will also be able to make predictions about evolutionary models unique to each gene or lineage.
 
-Our analyses will serve as the backbone for future studies of SARS-CoV-2 mutation rates. By collaborating with other labs, we will be able to track the evolution of the virus and identify potential mutations that could affect its transmissibility or virulence.
+Our analyses will be the backbone for future studies of SARS-CoV-2 mutation rates. By collaborating with other labs, we will be able to track the evolution of the virus and identify potential mutations that could affect its transmissibility or virulence.
 
