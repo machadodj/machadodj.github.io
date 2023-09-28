@@ -1,6 +1,5 @@
 ---
 title: Susana Cisneros is the Higher Education Teacher of the Year
-image: images/20230916ExcelenciaAwardsWithSusanaCisneros.jpg
 tags:
   - award
   - celebrate
@@ -10,6 +9,9 @@ member: Denis_Jacob_Machado
 ---
 
 # Excelente Awards
+
+{% include figure.html image="images/20230916ExcelenciaAwardsWithSusanaCisneros.jpg" caption="Congratulations Susana Cisneros!"%}
+{:.center}
 
 The [Excelent Awards](https://excelenteawards.com/) is a wonderful event to recognize the outstanding achievements of Latino leaders and their supporters.
 
