@@ -10,27 +10,27 @@ member: Denis_Jacob_Machado
 
 # We’re Building STEAM In Kannapolis
 
-Join us for a variety of fun family events on October 7, as we celebrate (STEAM) - Science, Technology, Engineering, Arts and Math.
+Join us for a variety of fun family events on **October 7**, as we celebrate (STEAM) - Science, Technology, Engineering, Arts and Math.
 
-The Building STEAM Festival will be held from **10 a.m. to 2 p.m. on October 7** at the North Carolina Research Campus Horseshoe (**401 Laureate Way, Kannapolis**). The event is **free** and will include activities for children, teenagers, and parents – both indoors and outdoors on the campus.
+The Building STEAM Festival will be held from **10 a.m. to 2 p.m.** at the North Carolina Research Campus Horseshoe (**401 Laureate Way, Kannapolis**). The event is **free** and will include activities for children, teenagers, and parents – both indoors and outdoors on the campus.
 
 Bring your lab coats and get your hands dirty with hands-on art and design, chemistry, life sciences, earth and space sciences and mathematics activities, experiments, and projects.
 
 You will be able to join our partners:
 
-## Cabarrus Health Alliance
+## Cabarrus' Health Alliance
 
 Come learn about nutrition with Cabarrus Health Alliance! We'll talk about our Healthy Living initiatives using hands-on activities such as our sugar and salt shocker kits, portion plates, and many other engaging models.
  
 
-## NC State Plants for Human Health Institute
+## NC State's Plants for Human Health Institute
 
 Complete a STEM activity with information about microgreens, how to grow them, their health benefits, and receive a take-home container of microgreens.
  
 
-## UNC Charlotte Department of Bioinformatics and Genomics
+## UNC Charlotte's Department of Bioinformatics and Genomics
 
-Learn how the bioinformaticians department at UNC Charlotte reads DNA to discover new traits in organism. Participants will be guided through building model bacteria.
+The Phyloinformatics Lab appreciates the invitation [Lab LaBella](https://www.lablabella.com/) to help you learn how the bioinformaticians department at UNC Charlotte reads DNA to discover new traits in organism. Come over, meet us in person, and be guided on a journey through building model bacteria!
  
 ## More
 
