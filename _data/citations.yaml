@@ -1,6 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.3389/fncir.2023.1258370
+  title: Echinoderm radial glia in adult cell renewal, indeterminate growth, and regeneration
+  authors:
+  - Vladimir Mashanov
+  - Soji Ademiluyi
+  - Denis Jacob Machado
+  - Robert Reid
+  - Daniel Janies
+  publisher: Frontiers in Neural Circuits
+  date: '2023-09-29'
+  link: https://doi.org/gss7k5
+  image: https://www.frontiersin.org/files/Articles/1258370/fncir-17-1258370-HTML/image_m/fncir-17-1258370-g002.jpg
+  tags:
+  - echinoderms
+  - non-model organism
+  - invertebrates
+  - zoology
+  _cache: b71c14017a1eee9b377bde9186d717e9f01d29da131303ef7617bf6926a000b0
 - id: doi:10.3389/fviro.2023.1172027
   title: Predicting changes in neutralizing antibody activity for SARS-CoV-2 XBB.1.5
     using in silico protein modeling
