@@ -1,20 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- title: Phylogenetics in the one health context
+- id: doi:10.3389/fmicb.2023.1307616
+  title: Phylogenetics in the One Health context
+  publisher: Frontiers in Microbiology
+  date: '2023-10-26'
+  image: images/OneHealth.png
+  tags:
+  - phylogenetics
+  - One Health
   authors:
   - Denis Jacob Machado
   - "Larry Jim\xE9nez-Ferbans"
   - "Kary Oca\xF1a"
   - Adriano de Bernardi Schneider
-  publisher: Frontiers in Microbiology
-  date: 1900-1-1
-  link: https://www.frontiersin.org/articles/10.3389/fmicb.2023.1307616/full#:~:text=Therefore%2C%20this%20Frontier's%20Research%20Topic,research%20in%20biodiversity%20and%20applied
-  image: images/OneHealth.png
-  tags:
-  - phylogenetics
-  - One Health
-  _cache: 0fa25af86c35258d21cfd48a772d6da2db4c23cb8ab3a9f68be4fffbdd302363
+  _cache: bd01cf3c5848b48fae386a411e70463425cb3da32d26a8c24fe1118d5143ca9f
 - id: doi:10.3389/fncir.2023.1258370
   title: Echinoderm radial glia in adult cell renewal, indeterminate growth, and regeneration
   authors:
