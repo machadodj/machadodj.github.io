@@ -68,9 +68,20 @@ In response to the continued increase in the risk of zoonoses, our lab has two m
 
 # Join us
 
+Olá! Salam! Привіт! नमस्ते! Hi!
+
 **The Phyloinformatics Lab promotes equity, equality, diversity, and inclusion** in STEM, other academic fields, and the industry. We strive to be a safe and inclusive workspace by creating a sense of community and providing multiple ways for our team to learn, communicate, succeed, and connect new ideas to goals.
 
-We recently filled a [postdoc position](https://phyloinformatics.com/2022/11/02/POST40.html), but we welcome emails inquiring us about future opportunities and potential collaborations. Additionally, we are always interested in working with the talented UNC Charlotte's graduate students through the Master's program in Bioinformatics or the Ph.D. program in Bioinformatics and Computational Biology at UNC Charlotte's College of Computing and Informatics. [Click here](https://cci.charlotte.edu/graduate-programs) to learn more about these graduate programs. UNC Charlotte's undergrad students are also encouraged to reach out if they wish to know more about research projects and opportunities in the Phyloinformatics Lab.
+We would be thrilled if you're considering joining the vibrant community at the Phyloinformatics Lab. We receive a fantastic number of weekly emails from individuals interested in working or collaborating with us, and your enthusiasm is genuinely appreciated!
+
+To streamline our communication and ensure everyone gets the attention they deserve, we've put together a few friendly tips for reaching out, especially if you're a student interested in job opportunities or collaboration:
+
+1. Stay updated on our latest open positions! We regularly post about them in our [news section](https://phyloinformatics.com/news/) and on [UNC Charlotte's applicant site](https://jobs.charlotte.edu/postings/search). All paid opportunities will be listed there, and we kindly ask that inquiries about such positions come in response to these posts.
+2. Before reaching out, take a moment to explore our lab's mission, vision, and research areas on our [homepage](https://phyloinformatics.com/). Please familiarize yourself with the goals of UNC Charlotte's [CIPHER center](https://cipher.charlotte.edu/) and the [Department of Bioinformatics and Genomics](Department of Bioinformatics and Genomics), our proud location. Dive into our [research](https://phyloinformatics.com/research/) projects, and let us know what aspects caught your eye.
+3. When you contact us, share your specific interests in our lines of research and outline your overarching goals as a student or researcher. While you don't need a fully formed research plan, we're open to detailed ideas and suggestions for potential funding opportunities.
+4. Make your email uniquely yours! If it feels too generic and seems like a copy-paste message that could go to any lab, it might be mistaken for spam, and unfortunately, we won't be able to respond.
+
+We're eager to connect with individuals who share our passion for phyloinformatics, and we look forward to hearing from you. Your thoughtful approach will undoubtedly make our interaction more fruitful. Let's embark on this exciting journey together!
 
 {:.center}
 {% include link.html type="contact" icon="" text="Contact" link="contact" style="button" %}
