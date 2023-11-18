@@ -19,12 +19,15 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 ### 2023
 
-- **July 11, 2023**: "Combining phylogenetic and artificial intelligence to unravel viral recombination," a talk given at the XL Annual Meeting of the [Willi Hennig Society](https://cladistics.org/) -- Cornell University, Ithaca, N.Y., U.S.A. ([PDF](https://drive.google.com/file/d/1jupSdnD0Q2mxHt-unEpYUua6c36laA0N/view?usp=sharing))
-- **June 15, 2023**: "What is phyloinformatics and how can it help us respond faster to health emergencies?," a talk prepared as response to an invitation from [Dr. Jhon Ospina-Sarria](https://orcid.org/0000-0002-9099-7793) -- [Calima Foundation](https://en.fundacioncalima.org/), Cali, Valle del Cauca, Colombia ([PDF](https://drive.google.com/file/d/1FZQ5azNeGHLWIiACQTEnYvwRDuvy5vGp/view?usp=sharing))
+- **December 27-29, 2023**: "Replicating Ford _et al_.'s investigation on the immune consequences and antibody binding affinity of SARS-CoV-2 variant XBB.1.5 using an _in silico_ approach" by Hannah Zeru, Cameron Jones, and Denis Jacob Machado, a presentation for the 7th International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE’ 2023) ([Zenodo](https://doi.org/10.5281/zenodo.10138987))
+- **November 17, 2023**: "How can we reversibly control collagen pliability? An investigation of mutable collagenous tissue in the brittle star _Ophiomastix wendtii_" by Reyhaneh Nouri, Vladimir Mashanov, and Denis Jacob Machado, presented at UNC Charlotte's 9th Annual Biological Sciences Research Symposium Program ([click here](https://drive.google.com/file/d/1-d1JfO4zFEQLy4NuQtg0KcZv2eil4b2e/view?usp=drive_link))
+- **November 17, 2023**: "A phylogenomic and machine learning framework for discriminating SARS-CoV-2 variants" by Omkar Marne and Denis Jacob Machado, presented at UNC Charlotte's 9th Annual Biological Sciences Research Symposium Program ([click here](https://drive.google.com/file/d/1FFZ8n4IukBM76pd1lAz9oj8oMEo8_vOH/view?usp=drive_link))
+- **July 11, 2023**: "Combining phylogenetic and artificial intelligence to unravel viral recombination," a talk given at the XL Annual Meeting of the [Willi Hennig Society](https://cladistics.org/) -- Cornell University, Ithaca, N.Y., U.S.A. ([click here](https://drive.google.com/file/d/1jupSdnD0Q2mxHt-unEpYUua6c36laA0N/view?usp=sharing))
+- **June 15, 2023**: "What is phyloinformatics and how can it help us respond faster to health emergencies?," a talk prepared as response to an invitation from [Dr. Jhon Ospina-Sarria](https://orcid.org/0000-0002-9099-7793) -- [Calima Foundation](https://en.fundacioncalima.org/), Cali, Valle del Cauca, Colombia ([click here](https://drive.google.com/file/d/1FZQ5azNeGHLWIiACQTEnYvwRDuvy5vGp/view?usp=sharing))
 
 ### 2022
 
-- **September 16, 2022**: "What is phyloinformatics and how can it help us respond faster to health emergencies?," at CCI's Academic Research Seminar -- Charlotte, NC, USA ([PDF](https://drive.google.com/file/d/1EC5uAxjaWelf0XsoTaTn0UgWNLBuIpMa/view?usp=sharing))
+- **September 16, 2022**: "What is phyloinformatics and how can it help us respond faster to health emergencies?," at CCI's Academic Research Seminar -- Charlotte, NC, USA ([click here](https://drive.google.com/file/d/1EC5uAxjaWelf0XsoTaTn0UgWNLBuIpMa/view?usp=sharing))
 
 {% include section.html %}
 
@@ -36,9 +39,9 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 ### 2023
 
 - **July 28, 2023**: "Replicating Ford _et al_.’s investigation on the immune
-consequences and SARS-CoV-2 antibody’s binding affinity using an _in silico_ approach" by C. Jones, H. Zeru, and D. Jacob Machado ([Google Drive](https://drive.google.com/drive/folders/1iPcip7kIEQxjv9oHRKLypa_zOFGditk-?usp=sharing))
-- **April 28, 2023**: "Are there alkaloid-resistance mutations in _Phyllobates terribilis_’ sodium channels?" by R. Nouri and D. Jacob Machado. Poster presenter at the Spring graduate poster session of UNC Charlotte's Dept. of Bioinformatics and Genomics -- Charlotte, NC, USA ([Google Drive](https://drive.google.com/drive/folders/1Buv7pVdwTh9bZcWi2RVl-i89VYDgFkt8?usp=sharing))
-- **April 28, 2023**: "A phylogenomics and machine learning framework for discriminating SARS-CoV-2 variants" by O. Marne and D. Jacob Machado. Poster presenter at the Spring graduate poster session of UNC Charlotte's Dept. of Bioinformatics and Genomics -- Charlotte, NC, USA ([Google Drive](https://drive.google.com/drive/folders/1Nzj7uxV1kpH8VrH9PiVj9ir06YuA9UBJ?usp=sharing))
+consequences and SARS-CoV-2 antibody’s binding affinity using an _in silico_ approach" by C. Jones, H. Zeru, and D. Jacob Machado ([click here](https://drive.google.com/drive/folders/1iPcip7kIEQxjv9oHRKLypa_zOFGditk-?usp=sharing))
+- **April 28, 2023**: "Are there alkaloid-resistance mutations in _Phyllobates terribilis_’ sodium channels?" by R. Nouri and D. Jacob Machado. Poster presenter at the Spring graduate poster session of UNC Charlotte's Dept. of Bioinformatics and Genomics -- Charlotte, NC, USA ([click here](https://drive.google.com/drive/folders/1Buv7pVdwTh9bZcWi2RVl-i89VYDgFkt8?usp=sharing))
+- **April 28, 2023**: "A phylogenomics and machine learning framework for discriminating SARS-CoV-2 variants" by O. Marne and D. Jacob Machado. Poster presenter at the Spring graduate poster session of UNC Charlotte's Dept. of Bioinformatics and Genomics -- Charlotte, NC, USA ([click here](https://drive.google.com/drive/folders/1Nzj7uxV1kpH8VrH9PiVj9ir06YuA9UBJ?usp=sharing))
 
 {% include section.html %}
 
