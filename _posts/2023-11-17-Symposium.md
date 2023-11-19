@@ -9,12 +9,14 @@ member: Denis_Jacob_Machado
 
 # The Phyloinformatics Lab at the 9th Annual Biological Sciences Research Symposium
 
-{% include figure.html image="images/20231117_9thAnnualBiologicalSciencesResearch Symposium.jpg" caption="Our representatives at the symposium"%}
+{% include figure.html image="images/20231117_9thAnnualBiologicalSciencesResearch Symposium.jpg" caption="Our representatives at the symposium. From the left: Omkar Marne, Denis Jacob Machado, Anastasiia Duchenko, Reyhaneh Nouri, and Philippe Vieira Alves."%}
 {:.center}
 
-Our new research topic is out on Frontiers in Microbiology, and it is all about phylogenetics and its different applications in One Health.
+On November 17, 2023, our Ph.D. students, Reyhaneh Nouri and Omkar Marne, delivered oral presentation of their work at UNC Charlotte's 9th Annual Biological Sciences Research Symposium. These are the presentation details and the links to download the corresponding slide decks.
 
-"Omics” technologies (e.g., genomics, transcriptomics, proteomics, and metabolomics) have revolutionized human health. For example, during the COVID-19 pandemic, genomic epidemiology consolidated as an essential tool to study emerging infectious diseases (EIDs) in humans. However, we can maximize the effectiveness of genomics epidemiology in humans by accounting for diseases' animal and environmental components. The unifying approach to sustainably balance and optimize the health of people, animals, and ecosystems is called “One Health.” Unfortunately, no single “omics” technology is sufficient to understand complex host-pathogen systems in the One Health context. Therefore, this Frontier's Research Topic explores the role of phylogenetics in providing an evolutionary context to integrate “omics” technologies to understand complex biological systems and provide a timely literature foundation for future efforts to bridge the gap between basic research in biodiversity and applied biomedical research on EIDs.
+- "How can we reversibly control collagen pliability? An investigation of mutable collagenous tissue in the brittle star _Ophiomastix wendtii_" by Reyhaneh Nouri, Vladimir Mashanov, and Denis Jacob Machado ([click here](https://drive.google.com/file/d/1-d1JfO4zFEQLy4NuQtg0KcZv2eil4b2e/view?usp=drive_link))
 
-{% include link.html link="https://www.frontiersin.org/articles/10.3389/fmicb.2023.1307616/full#:~:text=Therefore%2C%20this%20Frontier's%20Research%20Topic,research%20in%20biodiversity%20and%20applied%22%20text=%22Read%20in%20full%22%20icon=%22fas%20fa-arrow-right" text="Read in full" icon="fas fa-arrow-right" flip=true %}
+- "A phylogenomic and machine learning framework for discriminating SARS-CoV-2 variants" by Omkar Marne and Denis Jacob Machado ([click here](https://drive.google.com/file/d/1FFZ8n4IukBM76pd1lAz9oj8oMEo8_vOH/view?usp=drive_link))
+
+{% include link.html link="https://phyloinformatics.com/outreach/" text="Click here for more outreach" icon="fas fa-arrow-right" flip=true %}
 {:.center}
