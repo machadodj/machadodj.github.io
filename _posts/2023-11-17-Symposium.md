@@ -3,6 +3,9 @@ title: 9th Annual Biological Sciences Research Symposium
 tags:
   - outreach
   - symposium
+  - virology
+  - zoology
+  - phylogenetics
 author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
