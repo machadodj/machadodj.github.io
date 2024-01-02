@@ -1,6 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: issn:2508-7436
+  title: "Replicating Ford et al.\u2019s investigation on the immune consequences\
+    \ and SARS-CoV-2 antibody\u2019s binding affinity using an in silico approach"
+  authors:
+  - Cameron Jones
+  - Hannah Zeru
+  - Denis Jacob Machado
+  publisher: ICICPE 2023
+  date: '2023-12-29'
+  link: https://portal.issn.org/resource/ISSN/2508-7436
+  image: images/ICICPE2023.png
+  tags:
+  - artificial intelligence
+  - genomic epidemiology
+  - molecular docking
+  - viruses
+  _cache: b514ae4f41b7afa43a93afa1bd024385ee2bc7abd729ba3157322020016eeeda
 - id: doi:10.3389/fncir.2023.1258370
   title: Echinoderm radial glia in adult cell renewal, indeterminate growth, and regeneration
   authors:

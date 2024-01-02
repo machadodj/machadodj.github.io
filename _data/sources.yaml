@@ -18,6 +18,23 @@
 #   - Adriano de Bernardi Schneider
 # link: https://phyloinformatics.com/2023/10/26/Editorial.html
 
+# 2023: Editorial: Phylogenetics in the one health context
+- id: issn:2508-7436
+  title: Replicating Ford et al.’s investigation on the immune consequences and SARS-CoV-2 antibody’s binding affinity using an in silico approach
+  publisher: ICICPE 2023
+  date: "2023-12-29"
+  image: images/ICICPE2023.png
+  tags:
+    - artificial intelligence
+    - genomic epidemiology
+    - molecular docking
+    - viruses
+  authors:
+  - Cameron Jones
+  - Hannah Zeru
+  - Denis Jacob Machado
+#link: http://icicpe.org/wp-content/uploads/2023/12/ICICPE-2023_vol.71.pdf
+
 # 2023: Echinoderm radial glia in adult cell renewal, indeterminate growth, and regeneration
 - id: doi:10.3389/fncir.2023.1258370
   image: https://www.frontiersin.org/files/Articles/1258370/fncir-17-1258370-HTML/image_m/fncir-17-1258370-g002.jpg
