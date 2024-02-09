@@ -24,6 +24,7 @@ links:
   email: dmachado@charlotte.edu
   linkedin: machadodj
   google-scholar: https://scholar.google.com/citations?user=RSChnSQAAAAJ&hl=en
+  hear my name: https://www.name-coach.com/denis-jacobmachado
 ---
 
 {%
@@ -103,4 +104,4 @@ Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the Unive
 
 # Random links
 
-- My first name is Denis and my last name is Jacob Machado. I don't have a middle name. [Click here](https://youtu.be/fUwCwPK6DC8) to learn how to pronounce my full name, Denis Jacob Machado, in (Brazilian) Portuguese.
+- My first name is Denis and my last name is Jacob Machado. I don't have a middle name. [Click here](https://youtu.be/fUwCwPK6DC8) for an YouTube video where you can hear my name. Alternatively, [click here](https://www.name-coach.com/denis-jacobmachado) for audio only.
