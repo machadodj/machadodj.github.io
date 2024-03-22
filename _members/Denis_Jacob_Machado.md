@@ -47,7 +47,7 @@ links:
 %}
 {:.center}
 
-Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the University of North Carolina at Charlotte (UNC Charlotte), College of Computing and Informatics (CCI), Department of Bioinformatics and Genomics (BiG), starting on Aug. 15, 2022. He was one of the first hires of the Computational Intelligence to Predict Health and Environmental Risks (CIPHER) research center.
+Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the University of North Carolina at Charlotte (UNC Charlotte), College of Computing and Informatics (CCI), Department of Bioinformatics and Genomics (BiG), starting on Aug. 15, 2022. He was one of the first hires of the Computational Intelligence to Predict Health and Environmental Risks (CIPHER) research center. He is also the first Latine faculty at UNC Charlotte’s BiG. Dr/ Jacob Machado leads the Phyloinformatics Lab (https://phyloinformatics.com/). His lab uses computational intelligence and phylogenetics to create an evolutionary framework integrating multi-omics data to answer practical questions in One Health. In response to the continued increase in the risk of zoonoses, the phyloinformatics lab has two main lines of research. First, investigate new pathogens’ emergence, evolution, and spread, focusing on preventing and treating infectious diseases. Second, create computational and molecular solutions to make data from biorepositories more readily available to biomedical research.
 
 # Highlights
 
