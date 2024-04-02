@@ -120,11 +120,11 @@ caption="Corridor view of our dry lab"
 
 {% include section.html %}
 
-### <i class="fas fa-exclamation"></i>Jobs & Opportunities
+### <i class="fas fa-exclamation"></i>How to Reach Out
 
 Olá! Salam! Привіт! नमस्ते! Hi!
 
-We're thrilled that you're considering joining the vibrant community at the Phyloinformatics Lab. We receive a fantastic number of weekly emails from individuals interested in working or collaborating with us, and your enthusiasm is genuinely appreciated!
+We would be thrilled if you consider joining the vibrant community at the Phyloinformatics Lab. We receive many weekly emails from individuals interested in working or collaborating with us, and your enthusiasm is genuinely appreciated!
 
 To streamline our communication and ensure everyone gets the attention they deserve, we've put together a few friendly tips for reaching out, especially if you're a student interested in job opportunities or collaboration:
 
@@ -136,3 +136,12 @@ To streamline our communication and ensure everyone gets the attention they dese
 
 
 We're eager to connect with individuals who share our passion for phyloinformatics, and we look forward to hearing from you. Your thoughtful approach will undoubtedly make our interaction more fruitful. Let's embark on this exciting journey together!
+
+{% include section.html %}
+
+### <i class="fas fa-exclamation"></i>Acknowledgement
+
+We acknowledge the Catawba, Waxhaw, Cheraw, and Sugeree peoples, who are the traditional custodians of the land that The University of North Carolina at Charlotte is located, and, as many of us are settlers, migrants, or descendants of those forcefully brought to this land, we are here because this land is colonized. We would also like to recognize the many enslaved and indentured peoples who were forced to dedicate their labor to the construction of what is now Mecklenburg County. To these peoples and their descendants, we acknowledge the grave injustices inflicted on them and recognize the indelible mark of their labor on the creation of the space in which we gather today.
+
+{:.center}
+{% include link.html type="external" icon="" text="Learn more" link="https://native-land.ca/" style="button" %}
