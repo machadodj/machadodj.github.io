@@ -89,4 +89,4 @@ Normally your citations are built automatically on GitHub if you're using [one o
 4. Add or change the desired `sources/papers` in `/_data/sources.yaml`.
 5. Generate citations by running python `./auto-cite/auto-cite.pyRi.
 
-Citations should be automatically generated and output to `/_data/citations.yaml.
+Citations should be automatically generated and output to `/_data/citations.yaml`.
