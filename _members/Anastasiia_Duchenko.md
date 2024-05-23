@@ -1,8 +1,8 @@
 ---
 name: Anastasiia Duchenko (she/her)
 image: headshots/AnastasiiaDuchenko.jpg
-description: Phylogenetics and Artificial Intelligence Specialist
-role: tech
+description: Ph.D. student
+role: phd
 aliases:
   - Anastasiia Duchenko
   - A. Duchenko
