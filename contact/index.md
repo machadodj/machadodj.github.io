@@ -124,7 +124,11 @@ caption="Corridor view of our dry lab"
 
 Olá! Salam! Привіт! नमस्ते! Hi!
 
-We would be thrilled if you consider joining the vibrant community at the Phyloinformatics Lab. We receive many weekly emails from individuals interested in working or collaborating with us, and your enthusiasm is genuinely appreciated!
+**The Phyloinformatics Lab promotes equity, equality, diversity, and inclusion** as [foundational research skills](https://doi.org/10.1038/s41562-022-01406-7). Diversity is the presence of differences that enrich our workspace and our research. Equity ensures a level playing field where everyone has the resources and opportunities to flourish, particularly those from underrepresented groups who may have faced historical barriers. Inclusion fosters a welcoming environment where all people, regardless of background, feel valued, respected, and empowered to reach their full potential.
+
+At our lab, fostering a strong sense of community is key to creating a safe and inclusive work environment that is free from discrimination. We believe in empowering our team by providing diverse learning and communication channels. This allows everyone to thrive, share ideas, and see how their contributions directly impact our goals. We remain committed to upholding all relevant policies and ethical practices.
+
+We would be thrilled if you're considering joining the vibrant community at the Phyloinformatics Lab. We receive a fantastic number of weekly emails from individuals interested in working or collaborating with us, and your enthusiasm is genuinely appreciated!
 
 To streamline our communication and ensure everyone gets the attention they deserve, we've put together a few friendly tips for reaching out, especially if you're a student interested in job opportunities or collaboration:
 
@@ -133,7 +137,6 @@ To streamline our communication and ensure everyone gets the attention they dese
 3. When you contact us, share your specific interests in our lines of research and outline your overarching goals as a student or researcher. While you don't need a fully formed research plan, we're open to detailed ideas and suggestions for potential funding opportunities.
 4. Make your email uniquely yours! If it feels too generic and seems like a copy-paste message that could go to any lab, it might be mistaken for spam, and unfortunately, we won't be able to respond.
 5. If your question is about applying to become a student, perhaps in one of our graduate programs in bioinformatics, you should first check the details on UNC Charlotte's website. For example, [click here](https://cci.charlotte.edu/academics/bioinformatics/bioinformatics-ms-program/) to read about our Master's in bioinformatics and [click here](https://gradadmissions.charlotte.edu/programs/bioinformatics-and-computational-biology-phd#:~:text=The%20Ph.,worldwide%20in%20academia%20and%20industry) to read about the Ph.D. program on bioinformatics and computational biology.
-
 
 We're eager to connect with individuals who share our passion for phyloinformatics, and we look forward to hearing from you. Your thoughtful approach will undoubtedly make our interaction more fruitful. Let's embark on this exciting journey together!
 
