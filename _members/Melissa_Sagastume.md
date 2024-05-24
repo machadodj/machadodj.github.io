@@ -8,13 +8,12 @@ aliases:
   - M. Sagastume
   - Sagastume, Melissa
   - Sagastume, M.
-
 links: 
   linkedin: melissa-sagastume-aa01b1291
 
 ---
 
-# Highlights Section #
+# Highlights Section
 
 **This is all false information, just for the purpose of seeing if I'm able to create a new page.I'll replace it with a better version**
 
