@@ -10,7 +10,6 @@ aliases:
   - Sagastume, M.
 links: 
   linkedin: melissa-sagastume-aa01b1291
-
 ---
 
 # Highlights Section
