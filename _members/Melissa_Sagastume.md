@@ -1,20 +1,18 @@
 ---
 name: Melissa Sagastume (she/her)
 image: headshots/MelissaSagastume.jpg
-description: University of North Carolina at Charlotte Undergrad Student 
-role: Phyloinformatics Research Assistant 
+description: UNC Charlotte's Undergrad Student 
+role: undergrad
 aliases: 
   - Melissa Sagastume
   - M. Sagastume
   - Sagastume, Melissa
   - Sagastume, M.
-
 links: 
   linkedin: melissa-sagastume-aa01b1291
-
 ---
 
-# Highlights Section #
+# Highlights Section
 
 **This is all false information, just for the purpose of seeing if I'm able to create a new page.I'll replace it with a better version**
 

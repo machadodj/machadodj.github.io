@@ -70,7 +70,9 @@ In response to the continued increase in the risk of zoonoses, our lab has two m
 
 Olá! Salam! Привіт! नमस्ते! Hi!
 
-**The Phyloinformatics Lab promotes equity, equality, diversity, and inclusion** in STEM, other academic fields, and the industry. We strive to be a safe and inclusive workspace by creating a sense of community and providing multiple ways for our team to learn, communicate, succeed, and connect new ideas to goals.
+**The Phyloinformatics Lab promotes equity, equality, diversity, and inclusion** as [foundational research skills](https://doi.org/10.1038/s41562-022-01406-7). Diversity is the presence of differences that enrich our workspace and our research. Equity ensures a level playing field where everyone has the resources and opportunities to flourish, particularly those from underrepresented groups who may have faced historical barriers. Inclusion fosters a welcoming environment where all people, regardless of background, feel valued, respected, and empowered to reach their full potential.
+
+At our lab, fostering a strong sense of community is key to creating a safe and inclusive work environment that is free from discrimination. We believe in empowering our team by providing diverse learning and communication channels. This allows everyone to thrive, share ideas, and see how their contributions directly impact our goals. We remain committed to upholding all relevant policies and ethical practices.
 
 We would be thrilled if you're considering joining the vibrant community at the Phyloinformatics Lab. We receive a fantastic number of weekly emails from individuals interested in working or collaborating with us, and your enthusiasm is genuinely appreciated!
 

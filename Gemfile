@@ -11,12 +11,12 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
 
   # other potentially useful plugins
-  # gem "jekyll-github-metadata"
-  # gem "jekyll-avatar"
-  # gem "jekyll-gist"
-  # gem "jekyll-mentions"
-  # gem "jekyll-relative-links"
-  # gem "jemoji"
+  gem "jekyll-github-metadata"
+  gem "jekyll-avatar"
+  gem "jekyll-gist"
+  gem "jekyll-mentions"
+  gem "jekyll-relative-links"
+  gem "jemoji"
 end
 
 # Windows stuff
