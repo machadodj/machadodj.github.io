@@ -17,6 +17,11 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 ## <i class="fas fa-user-group"></i>Talks
 
+### 2024
+
+- **June 14-17, 2024**: "Mitogenome organization, diversity, and evolutionary relationships of proteocephalidean tapeworms (Cestoda, Onchoproteocephalidea) unveiled by a genome skimming approach" by Philippe V. Alves, Reinaldo J. da Silva, Daniel Janies, Willian Taylor, April Harris, Gari New, and Denis Jacob Machado. A presentation for the 99th Annual Meeting of the American Association of Parasitology (ASP) ([Zenodo](https://zenodo.org/records/11477509))
+- **June 14-17, 2024**: "Machine learning models accurately predict clades of proteocephalidean tapeworms (Onchoproteocephalidea) based on host and zoogeographical data" by Philippe Vieira Alves, Reinaldo J. da Silva, Alain de Chambrier, José L. Luque, Anastasiia Duchenko, Daniel Janies, and Denis Jacob Machado. A presentation for the 99th Annual Meeting of the American Association of Parasitology (ASP) ([Zenodo](https://zenodo.org/records/11307234))
+
 ### 2023
 
 - **December 27-29, 2023**: "Replicating Ford _et al_.'s investigation on the immune consequences and antibody binding affinity of SARS-CoV-2 variant XBB.1.5 using an _in silico_ approach" by Hannah Zeru, Cameron Jones, and Denis Jacob Machado, a presentation for the 7th International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE’ 2023) ([Zenodo](https://doi.org/10.5281/zenodo.10138987))
