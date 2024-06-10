@@ -41,6 +41,10 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 ## <i class="fas fa-user-group"></i>Posters
 
+### 2024
+
+- **June 11, 2024**: "Recombinant analyses in dengue virus type 1 with RDP5" by Hugo de Paula Oliveira, Paula Prieto Oliveira, Denis Jacob Machado, and Kary Ocaña ([click here](https://zenodo.org/records/11529272))
+
 ### 2023
 
 - **July 28, 2023**: "Replicating Ford _et al_.’s investigation on the immune
