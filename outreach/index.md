@@ -21,6 +21,7 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 - **June 14-17, 2024**: "Mitogenome organization, diversity, and evolutionary relationships of proteocephalidean tapeworms (Cestoda, Onchoproteocephalidea) unveiled by a genome skimming approach" by Philippe V. Alves, Reinaldo J. da Silva, Daniel Janies, Willian Taylor, April Harris, Gari New, and Denis Jacob Machado. A presentation for the 99th Annual Meeting of the American Association of Parasitology (ASP) ([Zenodo](https://zenodo.org/records/11477509))
 - **June 14-17, 2024**: "Machine learning models accurately predict clades of proteocephalidean tapeworms (Onchoproteocephalidea) based on host and zoogeographical data" by Philippe Vieira Alves, Reinaldo J. da Silva, Alain de Chambrier, José L. Luque, Anastasiia Duchenko, Daniel Janies, and Denis Jacob Machado. A presentation for the 99th Annual Meeting of the American Association of Parasitology (ASP) ([Zenodo](https://zenodo.org/records/11307234))
+- **June 11-14, 2024**: "Evidence of recombination in dengue virus (DENV)" by by Hugo de Paula Oliveira, Paula Prieto Oliveira, Denis Jacob Machado, and Kary Ocaña. A presentation for the X-Meeting 2024 (Brazilian Bioinformatics Conference, Salvador--BA, Brazil). The presentation is available upon request (contact Dr. [Kary Ocaña](https://phyloinformatics.com/members/Kary_Ocana.html))
 
 ### 2023
 
@@ -43,7 +44,7 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 ### 2024
 
-- **June 11, 2024**: "Recombinant analyses in dengue virus type 1 with RDP5" by Hugo de Paula Oliveira, Paula Prieto Oliveira, Denis Jacob Machado, and Kary Ocaña ([click here](https://zenodo.org/records/11529272))
+- **June 11, 2024**: "Recombinant analyses in dengue virus type 1 with RDP5" by Hugo de Paula Oliveira, Paula Prieto Oliveira, Denis Jacob Machado, and Kary Ocaña. A presentation for the X-Meeting 2024 (Brazilian Bioinformatics Conference, Salvador--BA, Brazil) ([click here](https://zenodo.org/records/11529272))
 
 ### 2023
 
