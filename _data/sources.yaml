@@ -2,6 +2,24 @@
 # 2024
 ##
 
+# 2024: SARS-CoV-2
+# - id: doi:10.3389/fviro.2024.1419276 # Frontiers
+- id: doi:10.1101/2023.11.22.568364 # bioXriv
+  title: Predicting Antibody and ACE2 Affinity for SARS-CoV-2 BA.2.86 and JN.1 with In Silico Protein Modeling and Docking
+  publisher: Frontiers in Virology
+  date: "2024-06-20"
+  image: images/yasa_etal_2024.jpg
+  tags:
+    - coronavirus
+    - docking
+    - epidemiology
+  authors:
+  - Shirish Yasa
+  - Sayal Guirales-Medrano
+  - Denis Jacob Machado
+  - Colby T. Ford
+  - Daniel A. Janies
+
 # 2024: ZIKV
 - id: doi:10.20944/preprints202404.0232.v1
   title: Changes in HERVs Expression and Interleukins mRNAs Levels in Trophoblastic Cells Infected by ZIKV

@@ -1,6 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2023.11.22.568364
+  title: Predicting Antibody and ACE2 Affinity for SARS-CoV-2 BA.2.86 and JN.1 with
+    In Silico Protein Modeling and Docking
+  authors:
+  - Shirish Yasa
+  - Sayal Guirales-Medrano
+  - Denis Jacob Machado
+  - Colby T. Ford
+  - Daniel A. Janies
+  publisher: Frontiers in Virology
+  date: '2024-06-20'
+  link: https://doi.org/gs6cnk
+  image: images/yasa_etal_2024.jpg
+  tags:
+  - coronavirus
+  - docking
+  - epidemiology
+  _cache: f2409454872ca6da2b58389d718cc4cfb2c108f8c3fa0fcd7e7942f707316a4d
 - id: doi:10.20944/preprints202404.0232.v1
   title: Changes in HERVs Expression and Interleukins mRNAs Levels in Trophoblastic
     Cells Infected by ZIKV
