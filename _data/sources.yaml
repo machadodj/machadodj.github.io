@@ -3,11 +3,10 @@
 ##
 
 # 2024: SARS-CoV-2
-# - id: doi:10.3389/fviro.2024.1419276 # Frontiers
-- id: doi:10.1101/2023.11.22.568364 # bioXriv
+- id: doi:10.3389/fviro.2024.1419276
   title: Predicting Antibody and ACE2 Affinity for SARS-CoV-2 BA.2.86 and JN.1 with In Silico Protein Modeling and Docking
   publisher: Frontiers in Virology
-  date: "2024-06-20"
+  date: "2024-07-18"
   image: images/yasa_etal_2024.jpg
   tags:
     - coronavirus
