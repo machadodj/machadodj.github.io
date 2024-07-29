@@ -2,7 +2,7 @@
 name: Philippe Vieira Alves (he/him)
 image: headshots/Philippe_Vieira_Alves.jpg
 description: Postdoctoral Fellow (external)
-role: postdoc
+role: alumni
 aliases:
   - Philippe Vieira Alves
   - Philippe V. Alves
@@ -21,7 +21,7 @@ links:
   external: https://www.researchgate.net/profile/Philippe-Alves
 ---
 
-# Hi everyone!
+# Philippe Vieira Alves (updated on July 29, 2024)
 
 I am originally from Brazil, where I completed a teaching degree in Biology at the Universidade Federal de Juiz de Fora (UFJF), and an M.Sc. and a Ph.D. in Animal Biology at the Universidade Federal Rural do Rio de Janeiro (UFRRJ). During my graduate studies, I realized several short and long-term research stays at the Institute of Parasitology of the Biology Centre of the Czech Academy of Sciences, České Budějovice (under the guidance of Dr. Tomáš Scholz), and at the Parasitic Platyhelminthes Collection of the Natural History Museum, Geneva (under the guidance of Dr. Alain de Chambrier).
 
