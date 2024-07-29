@@ -1,7 +1,7 @@
 ---
 name: Manish Kota (he/him)
 image: headshots/ManishKota.jpg
-description: UNC Charlotte's Undergrad Student 
+description: Undergrad Student (external)
 role: alumni
 aliases: 
   - Manish Kota
