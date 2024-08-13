@@ -1,7 +1,7 @@
 ---
 name: Bou Haidara (he/him)
 image: headshots/BouHaidara.jpg
-description: Master's student and research assistance
+description: Master's student and research assistant
 role: alumni
 aliases:
   - Bou Haidara
