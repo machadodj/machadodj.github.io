@@ -45,7 +45,7 @@ Our lab is part of UNC Charlotte's [Computational Intelligence to Predict Health
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-You can mail Dr. Denis Jacob Machado at 9331 Robert D. Snyder Rd, Office 321,  Charlotte, NC 28223, USA.
+You can mail Dr. Denis Jacob Machado at 9331 Robert D. Snyder Rd, Office 453,  Charlotte, NC 28223, USA.
 
 {% include section.html %}
 
