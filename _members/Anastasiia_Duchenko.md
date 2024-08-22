@@ -2,7 +2,7 @@
 name: Anastasiia Duchenko (she/her)
 image: headshots/AnastasiiaDuchenko.jpg
 description: Ph.D. student
-role: phd
+role: alumni
 aliases:
   - Anastasiia Duchenko
   - A. Duchenko
@@ -12,7 +12,11 @@ links:
   linkedin: anastasiia-duchenko-bb720a130
 ---
 
-# Highlights
+# Anastasiia Duchenko
+
+Anastasiia Duchenko is currently in rotation that compose a fundamental part of her Ph.D. program but remains a collaborator and a friend of the Phyloinformatics Lab.
+
+## Highlights
 
 - Master of Science in Molecular Biology and Genetics.
 - Seven years of experience in biotechnology, clinical Research, and health care.
