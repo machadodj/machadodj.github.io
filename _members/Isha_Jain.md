@@ -1,6 +1,6 @@
 ---
 name: Isha Jain
-image: headshots/the_houses_of_parliament_sunset_1963.10.48.jpg
+image: headshots/IshaJain.jpg
 description: Master's student
 role: alumni
 aliases:
@@ -14,4 +14,6 @@ links:
 
 # Isha Jain
 
-Isha Jain completed an internship at the Phyloinformatics Lab in the Summer of 2024.
+sha is a Master’s student in Bioinformatics with a Bachelor of Science degree in Biology. She has a strong passion for helping underrepresented communities and hopes to pursue a line of research addressing challenges in that area. Isha enjoys classical dance, painting, and working with local South Asian fashion designers in her free time.
+
+Last update: Aug. 22, 2024.
