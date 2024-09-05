@@ -20,7 +20,7 @@
   - Denis Jacob Machado
   - Luiz Mario Ramos Janini
   publisher: Cells
-  date: '2024-04-02'
+  date: '2024-09-05'
   link: https://doi.org/gt96hw
   image: images/20240402_ZIKV.jpg
   tags:
@@ -28,7 +28,7 @@
   - viruses
   - transcriptomics
   - infection
-  _cache: be2f21fc9bdcaa91d63159cd5ef2f64b4317e58880270d915f21aafa492a7999
+  _cache: b79b94f1ce11ebb874f565551a093dadd9643be5a34b232149bcfe411fa56d5e
 - id: doi:10.3389/fviro.2024.1419276
   title: Predicting Antibody and ACE2 Affinity for SARS-CoV-2 BA.2.86 and JN.1 with
     In Silico Protein Modeling and Docking
