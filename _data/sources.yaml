@@ -2,27 +2,10 @@
 # 2024
 ##
 
-# 2024: SARS-CoV-2
-- id: doi:10.3389/fviro.2024.1419276
-  title: Predicting Antibody and ACE2 Affinity for SARS-CoV-2 BA.2.86 and JN.1 with In Silico Protein Modeling and Docking
-  publisher: Frontiers in Virology
-  date: "2024-07-18"
-  image: images/yasa_etal_2024.jpg
-  tags:
-    - coronavirus
-    - docking
-    - epidemiology
-  authors:
-  - Shirish Yasa
-  - Sayal Guirales-Medrano
-  - Denis Jacob Machado
-  - Colby T. Ford
-  - Daniel A. Janies
-
 # 2024: ZIKV
-- id: doi:10.20944/preprints202404.0232.v1
-  title: Changes in HERVs Expression and Interleukins mRNAs Levels in Trophoblastic Cells Infected by ZIKV
-  publisher: Preprints
+- id: doi:10.3390/cells13171491
+  title: The Relationship between HERV, Interleukin, and Transcription Factor Expression in ZIKV Infected versus Uninfected Trophoblastic Cells
+  publisher: Cells
   date: "2024-04-02"
   image: images/20240402_ZIKV.jpg
   tags:
@@ -45,7 +28,24 @@
   - Paolo M. A. Zanotto
   - Denis Jacob Machado
   - Luiz Mario Ramos Janini
-#link: https://doi.org/10.20944/preprints202404.0232.v1
+  # link: https://doi.org/10.3390/cells13171491
+
+# 2024: SARS-CoV-2
+- id: doi:10.3389/fviro.2024.1419276
+  title: Predicting Antibody and ACE2 Affinity for SARS-CoV-2 BA.2.86 and JN.1 with In Silico Protein Modeling and Docking
+  publisher: Frontiers in Virology
+  date: "2024-07-18"
+  image: images/yasa_etal_2024.jpg
+  tags:
+    - coronavirus
+    - docking
+    - epidemiology
+  authors:
+  - Shirish Yasa
+  - Sayal Guirales-Medrano
+  - Denis Jacob Machado
+  - Colby T. Ford
+  - Daniel A. Janies
 
 ##
 # 2023
