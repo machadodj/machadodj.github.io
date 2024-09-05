@@ -1,0 +1,535 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: doi:10.3389/fviro.2024.1419276
+  title: Predicting Antibody and ACE2 Affinity for SARS-CoV-2 BA.2.86 and JN.1 with
+    In Silico Protein Modeling and Docking
+  authors:
+  - Shirish Yasa
+  - Sayal Guirales-Medrano
+  - Denis Jacob Machado
+  - Colby T. Ford
+  - Daniel A. Janies
+  publisher: Frontiers in Virology
+  date: '2024-07-18'
+  link: https://doi.org/gt4tbs
+  image: images/yasa_etal_2024.jpg
+  tags:
+  - coronavirus
+  - docking
+  - epidemiology
+  _cache: 10ddb019b552505cdb4d702c968b0eb3f43658328c8ff88d248cde76902103ed
+- id: doi:10.20944/preprints202404.0232.v1
+  title: Changes in HERVs Expression and Interleukins mRNAs Levels in Trophoblastic
+    Cells Infected by ZIKV
+  authors:
+  - "Anderson Lu\xEDs da Costa"
+  - Paula Prieto-Oliveira
+  - "M\xE1rcia Duarte-Barbosa"
+  - Robert Andreata-Santos
+  - Cristina M. Peter
+  - Thamires Prolo
+  - Fernando Antoneli
+  - Maria Isabel V. G. de Carvalho
+  - "Ricardo Dur\xE3es-Carvalho"
+  - Marcelo Ribeiro da Silva Briones
+  - Juliana T. Maricato
+  - Paolo M. A. Zanotto
+  - Denis Jacob Machado
+  - Luiz Mario Ramos Janini
+  publisher: Preprints
+  date: '2024-04-02'
+  link: https://doi.org/gtvvqm
+  image: images/20240402_ZIKV.jpg
+  tags:
+  - flaviviruses
+  - viruses
+  - transcriptomics
+  - infection
+  _cache: e28e643aea122670a1fe071709da8b4a49b67a5af7be1e6437530173c0062184
+- id: issn:2508-7436
+  title: "Replicating Ford et al.\u2019s investigation on the immune consequences\
+    \ and SARS-CoV-2 antibody\u2019s binding affinity using an in silico approach"
+  authors:
+  - Cameron Jones
+  - Hannah Zeru
+  - Denis Jacob Machado
+  publisher: ICICPE 2023
+  date: '2023-12-29'
+  link: https://portal.issn.org/resource/ISSN/2508-7436
+  image: images/ICICPE2023.png
+  tags:
+  - artificial intelligence
+  - genomic epidemiology
+  - molecular docking
+  - viruses
+  _cache: b514ae4f41b7afa43a93afa1bd024385ee2bc7abd729ba3157322020016eeeda
+- id: doi:10.3389/fncir.2023.1258370
+  title: Echinoderm radial glia in adult cell renewal, indeterminate growth, and regeneration
+  authors:
+  - Vladimir Mashanov
+  - Soji Ademiluyi
+  - Denis Jacob Machado
+  - Robert Reid
+  - Daniel Janies
+  publisher: Frontiers in Neural Circuits
+  date: '2023-09-29'
+  link: https://doi.org/gss7k5
+  image: https://www.frontiersin.org/files/Articles/1258370/fncir-17-1258370-HTML/image_m/fncir-17-1258370-g002.jpg
+  tags:
+  - echinoderms
+  - non-model organism
+  - invertebrates
+  - zoology
+  _cache: b71c14017a1eee9b377bde9186d717e9f01d29da131303ef7617bf6926a000b0
+- id: doi:10.3389/fviro.2023.1172027
+  title: Predicting changes in neutralizing antibody activity for SARS-CoV-2 XBB.1.5
+    using in silico protein modeling
+  authors:
+  - Colby T. Ford
+  - Shirish Yasa
+  - Denis Jacob Machado
+  - Richard Allen White
+  - Daniel A. Janies
+  publisher: Frontiers in Virology
+  date: '2023-01-01'
+  link: https://doi.org/gr6j35
+  image: https://upload.wikimedia.org/wikipedia/commons/8/82/SARS-CoV-2_without_background.png
+  tags:
+  - artificial intelligence
+  - genomic epidemiology
+  - molecular docking
+  - phylogenetics
+  - sensitivity analyses
+  - viruses
+  - zoonoses
+  _cache: 91e88ef50f56300924bb15450d5d6f31f149328d4f0a332e905d6941e87a595d
+- id: doi:10.1186/s12863-022-01090-6
+  title: 'EchinoDB: an update to the web-based application for genomic and transcriptomic
+    data on echinoderms'
+  authors:
+  - Varnika Mittal
+  - Robert W. Reid
+  - Denis Jacob Machado
+  - Vladimir Mashanov
+  - Daniel A. Janies
+  publisher: BMC Genomic Data
+  date: '2022-10-23'
+  link: https://doi.org/grw7rw
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12863-022-01090-6/MediaObjects/12863_2022_1090_Fig1_HTML.png?as=webp
+  tags:
+  - echinoderms
+  - non-model organism
+  - genomics
+  - invertebates
+  - zoology
+  - database
+  - softare
+  _cache: 7516badf6b5595564e8308d8d84a47f777a4d78f4aefdecb76383d21eff8d0c6
+- id: doi:10.1186/s12864-022-08750-y
+  title: 'Twinkle twinkle brittle star: the draft genome of Ophioderma brevispinum
+    (Echinodermata: Ophiuroidea) as a resource for regeneration research'
+  authors:
+  - Vladimir Mashanov
+  - Denis Jacob Machado
+  - Robert Reid
+  - Cory Brouwer
+  - Janice Kofsky
+  - Daniel A. Janies
+  publisher: BMC Genomics
+  date: '2022-08-11'
+  link: https://doi.org/gqm8zn
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12864-022-08750-y/MediaObjects/12864_2022_8750_Fig1_HTML.png?as=webp
+  tags:
+  - echinoderms
+  - non-model organism
+  - genomics
+  - invertebates
+  - zoology
+  - gene annotation
+  - gene prediction
+  - mitogenome
+  - nuclear genome
+  _cache: 6c0e4715a74cab11a101de747d00fb78311d78ac39bffcf4b34847bebdbcb844
+- id: doi:10.1186/s12983-022-00461-0
+  title: A subterminal growth zone at arm tip likely underlies life-long indeterminate
+    growth in brittle stars
+  authors:
+  - Vladimir Mashanov
+  - Lauren Whaley
+  - Kenneth Davis
+  - Thomas Heinzeller
+  - Denis Jacob Machado
+  - Robert W. Reid
+  - Janice Kofsky
+  - Daniel Janies
+  publisher: Frontiers in Zoology
+  date: '2022-04-12'
+  link: https://doi.org/gqk9ft
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12983-022-00461-0/MediaObjects/12983_2022_461_Fig2_HTML.png?as=webp
+  tags:
+  - echinoderms
+  - gene expression
+  - invertebrates
+  - non-model organism
+  - regeneration
+  - zoology
+  _cache: b90bc624f4f5a4b9bf072796f820866548a1ac8baf010584c13ee850134207b7
+- id: doi:10.3389/fviro.2022.830202
+  title: Predictions of the SARS-CoV-2 Omicron Variant (B.1.1.529) Spike Protein Receptor-Binding
+    Domain Structure and Neutralizing Antibody Interactions
+  authors:
+  - Colby T. Ford
+  - Denis Jacob Machado
+  - Daniel A. Janies
+  publisher: Frontiers in Virology
+  date: '2022-02-07'
+  link: https://doi.org/gqmf5v
+  image: https://www.frontiersin.org/files/Articles/830202/fviro-02-830202-HTML/image_m/fviro-02-830202-g005.jpg
+  tags:
+  - artificial intelligence
+  - genomic epidemiology
+  - molecular docking
+  - phylogenetics
+  - sensitivity analyses
+  - viruses
+  - zoonoses
+  _cache: c50ef8aea52b4f32460463af3e324bec7b3a0171f5d88552aa34b99aed51a5c9
+- id: doi:10.1017/ash.2021.222
+  title: Fundamentals of genomic epidemiology, lessons learned from the coronavirus
+    disease 2019 (COVID-19) pandemic, and new directions
+  authors:
+  - Denis Jacob Machado
+  - Richard Allen White
+  - Janice Kofsky
+  - Daniel A. Janies
+  publisher: Antimicrobial Stewardship &amp; Healthcare Epidemiology
+  date: '2021-01-01'
+  link: https://doi.org/gqmf5w
+  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20211202193237344-0196:S2732494X21002229:S2732494X21002229_fig1.png?pub-status=live
+  tags:
+  - coronavirus
+  - genomic epidemiology
+  - high-throughput sequencing
+  - One Health
+  - viruses
+  - zoonoses
+  _cache: 0f9a78e0a5d13bf5830ab38640c2045746a0d7a1b3625a2327731403e56c7b7c
+- id: doi:10.1111/cla.12454
+  title: Fundamental evolution of all Orthocoronavirinae including three deadly lineages
+    descendent from Chiroptera-hosted coronaviruses - SARS-CoV, MERS-CoV and SARS-CoV-2
+  authors:
+  - Denis Jacob Machado
+  - Rachel Scott
+  - Sayal Guirales
+  - Daniel A. Janies
+  publisher: Cladistics
+  date: '2021-04-26'
+  link: https://doi.org/gk62fb
+  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20211202193237344-0196:S2732494X21002229:S2732494X21002229_fig3.png?pub-status=live
+  tags:
+  - character categorization
+  - coronaviruses
+  - gene annotation
+  - gene prediction
+  - genomic epidemiology
+  - outgroup selection
+  - phylogenetics
+  - sequence alignment
+  - sensitivity analyses
+  - viruses
+  - zoonoses
+  _cache: 987cd70412948f0285919deafd85c361627b32c576dc51df488b9f3ba0b1765e
+- id: doi:10.1111/cla.12496
+  title: An empirical test of the relationship between the bootstrap and likelihood
+    ratio support in maximum likelihood phylogenetic analysis
+  authors:
+  - Denis Jacob Machado
+  - Fernando Portella de Luna Marques
+  - "Larry Jim\xE9nez-Ferbans"
+  - Taran Grant
+  publisher: Cladistics
+  date: '2021-12-21'
+  link: https://doi.org/gqmf5x
+  image: https://onlinelibrary.wiley.com/cms/asset/3a5d0667-7501-4f3d-bdde-6e1914fcb4a4/cla12496-fig-0001-m.jpg
+  tags:
+  - phylogenetics
+  - clade support
+  - clade frequencies
+  - sensitivity analyses
+  - maximum likelihood
+  - software
+  _cache: 204c7afd121183e271207a370d9b3477d35a3369d0ae7ec20cf8c61ecd3a4557
+- id: doi:10.1016/j.ympev.2020.106966
+  title: 'Evidence of absence treated as absence of evidence: The effects of variation
+    in the number and distribution of gaps treated as missing data on the results
+    of standard maximum likelihood analysis'
+  authors:
+  - Denis Jacob Machado
+  - Santiago Castroviejo-Fisher
+  - Taran Grant
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2021-01-01'
+  link: https://doi.org/gqmf52
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1055790320302384-gr5.jpg
+  tags:
+  - phylogenetics
+  - clade support
+  - clade frequencies
+  - sequence alignment
+  - sensitivity analyses
+  - maximum likelihood
+  _cache: 27671d2bd3a2ac35c865d174483364c04d6a3413f9221f8f1b7ec6865e0c263d
+- id: doi:10.1111/cla.12429
+  title: 'The phylogeny of Dendropsophini (Anura: Hylidae: Hylinae)'
+  authors:
+  - Victor G.D. Orrico
+  - Taran Grant
+  - Julian Faivovich
+  - "Mauricio Rivera\u2010Correa"
+  - Marco A. Rada
+  - Mariana L. Lyra
+  - Carla S. Cassini
+  - Paula H. Valdujo
+  - Walter E. Schargel
+  - Denis J. Machado
+  - Ward C. Wheeler
+  - "Cesar Barrio\u2010Amor\xF3s"
+  - Daniel Loebmann
+  - "Ji\u0159\xED Moravec"
+  - Juliana Zina
+  - "Mirco Sol\xE9"
+  - Marcelo J. Sturaro
+  - Pedro L.V. Peloso
+  - Pablo Suarez
+  - "C\xE9lio F.B. Haddad"
+  publisher: Cladistics
+  date: '2020-09-13'
+  link: https://doi.org/gjh2vq
+  image: https://onlinelibrary.wiley.com/cms/asset/bae01dd2-0f27-45c1-b5b3-896c7ddd460e/cla12429-fig-0003-m.jpg
+  tags:
+  - amphibians
+  - character categorization
+  - outgroup selection
+  - phylogenetics
+  - vertebrates
+  - wildcard taxa
+  - zoological taxonomy
+  - zoology
+  _cache: 32e6995a81495ec4fc797a140f09b11b4d1cf74a2e94cd852ad1b363f3128a87
+- id: doi:10.3389/fgene.2021.788871
+  title: 'Comparative Characterization of Mitogenomes From Five Orders of Cestodes
+    (Eucestoda: Tapeworms)'
+  authors:
+  - Bruna Trevisan
+  - Denis Jacob Machado
+  - Daniel J. G. Lahr
+  - Fernando P. L. Marques
+  publisher: Frontiers in Genetics
+  date: '2021-12-22'
+  link: https://doi.org/gqmf53
+  image: https://www.frontiersin.org/files/Articles/788871/fgene-12-788871-HTML/image_m/fgene-12-788871-g003.jpg
+  tags:
+  - comparative genomics
+  - gene annotation
+  - gene prediction
+  - genome skimming
+  - invertebates
+  - mitogenome
+  - parasitology
+  - zoology
+  _cache: 21e7330be335d10a2406454027e32854a8f833db5e835907ccaeddb9db8d0832
+- id: doi:10.3390/v12080892
+  title: 'FLAVi: An Enhanced Annotator for Viral Genomes of Flaviviridae'
+  authors:
+  - Adriano de Bernadi Schneider
+  - Denis Jacob Machado
+  - Sayal Guirales
+  - Daniel A. Janies
+  publisher: Viruses
+  date: '2020-08-14'
+  link: https://doi.org/gqmf54
+  image: https://www.mdpi.com/viruses/viruses-12-00892/article_deploy/html/images/viruses-12-00892-g009-550.jpg
+  tags:
+  - character categorization
+  - flaviviruses
+  - gene annotation
+  - gene prediction
+  - genomic epidemiology
+  - outgroup selection
+  - phylogenetics
+  - sequence alignment
+  - sensitivity analyses
+  - viruses
+  - zoonoses
+  - software
+  _cache: de1e8d4fc3f2cf2a9b035f57b1ff8505dbd48cc6c2ead35c0ff21efc09dc8109
+- id: doi:10.1371/journal.pone.0232981
+  title: Active Notch signaling is required for arm regeneration in a brittle star
+  authors:
+  - Vladimir Mashanov
+  - Jennifer Akiona
+  - Maleana Khoury
+  - Jacob Ferrier
+  - Robert Reid
+  - Denis Jacob Machado
+  - Olga Zueva
+  - Daniel Janies
+  publisher: PLOS ONE
+  date: '2020-05-12'
+  link: https://doi.org/gqmf55
+  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0232981.g003
+  tags:
+  - echinoderms
+  - gene expression
+  - invertebrates
+  - non-model organism
+  - regeneration
+  - zoology
+  _cache: fd688840647d99734aecca5a8f1b43a95fa2cddf1662a5c2cc28022da22172c1
+- id: doi:10.1016/j.ygeno.2019.10.007
+  title: 'The first complete mitochondrial genome of the sand dollar Sinaechinocyamus
+    mai (Echinoidea: Clypeasteroida)'
+  authors:
+  - Jih-Pai Lin
+  - Mong-Hsun Tsai
+  - Andreas Kroh
+  - Aaron Trautman
+  - Denis Jacob Machado
+  - Lo-Yu Chang
+  - Robert Reid
+  - Kuan-Ting Lin
+  - Omri Bronstein
+  - Shyh-Jye Lee
+  - Daniel Janies
+  publisher: Genomics
+  date: '2020-03-01'
+  link: https://doi.org/gqmf56
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0888754319301855-gr1.jpg
+  tags:
+  - echinoderms
+  - genome skimming
+  - invertebrates
+  - mitogenome
+  - non-model organism
+  - zoology
+  _cache: 4ef892c72c0642ffc7636601c11efc6b3dff84f017b608845fda499f463ff4b8
+- id: doi:10.7717/peerj.7543
+  title: Genome skimming is a low-cost and robust strategy to assemble complete mitochondrial
+    genomes from ethanol preserved specimens in biodiversity studies
+  authors:
+  - Bruna Trevisan
+  - Daniel M.C. Alcantara
+  - Denis Jacob Machado
+  - Fernando P.L. Marques
+  - Daniel J.G. Lahr
+  publisher: PeerJ
+  date: '2019-09-13'
+  link: https://doi.org/gqmf57
+  image: https://dfzljdn9uc3pi.cloudfront.net/2019/7543/1/fig-2-2x.jpg
+  tags:
+  - genome skimming
+  - invertebrates
+  - mitogenome
+  - non-model organism
+  - zoology
+  _cache: 2ca2fd95e88a62d18318c8c660ce65c4c9504b92b220a72b858f409d90c81375
+- id: doi:10.1002/ece3.3918
+  title: A new strategy to infer circularity applied to four new complete frog mitogenomes
+  authors:
+  - Denis Jacob Machado
+  - Daniel Janies
+  - Cory Brouwer
+  - Taran Grant
+  publisher: Ecology and Evolution
+  date: '2018-03-25'
+  link: https://doi.org/gdh2tr
+  image: https://onlinelibrary.wiley.com/cms/asset/e7a780bc-056a-4cb7-bd7c-2e8c1c554289/ece33918-fig-0001-m.jpg
+  tags:
+  - amphibian
+  - genome skimming
+  - vertebrates
+  - mitogenome
+  - non-model organism
+  - sensitivity analyses
+  - zoology
+  - software
+  _cache: b22baeace90370d2efeb451f49a086841aa2b78ff7f6b2c10fb8fc7632a38ab6
+- id: doi:10.2994/SAJH-D-17-00017.1
+  title: 'Phylogenetic Systematics of Dart-Poison Frogs and Their Relatives Revisited
+    (Anura: Dendrobatoidea)'
+  authors:
+  - Taran Grant
+  - Marco Rada
+  - Marvin Anganoy-Criollo
+  - Abel Batista
+  - Pedro Henrique Dias
+  - Adriana Moriguchi Jeckel
+  - Denis Jacob Machado
+  - "Jos\xE9 Vicente Rueda-Almonacid"
+  publisher: South American Journal of Herpetology
+  date: '2017-09-01'
+  link: https://doi.org/gdmc4f
+  image: https://bioone.org/ContentImages/Journals/sajh/12/s1/SAJH-D-17-00017.1/graphic/f36_S1.jpg
+  tags:
+  - amphibians
+  - character categorization
+  - outgroup selection
+  - phylogenetics
+  - vertebrates
+  - zoological taxonomy
+  - zoology
+  _cache: 6a9dc374f6971d02faa58caff311b1649b9d220f40926999d76d829fa0e4767b
+- id: doi:10.1111/1755-0998.12492
+  title: 'Mitogenome assembly from genomic multiplex libraries: comparison of strategies
+    and novel mitogenomes for five species of frogs'
+  authors:
+  - D. J. Machado
+  - M. L. Lyra
+  - T. Grant
+  publisher: Molecular Ecology Resources
+  date: '2015-12-23'
+  link: https://doi.org/f8hshf
+  image: https://onlinelibrary.wiley.com/cms/asset/4febcad6-6a17-4f0b-9b24-d97882b9f346/men12492-fig-0001-m.jpg
+  tags:
+  - amphibian
+  - genome skimming
+  - vertebrates
+  - mitogenome
+  - non-model organism
+  - zoology
+  - software
+  _cache: 05dd68219e08c9c4e94aadcd85ad31802ca57bf7f250c39a27bfe53cdbb908b9
+- id: doi:10.1186/s12859-015-0642-9
+  title: "YBYR\xC1 facilitates comparison of large phylogenetic trees"
+  authors:
+  - Denis Jacob Machado
+  publisher: BMC Bioinformatics
+  date: '2015-07-01'
+  link: https://doi.org/gb8w59
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-015-0642-9/MediaObjects/12859_2015_642_Fig1_HTML.gif?as=webp
+  tags:
+  - character categorization
+  - phylogenetics
+  - sensitivity analyses
+  - topological distances
+  - tree comparison
+  - wildcard taxa
+  - software
+  _cache: 7f5e5cd4cd36ec58731254415a0b561bbbab8679ec0653bea3b81ce904127bd5
+- id: doi:10.11646/zootaxa.3505.1.7
+  title: 'The forgotten origin of Acanthobothrium Blanchard, 1848 (Tetraphyllidea:
+    Onchobothriidae)'
+  authors:
+  - DENIS JACOB MACHADO
+  - FERNANDO PORTELLA DE LUNA MARQUES
+  publisher: Zootaxa
+  date: '2012-10-03'
+  link: https://doi.org/gqmgsr
+  image: https://uconn-today-universityofconn.netdna-ssl.com/wp-content/uploads/2017/12/2_20171029-Acanth_rodm.jpg
+  tags:
+  - invertebates
+  - parasitology
+  - zoological taxonomy
+  - zoology
+  _cache: 7a56cb235b4a92ecfb583e8745344d45526d6f31a48313d9f0d4e6c19bb4df60
