@@ -1,6 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.3390/cells13171491
+  title: The Relationship between HERV, Interleukin, and Transcription Factor Expression
+    in ZIKV Infected versus Uninfected Trophoblastic Cells
+  authors:
+  - "Anderson Lu\xEDs da Costa"
+  - Paula Prieto-Oliveira
+  - "M\xE1rcia Duarte-Barbosa"
+  - Robert Andreata-Santos
+  - Cristina M. Peter
+  - Thamires Prolo
+  - Fernando Antoneli
+  - Maria Isabel V. G. de Carvalho
+  - "Ricardo Dur\xE3es-Carvalho"
+  - Marcelo Ribeiro da Silva Briones
+  - Juliana T. Maricato
+  - Paolo M. A. Zanotto
+  - Denis Jacob Machado
+  - Luiz Mario Ramos Janini
+  publisher: Cells
+  date: '2024-04-02'
+  link: https://doi.org/gt96hw
+  image: images/20240402_ZIKV.jpg
+  tags:
+  - flaviviruses
+  - viruses
+  - transcriptomics
+  - infection
+  _cache: be2f21fc9bdcaa91d63159cd5ef2f64b4317e58880270d915f21aafa492a7999
 - id: doi:10.3389/fviro.2024.1419276
   title: Predicting Antibody and ACE2 Affinity for SARS-CoV-2 BA.2.86 and JN.1 with
     In Silico Protein Modeling and Docking
@@ -19,34 +47,6 @@
   - docking
   - epidemiology
   _cache: 10ddb019b552505cdb4d702c968b0eb3f43658328c8ff88d248cde76902103ed
-- id: doi:10.20944/preprints202404.0232.v1
-  title: Changes in HERVs Expression and Interleukins mRNAs Levels in Trophoblastic
-    Cells Infected by ZIKV
-  authors:
-  - "Anderson Lu\xEDs da Costa"
-  - Paula Prieto-Oliveira
-  - "M\xE1rcia Duarte-Barbosa"
-  - Robert Andreata-Santos
-  - Cristina M. Peter
-  - Thamires Prolo
-  - Fernando Antoneli
-  - Maria Isabel V. G. de Carvalho
-  - "Ricardo Dur\xE3es-Carvalho"
-  - Marcelo Ribeiro da Silva Briones
-  - Juliana T. Maricato
-  - Paolo M. A. Zanotto
-  - Denis Jacob Machado
-  - Luiz Mario Ramos Janini
-  publisher: Preprints
-  date: '2024-04-02'
-  link: https://doi.org/gtvvqm
-  image: images/20240402_ZIKV.jpg
-  tags:
-  - flaviviruses
-  - viruses
-  - transcriptomics
-  - infection
-  _cache: e28e643aea122670a1fe071709da8b4a49b67a5af7be1e6437530173c0062184
 - id: issn:2508-7436
   title: "Replicating Ford et al.\u2019s investigation on the immune consequences\
     \ and SARS-CoV-2 antibody\u2019s binding affinity using an in silico approach"
