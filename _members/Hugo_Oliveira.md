@@ -16,6 +16,19 @@ links:
   linkedin: hugo-de-paula-oliveira-4a212a1a8
 ---
 
-# Hugo de Paula Oliveira
+## Who am I?
 
-I am a Master's student in Computational Modeling at the National Laboratory for Scientific Computing (LNCC, Brazil). I have previous research experience on baculovirus molecular biology and UV-sensor proteins. I am interested in bioinformatics and genomics.
+Hello!
+
+I’m a M.Sc. student at the National Laboratory for Scientific Computing (LNCC), with a strong interest in applying genomic approaches to evolutionary biology.
+
+Currently, I am investigating the in-silico landscape of genome recombination in dengue viruses under the supervision of Dr. Kary Ocaña and Dr. Denis Jacob Machado.
+
+## Languages
+- Portuguese (native)
+- English (fluent)
+
+## Education
+
+- M.Sc. Computational Modeling (2023-ongoing): National Laboratory for Scientific Computing, Brazil.
+- B.Sc. Biological Sciences (2019-2023): Federal University of Santa Maria, Brazil.
