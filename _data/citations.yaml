@@ -1,6 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1186/s12864-024-10926-7
+  title: Unveiling putative modulators of mutable collagenous tissue in the brittle
+    star Ophiomastix wendtii - an RNA-Seq analysis
+  authors:
+  - Reyhaneh Nouri
+  - Vladimir Mashanov
+  - April Harris
+  - Gari New
+  - William Taylor
+  - Daniel Janies
+  - Robert W. Reid
+  - Denis Jacob Machado
+  publisher: BMC Genomics
+  date: '2024-10-29'
+  link: https://doi.org/g8pnz7
+  image: images/20241029_mct.jpg
+  tags:
+  - echinoderms
+  - collagen
+  - transcriptomics
+  _cache: 773ba42498d79218517734015cef85b046e2acf734a29397d78b35b99091cfae
 - id: doi:10.3390/cells13171491
   title: The Relationship between HERV, Interleukin, and Transcription Factor Expression
     in ZIKV Infected versus Uninfected Trophoblastic Cells
