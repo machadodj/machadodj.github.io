@@ -2,7 +2,7 @@
 name: Vedika Judyani
 image: headshots/Vedika_Judyani.jpg
 description: Master's Student
-role: msc
+role: alumni
 aliases: 
   - Vedika Judyani
   - V. Judyani

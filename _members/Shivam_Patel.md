@@ -2,7 +2,7 @@
 name: Shivam Patel
 image: headshots/ShivamPatel.jpg
 description: Master's Student
-role: msc
+role: alumni
 aliases: 
   - Shivam Patel
   - S. Patel

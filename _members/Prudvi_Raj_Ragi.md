@@ -2,7 +2,7 @@
 name: Prudvi Raj Ragi
 image: headshots/PrudviRajRagi.jpg
 description: Master's Student
-role: msc
+role: alumni
 aliases: 
   - Prudvi Raj Ragi
   - P. Raj Ragi
