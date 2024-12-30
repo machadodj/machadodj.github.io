@@ -17,6 +17,10 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 ## <i class="fas fa-user-group"></i>Talks
 
+### 2025
+
+- **January 5, 2025**: "Unveiling the modulators of mutable collagenous tissue in the brittle star _Ophiomastix	wendtii_: an RNA-Seq analysis" by Reyhaneh Nouri, Vladimir Mashanov, and Denis Jacob Machado. This talk was given by Reyhaneh Nouri at the 2025 Annual Meeting of the Society for Integrative and Comparative Biology (SICB) (Atlanta, GA, USA). [Click here for the slide deck](https://gitlab.com/phyloinformatics-presentations/20241121/-/blob/main/reyhaneh_nouri/20250105_Nouri.pdf).
+
 ### 2024
 
 - **October 21, 2024**: "How much should we worry about SARS-CoV-2 mutations according to AI?" by Anastasiia Duchenko, under the supervision of Dr. Jun-tao Guo and Dr. Denis Jacob Machado. This talk was given by Anastasiia Duchenko at the 10th Annual Biological Sciences Research Symposium (UNC Charlotte, NC, USA). Additional information is available upon request.
