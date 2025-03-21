@@ -2,7 +2,7 @@
 name: Johannes Schultheis (he/him)
 image: headshots/Johannes_Schultheis.jpg
 description: Master's student (external)
-role: msc
+role: alumni
 aliases:
   - Johannes Schultheis
   - J. Schultheis
@@ -14,11 +14,11 @@ links:
 
 # Who is Johannes?
 
-Johannes is a M.Sc. student with interest in bioinformatics. Currently writing the master thesis as part of a double degree program between the University of Münster and the Universidade de São Paulo, supervised by Drs. Taran Grant and Denis Jacob Machado.
+Johannes was a M.Sc. student (now graduated!) with interest in bioinformatics. He produced his Master's thesis as part of a double degree program between the University of Münster and the Universidade de São Paulo, supervised by Drs. Taran Grant and Denis Jacob Machado.
 
 # Education
 
-- M.Sc. Biosciences (2021-ongoing): University of Münster, Germany
+- M.Sc. Biosciences (2021-2025): University of Münster, Germany
 - B.Sc. Biosciences (2018-2021): University of Münster, Germany
 
 # Languages
