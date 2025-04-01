@@ -82,6 +82,25 @@ The Phyloinformatics Lab received different types of support from UNC Charlotte:
 
 Our lab also benefitted from generous startup funds from UNC Charlotte.
 
+### CNPq
+
+On February 2025, our project, **ARISE in HPC: Artificial Intelligence for Recombination Identification and Surveillance in Epidemiology in a CAD Environment**, has been officially approved for funding under the CNPq/MCTI/FNDCT No. 22/2024 - Programa Conhecimento Brasil.
+
+The grant totals R$ 219,591.00 (R$ 100,000.00 for capital and R$ 119,591.00 for operational costs) and will support international collaboration, including researcher mobility, technical visits, and conference participation. The project will be executed in partnership with the National Laboratory for Scientific Computing (LNCC, Brazil), from December 27, 2024, to December 31, 2026.
+
+{%
+include gallery.html
+style="line"
+
+image1="images/cnpq.jpg"
+link1="https://www.gov.br/cnpq/pt-br"
+tooltip1="CNPq"
+%}
+{:.center}
+
+{% include link.html link="https://www.gov.br/cnpq/pt-br" text="Learn more about CNPq" icon="fas fa-arrow-right" flip=true %}
+{:.center}
+
 ### FAPESP
 
 Dr. Jacob Machado has accumulated 10+ years of uninterrupted research funding, including highly competitive awards and an extensive track record of developing and organizing multidisciplinary research projects from São Paulo Research Foundation (FAPESP, file nos. 2009/00886-3, 2009/13561-5, 2013/05958-8, and 2015/18654-2). These include three long-term projects and a one-year internship that initiated an international collaboration involving the University of North Carolina at Charlotte (UNC Charlotte) and USP in 2016. Furthermore, I Dr. Jacob Machado has been a bioinformatics collaborator of Professor Fernando P. L. Marques (USP) on a four-year project since 2018 (FAPESP, file no. 2018/03534-0). Finally, he collaborated on a long-term grant awarded to Professor Taran Grant (USP) by FAPESP (file no. 2018/15425-0), initiated in July 2019.
@@ -94,4 +113,7 @@ Dr. Jacob Machado has accumulated 10+ years of uninterrupted research funding, i
   link1="https://fapesp.br/en"
   tooltip1="FAPESP"
 %}
+{:.center}
+
+{% include link.html link="https://fapesp.br/" text="Learn more about FAPESP" icon="fas fa-arrow-right" flip=true %}
 {:.center}

@@ -12,6 +12,11 @@ We call **phyloinformatics** the approach that uses computational intelligence a
 
 In response to the continued increase in the risk of zoonoses, our lab has two main lines of research. **First**, investigate new pathogens' emergence, evolution, and spread, focusing on preventing and treating infectious diseases. **Second**, create computational and molecular solutions to make data from biorepositories more readily available to biomedical research.
 
+Click the link below to listen to Dr. Jacob Machado talking about the Phyloinformatics Lab at the [de-CIPHERing Infectious Diseases podcast](https://deciphering.podbean.com/e/phyloinformatics-with-dr-denis-jacob-machado/).
+
+{% include link.html link="https://deciphering.podbean.com/e/phyloinformatics-with-dr-denis-jacob-machado/" text="Go to podcast episode" icon="fas fa-arrow-right" flip=true %}
+{:.center}
+
 <!--Banner-->
 
 {:.center}
