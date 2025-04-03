@@ -1,4 +1,27 @@
 ##
+# 2025
+##
+
+# 2025: ML
+- id: doi:10.1111/cla.12610
+  title: Machine learning models accurately predict clades of proteocephalidean tapeworms (Onchoproteocephalidea) based on host and biogeographical data
+  publisher: Cladistics
+  date: "2025-03-06"
+  image: images/20250206_cla12610fig2m.jpg
+  tags:
+    - ai
+    - phylogenetics
+    - biogeography
+    - parasitology
+  authors:
+  - Alvesa, P. V.
+  - da Silva, R. J.
+  - Scholzc, T.
+  - de Chambrier, A.
+  - Duchenko, A.
+  - Machadob, D. J.
+
+##
 # 2024
 ##
 
