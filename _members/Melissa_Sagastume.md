@@ -1,5 +1,5 @@
 ---
-name: Melissa Sagastume (she/her)
+name: Melissa Sagastume
 image: headshots/the_bend_in_the_road_1985.64.8.jpg
 description: UNC Charlotte's Undergrad Student 
 role: alumni

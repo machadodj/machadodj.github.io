@@ -1,5 +1,5 @@
 ---
-name: Aline Acosta (she/her)
+name: Aline Acosta
 image: headshots/AlineAcosta.jpg
 description: Adjunct Lecturer
 role: colab

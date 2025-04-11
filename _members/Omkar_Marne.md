@@ -1,5 +1,5 @@
 ---
-name: Omkar Marne (he/him)
+name: Omkar Marne
 image: headshots/OmkarMarne.jpg
 description: Ph.D. student and teaching assistant
 role: phd

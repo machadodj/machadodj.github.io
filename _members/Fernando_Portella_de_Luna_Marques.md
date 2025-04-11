@@ -1,5 +1,5 @@
 ---
-name: Fernando Portella de Luna Marques (he/him)
+name: Fernando Portella de Luna Marques
 image: headshots/FernandoPortelladeLunaMarques.jpg
 description: Professor
 role: colab

@@ -1,5 +1,5 @@
 ---
-name: Anastasiia Duchenko (she/her)
+name: Anastasiia Duchenko
 image: headshots/AnastasiiaDuchenko.jpg
 description: Ph.D. student
 role: phd

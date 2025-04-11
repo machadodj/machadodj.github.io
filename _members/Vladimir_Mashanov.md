@@ -1,5 +1,5 @@
 ---
-name: Vladimir Mashanov (he/him)
+name: Vladimir Mashanov
 image: headshots/VladimirMashanov.jpg
 description: Associate Research Scientist
 role: colab

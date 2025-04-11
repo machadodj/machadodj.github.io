@@ -1,5 +1,5 @@
 ---
-name: Manish Kota (he/him)
+name: Manish Kota
 image: headshots/ManishKota.jpg
 description: Undergrad Student (external)
 role: alumni

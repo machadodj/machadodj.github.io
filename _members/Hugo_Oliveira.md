@@ -1,5 +1,5 @@
 ---
-name: Hugo de Paula Oliveira (he/him)
+name: Hugo de Paula Oliveira
 image: headshots/HugoOliveira.jpg
 description: Master's student (external)
 role: msc

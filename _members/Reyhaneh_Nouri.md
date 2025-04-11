@@ -1,5 +1,5 @@
 ---
-name: Reyhaneh Nouri (she/her)
+name: Reyhaneh Nouri
 image: headshots/ReyhanehNouri.jpg
 description: Ph.D. student and research assistant
 role: phd

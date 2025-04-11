@@ -1,5 +1,5 @@
 ---
-name: Drashti Mehta (she/her)
+name: Drashti Mehta
 image: headshots/DrashtiMehta.jpg
 description: Master's student and lab's intern
 role: alumni

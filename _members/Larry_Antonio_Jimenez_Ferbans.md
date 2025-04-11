@@ -1,5 +1,5 @@
 ---
-name: Larry Antonio Jiménez Ferbans (he/him)
+name: Larry Antonio Jiménez Ferbans
 image: headshots/LarryAntonio_JimenezFerbans.jpg
 description: Associate Professor
 role: colab

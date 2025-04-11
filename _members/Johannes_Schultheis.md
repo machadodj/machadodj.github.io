@@ -1,5 +1,5 @@
 ---
-name: Johannes Schultheis (he/him)
+name: Johannes Schultheis
 image: headshots/Johannes_Schultheis.jpg
 description: Master's student (external)
 role: alumni

@@ -1,5 +1,5 @@
 ---
-name: Hannah Zeru (she/her)
+name: Hannah Zeru
 image: headshots/HannahZeru.jpg
 description: Undergraduate Student
 role: alumni

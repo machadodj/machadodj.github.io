@@ -1,5 +1,5 @@
 ---
-name: Philippe Vieira Alves (he/him)
+name: Philippe Vieira Alves
 image: headshots/Philippe_Vieira_Alves.jpg
 description: Postdoctoral Fellow (external)
 role: alumni

@@ -1,5 +1,5 @@
 ---
-name: Bou Haidara (he/him)
+name: Bou Haidara
 image: headshots/BouHaidara.jpg
 description: Master's student and research assistant
 role: alumni

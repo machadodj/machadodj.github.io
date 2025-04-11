@@ -122,12 +122,6 @@ caption="Corridor view of our dry lab"
 
 ### <i class="fas fa-exclamation"></i>How to Reach Out
 
-Olá! Salam! Привіт! नमस्ते! Hi!
-
-**The Phyloinformatics Lab promotes equity, equality, diversity, and inclusion** as [foundational research skills](https://doi.org/10.1038/s41562-022-01406-7). Diversity is the presence of differences that enrich our workspace and our research. Equity ensures a level playing field where everyone has the resources and opportunities to flourish, particularly those from underrepresented groups who may have faced historical barriers. Inclusion fosters a welcoming environment where all people, regardless of background, feel valued, respected, and empowered to reach their full potential.
-
-At our lab, fostering a strong sense of community is key to creating a safe and inclusive work environment that is free from discrimination. We believe in empowering our team by providing diverse learning and communication channels. This allows everyone to thrive, share ideas, and see how their contributions directly impact our goals. We remain committed to upholding all relevant policies and ethical practices.
-
 We would be thrilled if you're considering joining the vibrant community at the Phyloinformatics Lab. We receive a fantastic number of weekly emails from individuals interested in working or collaborating with us, and your enthusiasm is genuinely appreciated!
 
 To streamline our communication and ensure everyone gets the attention they deserve, we've put together a few friendly tips for reaching out, especially if you're a student interested in job opportunities or collaboration:
@@ -139,12 +133,3 @@ To streamline our communication and ensure everyone gets the attention they dese
 5. If your question is about applying to become a student, perhaps in one of our graduate programs in bioinformatics, you should first check the details on UNC Charlotte's website. For example, [click here](https://cci.charlotte.edu/academics/bioinformatics/bioinformatics-ms-program/) to read about our Master's in bioinformatics and [click here](https://gradadmissions.charlotte.edu/programs/bioinformatics-and-computational-biology-phd#:~:text=The%20Ph.,worldwide%20in%20academia%20and%20industry) to read about the Ph.D. program on bioinformatics and computational biology.
 
 We're eager to connect with individuals who share our passion for phyloinformatics, and we look forward to hearing from you. Your thoughtful approach will undoubtedly make our interaction more fruitful. Let's embark on this exciting journey together!
-
-{% include section.html %}
-
-### <i class="fas fa-exclamation"></i>Acknowledgement
-
-We acknowledge the Catawba, Waxhaw, Cheraw, and Sugeree peoples, who are the traditional custodians of the land that The University of North Carolina at Charlotte is located, and, as many of us are settlers, migrants, or descendants of those forcefully brought to this land, we are here because this land is colonized. We would also like to recognize the many enslaved and indentured peoples who were forced to dedicate their labor to the construction of what is now Mecklenburg County. To these peoples and their descendants, we acknowledge the grave injustices inflicted on them and recognize the indelible mark of their labor on the creation of the space in which we gather today.
-
-{:.center}
-{% include link.html type="external" icon="" text="Learn more" link="https://native-land.ca/" style="button" %}

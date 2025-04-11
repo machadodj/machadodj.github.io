@@ -1,5 +1,5 @@
 ---
-name: Cameron Jones (he/him)
+name: Cameron Jones
 image: headshots/CameronJones.jpg
 description: Undergraduate Student (external)
 role: alumni

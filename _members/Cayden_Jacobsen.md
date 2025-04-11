@@ -1,5 +1,5 @@
 ---
-name: Cayden Jacobsen (he/him)
+name: Cayden Jacobsen
 image: headshots/CaydenJacobsen.jpg
 description: Undergraduate Student (external)
 role: undergrad

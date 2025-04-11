@@ -1,5 +1,5 @@
 ---
-name: Paula Prieto Oliveira (she/her)
+name: Paula Prieto Oliveira
 image: headshots/PaulaPrietoOliveira.jpg
 description: Postdoctoral Fellow
 role: postdoc
