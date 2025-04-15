@@ -19,6 +19,7 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 ### 2025
 
+- **April 17, 2025**: "FLAVi 2: Increasing Efficiency and Accessibility of Flaviviridae Genome Annotation" by Cayden Jacobsen and Denis Jacob Machado. This talk was given at the UNC Charlotte Undergraduate Research Conference (URC) 2025 (Charlotte, NC, USA). [Click here for the YouTube video](https://www.youtube.com/watch?v=k6bCMXNy_NQ).
 - **January 5, 2025**: "Unveiling the modulators of mutable collagenous tissue in the brittle star _Ophiomastix	wendtii_: an RNA-Seq analysis" by Reyhaneh Nouri, Vladimir Mashanov, and Denis Jacob Machado. This talk was given by Reyhaneh Nouri at the 2025 Annual Meeting of the Society for Integrative and Comparative Biology (SICB) (Atlanta, GA, USA). [Click here for the slide deck](https://gitlab.com/phyloinformatics-presentations/20241121/-/blob/main/reyhaneh_nouri/20250105_Nouri.pdf).
 
 ### 2024
@@ -40,7 +41,7 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 ### 2022
 
-- **September 16, 2022**: "What is phyloinformatics and how can it help us respond faster to health emergencies?," at CCI's Academic Research Seminar -- Charlotte, NC, USA ([click here](https://drive.google.com/file/d/1EC5uAxjaWelf0XsoTaTn0UgWNLBuIpMa/view?usp=sharing))
+- **September 16, 2022**: "What is phyloinformatics and how can it help us respond faster to health emergencies?," a talk given by Dr. Denis Jacob Machado at CCI's Academic Research Seminar -- Charlotte, NC, USA.
 
 {% include section.html %}
 
@@ -49,12 +50,15 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 ## <i class="fas fa-user-group"></i>Posters
 
+### 2025
+
+- **April 23, 2025**: "Automated Protocol for Testing Crucial Mutations in Coronaviruses Using AI: Insights into Immune Escape and Resistance," by Anastasiia Duchenko, Daniel Janies, and Denis Jacob Machado at Mutations in Time and Space 2025 Conference -- Broad Institute of MIT and Harvard, Cambridge, MA, USA ([click here to go to the GitLab project](https://gitlab.com/staisyelash/2025_mutationsintimeandspace_duchenko))
 
 ### Fall 2024 Bioinformatics Poster Showcase
 
 The Bioinformatics Graduate Student Poster Presentation happened Friday, November 22nd at 3:30pm (immediately following our Bioinformatics Seminar series) on the 2nd floor of the bioinformatics building (9331 Robert D. Snyder Rd, Charlotte, NC 28262, USA). Below, we list each of our students, their poster titles, and the link for the poster and digital materials:
 
-- [Anastasiia Duchencko](https://phyloinformatics.com/members/Anastasiia_Duchenko.html) (Ph.D. student): "SARS-CoV-2 mutations in Spike
+- [Anastasiia Duchenko](https://phyloinformatics.com/members/Anastasiia_Duchenko.html) (Ph.D. student): "SARS-CoV-2 mutations in Spike
 RBD and its impact on the docking to antibodies and ACE2". [Click here to go to GitLab](https://gitlab.com/phyloinformatics-presentations/20241121/-/tree/main/anastasiia_duchenko?ref_type=heads).
 - [Prudvi Ragi](https://phyloinformatics.com/members/Prudvi_Raj_Ragi.html) (Master's student): "Investigating sodium voltage-gated channel alpha subunit 4 (SCN4A) mutations in poison frogs". Available at [Click here to go to GitLab](https://gitlab.com/phyloinformatics-presentations/20241121/-/tree/main/prudvi_ragi?ref_type=heads).
 - [Shivam Patel](https://phyloinformatics.com/members/Shivam_Patel.html) (Master's student): "Docking analyses to identify
