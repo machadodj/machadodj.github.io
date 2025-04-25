@@ -5,12 +5,14 @@
   title: Machine learning models accurately predict clades of proteocephalidean tapeworms
     (Onchoproteocephalidea) based on host and biogeographical data
   authors:
-  - Alvesa, P. V.
-  - da Silva, R. J.
-  - Scholzc, T.
-  - de Chambrier, A.
-  - Duchenko, A.
-  - Machadob, D. J.
+  - P. V. Alves
+  - R. J. da Silva
+  - T. Scholz
+  - A. de Chambrier
+  - J. L. Luque
+  - A. Duchenko
+  - D. Janies
+  - D. Jacob Machado
   publisher: Cladistics
   date: '2025-03-06'
   link: https://doi.org/g9btw6
@@ -20,7 +22,7 @@
   - phylogenetics
   - biogeography
   - parasitology
-  _cache: a6e12c9d538254ee05795d84c8e9d34d00cb252620b8cb10b1f7509104312bfb
+  _cache: fe802c12f988fab218d34ef4bb5aa5a13cf2bd4c1a57c44181e7b8262b50498e
 - id: doi:10.1186/s12864-024-10926-7
   title: Unveiling putative modulators of mutable collagenous tissue in the brittle
     star Ophiomastix wendtii - an RNA-Seq analysis
