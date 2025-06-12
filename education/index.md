@@ -15,6 +15,10 @@ nav:
 
 ## <i class="fas fa-school"></i>Teaching and training
 
+### Summer 2025
+
+- Universidad del Magdalena (Santa Marta, Colombia): A 40 hours bioinformatics class for non-bioinformaticians, covering HTS, genome skimming, RNA-seq, and Metabarcoding. Thanks to [Professor Dr. Larry Jiménez Ferbans](https://investigacion.unimagdalena.edu.co/persona/perfil/5178) for the invitation. Class materials were prepared by Dr. Paula Prieto Oliveira, Anastasiia Duchenko, Reyhaneh Nouri, Giovanna Yumi Scorsim Omura, and Omkar Marne. [Click here to see the class materials on GitLab](https://gitlab.com/phyloinformatics/binfco25).
+
 ### Fall 2024-Current
 
 - UNC Charlotte: [**Programming II**](https://gitlab.com/codepython3) (BINF-6112 and BINF-8112 combined), the Dept. of Bioinformatics and Genomics' second graduate-level course in Shell and Python3 programming. Although main class materials are being made available publicly in [GitLab](https://gitlab.com/codepython3), students and anyone else that is interested may also find additional materials in our [Soft Tips](https://phyloinformatics.notion.site/Soft-tips-2303f513e4e6461285e4ad838bc9db61) page. [Click here to see the syllabus](https://gitlab.com/codepython3/read/-/blob/main/SYLLABUS.md).
