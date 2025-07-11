@@ -1,6 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.46471/gigabyte.157
+  title: A draft genome assembly for the dart-poison frog Phyllobates terribilis
+  authors:
+  - R. Marquez
+  - D. Jacob Machado
+  - R. Nouri
+  - K. L. Gendreau
+  - D. Janies
+  - R. A. Saporito
+  - M. R. Kronforst
+  - T. Grant
+  publisher: Gigabyte
+  date: '2025-06-20'
+  link: https://doi.org/g9svkm
+  image: images/2010_JKoehler.jpg
+  tags:
+  - genomics
+  - bioinformatics
+  - herpetology
+  _cache: b0ced50fdf0b29dcbe97b4b5947fec48041ccc16412bf4c80ca20a7fa81f2052
 - id: doi:10.1111/cla.12610
   title: Machine learning models accurately predict clades of proteocephalidean tapeworms
     (Onchoproteocephalidea) based on host and biogeographical data
