@@ -19,6 +19,7 @@ This is a work in progress. Whenever possible, I'll add materials from recent or
 
 ### 2025
 
+- **July 9, 2025**: "AI-driven predictions of phylogenetic trees from zoogeographical data in dactylogyrids (Platyhelminthes: Monogenea): a novel strategy for external phylogenetic support" by Aline Acosta, Anastasiia Duchenko, and Denis Jacob Machado. This talk was given at The 100th Annual Meeting of the American Society of Parasitologists (Winstom-Salem, NC, USA). [Click here for the Conference Website](https://aspmeetings.wixsite.com/2025).
 - **April 17, 2025**: "FLAVi 2: Increasing Efficiency and Accessibility of Flaviviridae Genome Annotation" by Cayden Jacobsen and Denis Jacob Machado. This talk was given at the UNC Charlotte Undergraduate Research Conference (URC) 2025 (Charlotte, NC, USA). [Click here for the YouTube video](https://www.youtube.com/watch?v=k6bCMXNy_NQ).
 - **January 5, 2025**: "Unveiling the modulators of mutable collagenous tissue in the brittle star _Ophiomastix	wendtii_: an RNA-Seq analysis" by Reyhaneh Nouri, Vladimir Mashanov, and Denis Jacob Machado. This talk was given by Reyhaneh Nouri at the 2025 Annual Meeting of the Society for Integrative and Comparative Biology (SICB) (Atlanta, GA, USA). [Click here for the slide deck](https://gitlab.com/phyloinformatics-presentations/20241121/-/blob/main/reyhaneh_nouri/20250105_Nouri.pdf).
 
