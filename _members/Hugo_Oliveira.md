@@ -2,7 +2,7 @@
 name: Hugo de Paula Oliveira
 image: headshots/HugoOliveira.jpg
 description: Master's student (external)
-role: msc
+role: alumni
 aliases:
   - Hugo de Paula Oliveira
   - H. de Paula Oliveira
@@ -15,6 +15,8 @@ aliases:
 links:
   linkedin: hugo-de-paula-oliveira-4a212a1a8
 ---
+
+Hugo obtained his Master's degree on July 11, 2025, at 11:52 AM (GMT-3). The Phyloinformatics Lab was honored to co-advise him.
 
 ## Who am I?
 
