@@ -42,3 +42,7 @@ My PhD research at the Phyloinformatics Lab centers on:
 
 - Gernet, M. D. V., _et al_. (2022). First record of _Mirinaba cadeadensis_ (Gastropoda: Strophocheilidae) in an anthropogenic shell mound from the Paraná coast, Southern Brazil. _Zoologia_ (Curitiba), **39**. [CLICK HERE](https://zoobank.org/1A3AB92D-DF9C-4C9D-BD47-F514C5E32177).
 - Gernet, M. V., _et al_. (2021). _Mirinaba curitibana_: A species at high extinction risk, or is it already gone? _Tentacle_, **29**. [CLICK HERE](https://www.researchgate.net/publication/350291303_MIRINABA_CURYTIBANA_A_SPECIES_AT_HIGH_EXTINCTION_RISK_OR_IS_IT_ALREADY_GONE).
+
+## Awards
+
+- The Thomas L. Reynolds Center for Graduate Life & Learning (CGLL) the second annual Campus Superhero Award for 2025, for her efforts in going above and beyond to help her fellow graduate students., UNC Charlotte.
