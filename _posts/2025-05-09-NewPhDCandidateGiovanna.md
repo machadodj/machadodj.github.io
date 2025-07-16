@@ -8,7 +8,7 @@ author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
 
-# Congratulations to Giovanna Yumi Scorsim Omura, our newst Ph.D. Candidate
+# Congratulations to Giovanna Yumi Scorsim Omura, our newest Ph.D. Candidate
 
 {% include figure.html image="images/20250509_GiovannasProposalDefense.jpg" caption="From left to right: Hannah, Stevie, Adam, Paula, Anastasiia, Reyhaneh, Giovanna, Aline, Denis, Rob, and Dan."%}{:.center}
 

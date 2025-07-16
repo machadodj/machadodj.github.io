@@ -30,7 +30,7 @@ Click the link below to listen to Dr. Jacob Machado talking about the Phyloinfor
 <!--Research-->
 
 {% capture text %}
-**Our reserach can be divided into four components.** _First_, facilitating resource-efficient molecular analyses and making data from museum biorepositories more readily available to biomedical research. _Second_, improving genomic resources of non-model organisms with a focus on animals of particular medical or environmental interest. _Third_, developing phylogenetics solutions, especially if they can help improve our understanding of zoonosis. _Fourth_, integrating “omics” technologies (e.g., genomics, transcriptomics, metabolomics, and proteomics) to study complex host-pathogen systems in the context of One Health.
+**Our research can be divided into four components.** _First_, facilitating resource-efficient molecular analyses and making data from museum biorepositories more readily available to biomedical research. _Second_, improving genomic resources of non-model organisms with a focus on animals of particular medical or environmental interest. _Third_, developing phylogenetics solutions, especially if they can help improve our understanding of zoonosis. _Fourth_, integrating “omics” technologies (e.g., genomics, transcriptomics, metabolomics, and proteomics) to study complex host-pathogen systems in the context of One Health.
 
 {% include link.html link="research" text="Learn more" icon="fas fa-arrow-right" flip=true %}
 {:.center}

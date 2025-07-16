@@ -8,7 +8,7 @@ author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
 
-# Congratulations to Reyhaneh Nouri, our newst Ph.D. Candidate
+# Congratulations to Reyhaneh Nouri, our newest Ph.D. Candidate
 
 {% include figure.html image="images/20250505_Nouri.jpg" caption="From left to right: Paula, Anastasiia, Reyhaneh, Giovanna, Omkar, and Denis."%}{:.center}
 
