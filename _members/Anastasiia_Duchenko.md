@@ -34,3 +34,7 @@ Molecular biology, genetics, 3D protein structures, artificial intelligence and 
 - Wet lab skills: PCR, SDS-PAGE electrophoresis, Western Blot, ELISA, chromatography, mass spectrometry, microscopy.
 - Hobbies: enjoys building with LEGO, practicing yoga, and hiking in the mountains.
 - Favorite book: “Think Like a Rocket Scientist” by Ozan Varol.
+
+## Awards
+
+- The Graduate & Professional Student Government (GPSG) Travel Funding, UNC Charlotte (July, 2025).
