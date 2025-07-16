@@ -184,10 +184,10 @@
   - echinoderms
   - non-model organism
   - genomics
-  - invertebates
+  - invertebrates
   - zoology
   - database
-  - softare
+  - software
   _cache: 7516badf6b5595564e8308d8d84a47f777a4d78f4aefdecb76383d21eff8d0c6
 - id: doi:10.1186/s12864-022-08750-y
   title: 'Twinkle twinkle brittle star: the draft genome of Ophioderma brevispinum
@@ -207,7 +207,7 @@
   - echinoderms
   - non-model organism
   - genomics
-  - invertebates
+  - invertebrates
   - zoology
   - gene annotation
   - gene prediction
@@ -397,7 +397,7 @@
   - gene annotation
   - gene prediction
   - genome skimming
-  - invertebates
+  - invertebrates
   - mitogenome
   - parasitology
   - zoology
@@ -591,7 +591,7 @@
   link: https://doi.org/gqmgsr
   image: https://uconn-today-universityofconn.netdna-ssl.com/wp-content/uploads/2017/12/2_20171029-Acanth_rodm.jpg
   tags:
-  - invertebates
+  - invertebrates
   - parasitology
   - zoological taxonomy
   - zoology
