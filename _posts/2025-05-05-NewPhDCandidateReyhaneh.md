@@ -1,5 +1,5 @@
 ---
-title: Reyhaneh Nouri is our newst Ph.D. Candidate
+title: Reyhaneh Nouri is our newest Ph.D. Candidate
 tags:
   - congratuulations
   - milestone

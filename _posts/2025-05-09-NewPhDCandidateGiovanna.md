@@ -1,5 +1,5 @@
 ---
-title: Giovanna Yumi Scorsim Omura is our newst Ph.D. Candidate
+title: Giovanna Yumi Scorsim Omura is our newest Ph.D. Candidate
 tags:
   - congratuulations
   - milestone
