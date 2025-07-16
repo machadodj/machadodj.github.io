@@ -1,7 +1,7 @@
 ---
 name: Reyhaneh Nouri
 image: headshots/ReyhanehNouri.jpg
-description: Ph.D. student and research assistant
+description: Ph.D. Candidate
 role: phd
 aliases:
   - Reyhaneh Nouri
@@ -23,8 +23,6 @@ I am from Iran and received my Pharm.D. from Azad University, Tehran Medical Sci
 Before joining the Phyloinformatics Lab, I was a research assistant at Drs. Cynthia Gibas and Jessica Schlueter’s COVID-19 wastewater surveillance project. Now, I am interested in studying machine learning applications in One Health.
 
 ## What am I working on?
-
-Wood is a versatile material with a wide range of applications, including construction, furniture, and shipbuilding. However, working with wood can be challenging, requiring cutting, shaping, and transporting relatively rigid materials. Imagine if wood could be made as flexible as gelatin and as tough as iron and if we could change this at will and reversibly. This would make it much easier to work with, as it could be easily cut, folded, and molded into desired shapes. While this is not currently possible with wood, it may be feasible with collagen.
 
 Collagen is a structural protein found in animals' extracellular matrix. It is a significant component of skin, bones, and connective tissues. Collagen has many applications, including medical devices, cosmetics, and food additives.
 

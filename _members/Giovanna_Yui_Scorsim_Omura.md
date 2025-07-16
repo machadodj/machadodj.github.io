@@ -1,7 +1,7 @@
 ---
 name: Giovanna Yumi Scorsim Omura
 image: headshots/GiovannaOmura.jpg
-description: Ph.D. student and research assistant
+description: Ph.D. Candidate
 role: phd
 aliases:
   - Giovanna Yumi Scorsim Omura
