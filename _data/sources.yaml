@@ -223,6 +223,23 @@
     - viruses
     - zoonoses
 
+# 2022: FLAVi‐Web
+- id: doi:10.1096/fasebj.2020.34.s1.09730
+  image: images/placeholder.svg
+  tags:
+    - annotation
+    - viruses
+    - flavivirus
+    - genomics
+
+# 2022: Fundamentos de la epidemiología genómica
+- id: doi:10.54502/msuceva.v2n2a5
+  image: images/placeholder.svg
+  tags:
+    - epidemiology
+    - viruses
+    - coronavirus
+
 ##
 # 2021
 ##

@@ -103,7 +103,9 @@ tooltip1="CNPq"
 
 ### FAPESP
 
-Dr. Jacob Machado has accumulated 10+ years of uninterrupted research funding, including highly competitive awards and an extensive track record of developing and organizing multidisciplinary research projects from São Paulo Research Foundation (FAPESP, file nos. 2009/00886-3, 2009/13561-5, 2013/05958-8, and 2015/18654-2). These include three long-term projects and a one-year internship that initiated an international collaboration involving the University of North Carolina at Charlotte (UNC Charlotte) and USP in 2016. Furthermore, I Dr. Jacob Machado has been a bioinformatics collaborator of Professor Fernando P. L. Marques (USP) on a four-year project since 2018 (FAPESP, file no. 2018/03534-0). Finally, he collaborated on a long-term grant awarded to Professor Taran Grant (USP) by FAPESP (file no. 2018/15425-0), initiated in July 2019.
+Dr. Jacob Machado has maintained over a decade of continuous research funding, including highly competitive grants and a strong record of leading and coordinating multidisciplinary projects supported by the São Paulo Research Foundation (FAPESP; grant numbers 2009/00886-3, 2009/13561-5, 2013/05958-8, and 2015/18654-2). These awards comprise three long-term research projects and a one-year research internship that launched an international collaboration between the University of North Carolina at Charlotte (UNC Charlotte) and the University of São Paulo (USP) in 2016.
+
+In addition, Dr. Machado served as a bioinformatics collaborator on a four-year research project led by Professor Fernando P. L. Marques (USP), which began in 2018 (FAPESP grant 2018/03534-0). He also contributed to a long-term grant awarded to Professor Taran Grant (USP) by FAPESP (grant 2018/15425-0), which was initiated in July 2019.
 
 {%
   include gallery.html
