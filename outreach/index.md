@@ -91,6 +91,26 @@ consequences and SARS-CoV-2 antibody’s binding affinity using an _in silico_ a
 
 ## <i class="fas fa-user-group"></i>Event organization
 
+## Symposium on "Phylogenetics & Public Health: Lessons From COVID19 and Emerging Threats" at the XLII Hennig Meeting (July 22-25, 2025)
+
+### Description
+
+How can evolutionary trees help us respond to pandemics? This symposium brings together scientists from across the globe to explore the power—and limits—of phylogenetics in public health. We will examine how researchers have used evolutionary methods to trace outbreaks, detect zoonotic spillovers, monitor variants, and inform policy. From SARS-CoV-2 to emerging viruses, join us to rethink what phylogenetics can do in a time of global health uncertainty.
+
+### Program
+
+July 23, 2025:
+
+- 9:00 AM:Symposium welcome & introduction, by Denis Jacob Machado (University of North Carolina at Charlotte) 
+- 9:10 AM: "H5N1 Influenza A is now promiscuous in host range and has improved replication in mammals," by Sayal Guirales-Medrano (University of North Carolina at Charlotte) _et al_. 
+- 9:40 AM: "Evolutionary adaptations of papillomaviruses: understanding  carcinogenicity through host-virus coevolution," by Dr. Zigui Chen (The Chinese University of Hong Kong) 
+- 10:10 AM: "Evolutionary trait of the mpox virus in its recent epidemics and clinical association," by Dr. Maggie Wang & Jingzhi Lou (The Chinese University of Hong Kong) 
+- 11:00 AM: "Genomic surveillance and molecular epidemiology of SARS-CoV-2 in Hong Kong," by Dr. Haoga Gu (The University of Hong Kong) 
+- 11:30 PM: Symposium 1 conclusion, with the talk "Advancing phylogenetics for health threats: lessons from the COVID-19 pandemic and beyond," by Dr. Denis Jacob Machado & Omkar Marne (University of North Carolina at Charlotte) 
+
+{:.center}
+{% include link.html type="external" icon="" text="XLII Meeting of the Willi Hennig Society" link="https://cladistics.org/xlii-annual-meeting-2025/" style="button" %}
+
 ## The "Phylogenetics as Applied to Infectious Diseases" Symposium at the XL Hennig Meeting
 
 This symposium was organized by Drs. Daniel Janies and Denis Jacob Machado at the [The XL Annual Meeting of the Willi Hennig Society](https://cladistics.org/2023/03/01/hennig-xl-annual-meeting/) (Cornell University, Ithaca, NY July 9th -13th, 2023). The symposium took place on July 11, 2023.
