@@ -1,7 +1,7 @@
 ---
 name: Anastasiia Duchenko
 image: headshots/AnastasiiaDuchenko.jpg
-description: Ph.D. student
+description: Ph.D. Student
 role: phd
 aliases:
   - Anastasiia Duchenko
