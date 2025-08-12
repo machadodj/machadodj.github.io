@@ -1,5 +1,5 @@
 ---
-title: Rethinking the Teaching of Programming and Machine Learning in the Age of Generative Artificial Intelligence
+title: Bioinformatics Teaching in the age of GenAI
 tags:
   - ai
   - bioinformatics
