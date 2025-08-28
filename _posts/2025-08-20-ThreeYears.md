@@ -1,5 +1,5 @@
 ---
-title: Bioinformatics Teaching in the age of GenAI
+title: The Phyloinformatics Lab is 3 Years Old
 tags:
   - phyloinformatics
   - social
