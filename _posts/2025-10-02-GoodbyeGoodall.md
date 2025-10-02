@@ -1,10 +1,10 @@
 ---
-title: The Phyloinformatics Lab is 3 Years Old
+title: Stoic Dedication and Scientific Discovery
 tags:
   - phyloinformatics
-  - social
-  - fun
-  - celebration
+  - phylosophy
+  - science
+  - AI
 author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
