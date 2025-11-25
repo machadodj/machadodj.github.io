@@ -141,7 +141,16 @@
   group: lab
   image: images/paperwork.jpg
   link: https://docs.google.com/document/d/1Vh4gkFt78FggikttYNrJHzd7AEhZkMI5/edit#heading=h.tx900u4hisdb
-  description: Most up-to-date version of the Phloinformatics Lab's Code of Conduct.
+  description: Most up-to-date version of the Phloinformatics Lab's Code of Conduct (CC BY-NC 4.0).
+  tags:
+    - paperwork
+
+- title: Mentor-Mentee Agreement
+  subtitle: Paperwork
+  group: lab
+  image: images/paperwork.jpg
+  link: https://docs.google.com/document/d/1Vh4gkFt78FggikttYNrJHzd7AEhZkMI5/edit#heading=h.tx900u4hisdb
+  description: The Phyloinformatic's Lab Mentor-Mentee Agreement (CC BY-NC 4.0).
   tags:
     - paperwork
 
