@@ -2,6 +2,25 @@
 # 2025
 ##
 
+# 2025: Skimming
+- id: doi:10.1016/j.ijpara.2025.12.007
+  title: Mining natural history collections for molecular treasures: mitogenomes and nuclear ribosomal transcription units of proteocephalid tapeworms (Onchoproteocephalidea) via genome skimming
+  publisher: International Journal for Parasitology
+  date: "2025-12-18"
+  image: images/2025_Vieira_Skimming.jpg
+  tags:
+    - genomics
+    - bioinformatics
+    - parasitology
+  authors:
+    - R. V. Alves
+    - R. J. da Silva
+    - D. Janies
+    - W. Taylor
+    - A. Harris
+    - G. New
+    - D. Jacob Machado
+
 # 2025: Frog
 - id: doi:10.46471/gigabyte.157
   title: A draft genome assembly for the dart-poison frog Phyllobates terribilis
