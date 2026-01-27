@@ -1,6 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1016/j.ijpara.2025.12.007
+  title: 'Mining natural history collections for molecular treasures: mitogenomes
+    and nuclear ribosomal transcription units of proteocephalid tapeworms (Onchoproteocephalidea)
+    via genome skimming'
+  authors:
+  - R. V. Alves
+  - R. J. da Silva
+  - D. Janies
+  - W. Taylor
+  - A. Harris
+  - G. New
+  - D. Jacob Machado
+  publisher: International Journal for Parasitology
+  date: '2025-12-01'
+  link: https://doi.org/hbmjfr
+  image: images/2025_Vieira_Skimming.jpg
+  tags:
+  - genomics
+  - bioinformatics
+  - parasitology
+  _cache: 4d8f49d5baef1232b00afb7f5b327e704c404de6f7722fb7978ad211b8d83ff8
 - id: doi:10.46471/gigabyte.157
   title: A draft genome assembly for the dart-poison frog Phyllobates terribilis
   authors:
@@ -184,10 +205,10 @@
   - echinoderms
   - non-model organism
   - genomics
-  - invertebrates
+  - invertebates
   - zoology
   - database
-  - software
+  - softare
   _cache: 7516badf6b5595564e8308d8d84a47f777a4d78f4aefdecb76383d21eff8d0c6
 - id: doi:10.1186/s12864-022-08750-y
   title: 'Twinkle twinkle brittle star: the draft genome of Ophioderma brevispinum
@@ -207,7 +228,7 @@
   - echinoderms
   - non-model organism
   - genomics
-  - invertebrates
+  - invertebates
   - zoology
   - gene annotation
   - gene prediction
@@ -258,6 +279,41 @@
   - viruses
   - zoonoses
   _cache: c50ef8aea52b4f32460463af3e324bec7b3a0171f5d88552aa34b99aed51a5c9
+- id: doi:10.1096/fasebj.2020.34.s1.09730
+  title: "FLAVi\u2010Web: A Web Annotator for Viral Genomes of Flaviviridae with a\
+    \ Revised Phylogeny of the Family"
+  authors:
+  - Sayal Guirales
+  - Denis Jacob Machado
+  - Adriano de Bernardi Schneider
+  - Daniel Janies
+  publisher: The FASEB Journal
+  date: '2020-04-01'
+  link: https://doi.org/hbh3ph
+  image: images/placeholder.svg
+  tags:
+  - annotation
+  - viruses
+  - flavivirus
+  - genomics
+  _cache: 486f886ac44dd09f06dcc6d20ef7e7f2749ac0b3828e0578ed596224d541488e
+- id: doi:10.54502/msuceva.v2n2a5
+  title: "Relaciones de estructura-funci\xF3n en la P-glicoprote\xEDna humana (ABCB1):\
+    \ Perspectivas de las simulaciones de din\xE1mica molecular"
+  authors:
+  - Liadys Mora Lagares
+  - "Yunierkis P\xE9rez Castillo"
+  - Nikola Minovski
+  - "Marjana Novi\u02C7c"
+  publisher: Magna Scientia UCEVA
+  date: '2022-12-21'
+  link: https://doi.org/hbh3pj
+  image: images/placeholder.svg
+  tags:
+  - epidemiology
+  - viruses
+  - coronavirus
+  _cache: c3a629d3bdb502dcf1d4a59b0a3bcef68d14016c46e1417855b4684ca7084908
 - id: doi:10.1017/ash.2021.222
   title: Fundamentals of genomic epidemiology, lessons learned from the coronavirus
     disease 2019 (COVID-19) pandemic, and new directions
@@ -397,7 +453,7 @@
   - gene annotation
   - gene prediction
   - genome skimming
-  - invertebrates
+  - invertebates
   - mitogenome
   - parasitology
   - zoology
@@ -591,7 +647,7 @@
   link: https://doi.org/gqmgsr
   image: https://uconn-today-universityofconn.netdna-ssl.com/wp-content/uploads/2017/12/2_20171029-Acanth_rodm.jpg
   tags:
-  - invertebrates
+  - invertebates
   - parasitology
   - zoological taxonomy
   - zoology
