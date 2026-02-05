@@ -1,6 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.3390/microbiolres17020030
+  title: Multiple Infections, Recombination, and Hypermutation During a 12-Month Prospective
+    Study of Five HIV-1 Infected Individuals
+  authors:
+  - F. M. Rodrigues
+  - P. Prieto-Oliveira
+  - J. P. Zukurov
+  - W. T. Alkmim
+  - M. M. Soane
+  - M. Camargo
+  - S. S. Sanabani
+  - E. G. Kallas
+  - "M. Cec\xEDlia Sucupira"
+  - R. Sobhie Diaz
+  - D. Jacob Machado
+  - L. Mario Janini
+  publisher: Microbiology Research
+  date: '2026-01-27'
+  link: https://doi.org/hbnr96
+  image: images/20260126_MicrobiolRes.jpg
+  tags:
+  - virus
+  - recombination
+  - infection
+  - evolution
+  - hiv
+  _cache: 5769f39e51374242e91896cc8816db9fd7412418a0dd02c1c614ce9bbf018ed4
 - id: doi:10.1016/j.ijpara.2025.12.007
   title: 'Mining natural history collections for molecular treasures: mitogenomes
     and nuclear ribosomal transcription units of proteocephalid tapeworms (Onchoproteocephalidea)
