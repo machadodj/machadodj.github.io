@@ -11,8 +11,8 @@ nav:
 
 Your contributions to the **College of Computing & Informatics**'s **Bioinformatics Research Center** directly empower our students and accelerate our daily research. We are deeply grateful to the private donors who help make our scientific breakthroughs possible.
 
+{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-arrow-right" flip=true %}
 {:.center}
-{% include link.html type="link" icon="" text="Suport Us" link=https://give.charlotte.edu/ascendportal/s/give style="button" %}
 
 # Why Should You Support Our Work?
 
