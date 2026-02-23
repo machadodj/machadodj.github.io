@@ -16,6 +16,8 @@ Your contributions to the **College of Computing & Informatics**'s **Bioinformat
 
 # Why Should You Support Our Work?
 
+We work hard to secure funding from multiple sources, with collaborators in the USA and abroad. You may [click here to read our Spring 2026 report on our funding efforts](https://phyloinformatics.com/2026/02/23/Support.html). What follows is a summary of the reasons already highlighted in that report for you to consider supporting our work.
+
 ## We Empower Discoveries at the Intersection of Biology and Health
 
 The Phyloinformatics Lab at UNC Charlotte operates at the critical crossroads of evolutionary biology, machine learning, and public health. We use computational science to address some of the world's most urgent challenges—from preparing for the next viral pandemic and combating antibiotic-resistant parasites to discovering novel biomaterials that could revolutionize regenerative medicine. By decoding the evolutionary history of life, we are actively building the computational infrastructure needed for global health security and biomedical innovation.
