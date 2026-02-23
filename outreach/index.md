@@ -9,7 +9,8 @@ nav:
 
 # <i class="fas fa-seedling"></i>Outreach and research communication
 
-This is a work in progress. Whenever possible, I'll add materials from recent oral presentations in here. Over time, I will also add older materials from older talks.
+{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-arrow-right" flip=true %}
+{:.center}
 
 {% include section.html %}
 

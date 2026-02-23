@@ -20,6 +20,9 @@ Our **general aims** are four:
 3. Develop phylogenetics solutions, especially if they can help improve our understanding of zoonosis.
 4. Integrate “omics” technologies (e.g., genomics, transcriptomics, metabolomics, and proteomics) to study complex host-pathogen systems in the context of One Health.
 
+{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-arrow-right" flip=true %}
+{:.center}
+
 <!--Publications-->
 
 {% include section.html %}
