@@ -26,6 +26,8 @@ Click the link below to listen to Dr. Jacob Machado talking about the Phyloinfor
 
 <!--Support-->
 
+# Support Us
+
 Your contributions to the **College of Computing & Informatics**'s **Bioinformatics Research Center** directly empower our students and accelerate our daily research. We are deeply grateful to the private donors who help make our scientific breakthroughs possible.
 
 <!-- However, while private generosity is invaluable, it does not replace our fundamental reliance on federal agencies like the National Science Foundation and the National Institutes of Health. We depend heavily on these public funds. They are the bedrock of scientific infrastructure in the United States, uniquely championing new discoveries and expanding the horizons of human knowledge driven by pure scientific inquiry, independent of the interests of private organizations. -->
