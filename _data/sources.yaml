@@ -2,6 +2,19 @@
 # 2026
 ##
 
+# 2026: AlphaFold
+- id: doi:10.22541/au.177282022.20654724/v1
+  image: images/20260205_Anastasiia.jpg
+  tags:
+    - alphafold
+    - conformational_dynamics
+    - deep_learning
+    - drug_discovery
+    - protein_structure
+  authors:
+    - A. Duchenko
+    - D. Jacob Machado 
+
 # 2026: HIV
 - id: doi:10.3390/microbiolres17020030
   image: images/20260126_MicrobiolRes.jpg
