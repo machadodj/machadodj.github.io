@@ -18,7 +18,9 @@ nav:
 
 ## <i class="fas fa-user-group"></i>Pre-prints
 
-- **March 6, 2026**: "AlphaFold and the Transformation of Structural Biology: Evolution, Applications, Limitations, and Future Directions" a review by Anastasiia Duckenko and Denis Jacob Machado. This pre-print is available from Authorea (DOI: [10.22541/au.177282022.20654724/v1](https://doi.org/10.22541/au.177282022.20654724/v1)).
+- **March 9, 2026**: "HP2NET: Empowering Efficient Phylogenetic Network Analysis through High-Performance Computing," a review by  Rafael Terra, Diego Carvalho, Denis Jacob Machado, Carla Osthoff, and Kary Ocaña. This pre-print is available from bioRxiv (DOI: [10.64898/2026.03.05.7090051](https://doi.org/10.64898/2026.03.05.709005)).
+
+- **March 6, 2026**: "AlphaFold and the Transformation of Structural Biology: Evolution, Applications, Limitations, and Future Directions," a review by Anastasiia Duckenko and Denis Jacob Machado. This pre-print is available from Authorea (DOI: [10.22541/au.177282022.20654724/v1](https://doi.org/10.22541/au.177282022.20654724/v1)).
 
 ### 2026
 

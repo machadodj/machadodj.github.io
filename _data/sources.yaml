@@ -2,6 +2,22 @@
 # 2026
 ##
 
+# 2026: HP2NET
+- id: doi:10.64898/2026.03.05.709005
+  image: images/20260309_Rafael_Terra.jpg
+  tags:
+    - phylogenetics
+    - dengue
+    - hpc
+    - cluster
+    - openscience
+  authors:
+    - R. Terra
+    - D. Carvalho
+    - D. Jacob Machado
+    - C. Osthoff
+    - K. Ocaña
+
 # 2026: AlphaFold
 - id: doi:10.22541/au.177282022.20654724/v1
   image: images/20260205_Anastasiia.jpg
@@ -13,7 +29,7 @@
     - structure
   authors:
     - A. Duchenko
-    - D. Jacob Machado 
+    - D. Jacob Machado
 
 # 2026: HIV
 - id: doi:10.3390/microbiolres17020030
