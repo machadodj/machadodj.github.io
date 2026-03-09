@@ -1,6 +1,43 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.64898/2026.03.05.709005
+  title: 'HP2NET: Empowering Efficient Phylogenetic Network Analysis through High-Performance
+    Computing'
+  authors:
+  - R. Terra
+  - D. Carvalho
+  - D. Jacob Machado
+  - C. Osthoff
+  - "K. Oca\xF1a"
+  publisher: openRxiv
+  date: '2026-03-08'
+  link: https://doi.org/hbrvdc
+  image: images/20260309_Rafael_Terra.jpg
+  tags:
+  - phylogenetics
+  - dengue
+  - hpc
+  - cluster
+  - openscience
+  _cache: c44313772d7642c22852b400d4b6b46b6e7c98b59c50cfe844075c26e5ca23d1
+- id: doi:10.22541/au.177282022.20654724/v1
+  title: 'AlphaFold and the Transformation of Structural Biology: Evolution, Applications,
+    Limitations, and Future Directions'
+  authors:
+  - A. Duchenko
+  - D. Jacob Machado
+  publisher: Wiley
+  date: '2026-03-06'
+  link: https://doi.org/hbrvdd
+  image: images/20260205_Anastasiia.jpg
+  tags:
+  - alphafold
+  - molecular dynamics
+  - ai
+  - drug discovery
+  - structure
+  _cache: 2d9736725ae08d026e746a66430990820e64752d8f13f22d5f68f1eee3388c17
 - id: doi:10.3390/microbiolres17020030
   title: Multiple Infections, Recombination, and Hypermutation During a 12-Month Prospective
     Study of Five HIV-1 Infected Individuals
