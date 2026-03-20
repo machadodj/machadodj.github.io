@@ -9,7 +9,7 @@ nav:
 
 # <i class="fas fa-seedling"></i>Outreach and research communication
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
 {% include section.html %}

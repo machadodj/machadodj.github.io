@@ -9,7 +9,7 @@ nav:
 
 Below, you will find a list of selected applications and databases produced by the Phyloinformatics Lab. Our lab is interested in tools that facilitate comparative genomics and bioinformatics of non-model organisms, focusing on host-pathogen or host-parasite systems. We are also interested in developing dedicated gene prediction and annotation tools for a range of models, from flatworms to viruses. Finally, we produce software that aids in phylogenetic analyses.
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
 {% include search-info.html %}

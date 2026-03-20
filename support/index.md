@@ -11,7 +11,7 @@ nav:
 
 Your contributions to the **College of Computing & Informatics**'s **Bioinformatics Research Center** directly empower our students and accelerate our daily research. We are deeply grateful to the private donors who help make our scientific breakthroughs possible.
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
 # Why Should You Support Our Work?
@@ -30,7 +30,7 @@ When you support our lab, you invest in a highly collaborative research group th
 
 Above all, your generosity directly fuels our students' success, which we consider our most important metric. We have cultivated a rigorous and supportive environment where every Ph.D. student who has applied for an internal university fellowship has successfully secured one. By contributing to our mission, you are not just funding research; you are empowering a diverse cohort of undergraduate, graduate, and postdoctoral researchers to cross disciplinary boundaries, win competitive awards, and lead the future of computational biology.
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
 # Governmental Investment in Research is Fundamental

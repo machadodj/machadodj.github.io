@@ -14,7 +14,7 @@ In response to the continued increase in the risk of zoonoses, our lab has two m
 
 Click the link below to listen to Dr. Jacob Machado talking about the Phyloinformatics Lab at the [de-CIPHERing Infectious Diseases podcast](https://deciphering.podbean.com/e/phyloinformatics-with-dr-denis-jacob-machado/).
 
-{% include link.html link="https://deciphering.podbean.com/e/phyloinformatics-with-dr-denis-jacob-machado/" text="Go to podcast episode" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://deciphering.podbean.com/e/phyloinformatics-with-dr-denis-jacob-machado/" text="Go to podcast episode" icon="fas fa-podcast" style="button" %}
 {:.center}
 
 <!--Banner-->
@@ -32,7 +32,7 @@ Your contributions to the **College of Computing & Informatics**'s **Bioinformat
 
 <!-- However, while private generosity is invaluable, it does not replace our fundamental reliance on federal agencies like the National Science Foundation and the National Institutes of Health. We depend heavily on these public funds. They are the bedrock of scientific infrastructure in the United States, uniquely championing new discoveries and expanding the horizons of human knowledge driven by pure scientific inquiry, independent of the interests of private organizations. -->
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
 # Highlights

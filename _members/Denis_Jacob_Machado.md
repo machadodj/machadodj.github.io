@@ -108,5 +108,5 @@ Dr. Jacob Machado leads the Phyloinformatics Lab. The lab uses computational int
 
 - My first name is Denis and my last name is Jacob Machado. I don't have a middle name. [Click here](https://youtu.be/fUwCwPK6DC8) for an YouTube video where you can hear my name. Alternatively, [click here](https://www.name-coach.com/denis-jacobmachado) for audio only.
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support US" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}

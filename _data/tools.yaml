@@ -87,6 +87,19 @@
     - tutorials
     - wet lab
 
+- title: Metazoan Phylogenomics and Bioinformatics
+  subtitle: Open Textbook (LaTeX)
+  group: guide
+  image: images/dna_helix.jpg
+  link: https://github.com/machadodj/2026_PhylogeneticsAndBioinformaticsOfMetazoans
+  description: An open textbook covering the theoretical and practical foundations of phylogenomic research on animals. Eleven self-contained chapters span from fundamental phylogenetic systematics to molecular sequencing, computational methods, and AI applications in biomedical science. Available in English and Portuguese (CC BY-NC 4.0).
+  repo: https://github.com/machadodj/2026_PhylogeneticsAndBioinformaticsOfMetazoans
+  tags:
+    - textbook
+    - phylogenomics
+    - bioinformatics
+    - guides
+
 - title: SLURM
   subtitle: How To Use
   group: guide
