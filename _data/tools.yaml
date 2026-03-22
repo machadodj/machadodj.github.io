@@ -28,7 +28,7 @@
 
 - title: CMA
   subtitle: Cestode Mitogenome Annotator
-  group: application
+  group: featured
   image: images/CMA.jpg
   link: https://gitlab.com/MachadoDJ/cma
   description: Dedicated gene prediction and annotation for cestode mitogenomes.
@@ -42,7 +42,7 @@
 
 - title: AWA
   subtitle: Infer Genome Circularity
-  group: application
+  group: featured
   image: images/AWA.jpg
   link: https://gitlab.com/MachadoDJ/awa
   description: The AWA project integrates software solutions for testing the completeness of assemblies of circular DNA based on short sequence reads.
@@ -64,6 +64,20 @@
     - genomics
     - web app
 
+- title: Phyloinformatics
+  subtitle: Fundamentals of Phylogenomics and Bioinformatics in the Age of AI
+  group: tip
+  image: images/Computer.jpg
+  link: https://www.notion.so/phyloinformatics/Phyloinformatics-Fundamentals-of-Bioinformatics-and-Phylogenomics-in-the-Age-of-AI-32b514596f29800e9b7ac3382544f3b2?source=copy_link
+  description: Assorted materials on phylogenetic systematics, "omics" resources, and artificial intelligence as applied to cladistic questions
+  tags:
+    - phylogenetics
+    - literature
+    - concept
+    - phylosophy
+    - history
+    - reading
+
 - title: Soft Tips
   subtitle: Miscellaneous
   group: tip
@@ -74,6 +88,7 @@
     - tips
     - guides
     - tutorials
+
 
 - title: Nanodrop and Qubit
   subtitle: How To Use
