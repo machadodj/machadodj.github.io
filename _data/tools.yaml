@@ -154,7 +154,16 @@
     - slides
     - template
 
-- title: Code of Conduct
+- title: Mentor-Mentee Agreement (Form)
+  subtitle: Paperwork
+  group: lab
+  image: images/paperwork.jpg
+  link: https://docs.google.com/forms/d/e/1FAIpQLSf8UO-cvH9UPpAuEGqLqVc8R-2wwCLJfpmd0mp2wqEA6-bLQQ/viewform?usp=header
+  description: Most up-to-date version of the Phloinformatics Lab's Mentor-Mentee Agreement (CC BY-NC 4.0).
+  tags:
+    - paperwork
+
+- title: Code of Conduct (Document)
   subtitle: Paperwork
   group: lab
   image: images/paperwork.jpg
