@@ -28,6 +28,10 @@ nav:
 
 ## <i class="fas fa-user-group"></i>Talks
 
+### 2026
+
+- **April 7, 2026**: "The SARS-Cov-2 Phyogeny is sensitive to alignment parameters and outgroup selection," by Omkar Marne and Denis Jacob Machado. This talk was given at the UNC Charlotte's Graduate Research Symposium (GRS) of 2026.
+
 ### 2025
 
 - **July 24, 2025**: "Beetles, bytes, and branches: integrating artificial intelligence into the taxonomy and phylogenetics of Passalidae" by Larry Jiménez-Ferbans, Cristian Beza-Beza, Anastasiia Duchenko, Aram Mikaelyan, and Denis Jacob Machado. This talk was given at the XLII Annual Meeting of the Willi Hennig Society (The Chinese University of Hong Kong, HKSAR, China). [Click here for the Conference Website](https://willi-hennig-society.org/meetings/2025).
