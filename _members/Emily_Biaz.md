@@ -1,7 +1,7 @@
 ---
 name: Emily Biaz
 image: headshots/EmilyBiaz.jpg
-description: Undergraduate Student (internal)
+description: Undergraduate Student (external)
 role: undergrad
 aliases:
   - Emily Biaz
