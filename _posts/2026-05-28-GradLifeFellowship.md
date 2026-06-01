@@ -11,8 +11,11 @@ author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}{:.center}
-{% include figure.html image="images/AnastasiiaDuchenko.jpg" caption="Congratulations, Anastasiia!"%}{:.center}
+{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
+{:.center}
+
+{% include figure.html image="images/AnastasiiaDuchenko.jpg" caption="Anastasiia Duchenko"%}
+{:.center}
 
 # Anastasiia Duchenko Selected for the Graduate Life Fellowship
 

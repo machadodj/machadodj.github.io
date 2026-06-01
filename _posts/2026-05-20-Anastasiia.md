@@ -10,8 +10,11 @@ author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}{:.center}
-{% include figure.html image="images/AnastasiiaDuchenko.jpg" caption="Congratulations, Anastasiia!"%}{:.center}
+{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
+{:.center}
+
+{% include figure.html image="images/AnastasiiaDuchenko.jpg" caption="Anastasiia Duchenko"%}
+{:.center}
 
 # Anastasiia Accepts the Lawrence E. Mays Fellowship in Bioinformatics for the 2026–2027 Academic Year
 
