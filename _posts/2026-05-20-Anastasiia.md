@@ -1,5 +1,5 @@
 ---
-title: Celebrating Anastasiia’s Award of the Lawrence E. Mays Fellowship in Bioinformatics
+title: Celebrating Anastasiia Award of the Lawrence Mays Fellowship in Bioinformatics
 tags:
   - bioinformatics
   - fellowship

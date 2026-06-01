@@ -1,5 +1,5 @@
 ---
-title: Anastasiia Duchenko Appointed as a 2026–2027 Graduate Life Fellow
+title: Anastasiia Duchenko Was Appointed as a 2026 to 2027 Graduate Life Fellow
 tags:
   - bioinformatics
   - award
