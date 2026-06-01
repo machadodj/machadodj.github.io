@@ -1,3 +1,4 @@
+---
 title: Anastasiia Duchenko Appointed as a 2026–2027 Graduate Life Fellow
 tags:
   - bioinformatics
@@ -8,6 +9,7 @@ tags:
   - student-achievement
 author: Denis Jacob Machado
 member: Denis_Jacob_Machado
+---
 
 {% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}{:.center}
 {% include figure.html image="images/AnastasiiaDuchenko.jpg" caption="Congratulations, Anastasiia!"%}{:.center}
