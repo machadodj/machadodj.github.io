@@ -30,6 +30,8 @@ nav:
 
 ### 2026
 
+- **June 8, 2026**: "FAIR Docking: Best Practices for Reproducible Protein-Protein Interactions on the Cloud Platforms" by Anastasiia Duchenko and Denis Jacob Machado. This talk was given at the Genomic Research and Data Science Center for Cloud Computing (GRADS-4C) Research Symposium at the Koury Convention Center in Greensboro, NC.
+- **May 14, 2026**: "Promoting Reproducible Research with AVOIDRUNE: An Automated Pipeline for Protein-Protein Interaction Analysis” by Anastasiia Duchenko and Denis Jacob Machado. This talk was given at the ThinkAI Research and Innovation Symposium at the UNC Charlotte Dubois Center in Charlotte, NC
 - **April 7, 2026**: "The SARS-Cov-2 Phyogeny is sensitive to alignment parameters and outgroup selection," by Omkar Marne and Denis Jacob Machado. This talk was given at the UNC Charlotte's Graduate Research Symposium (GRS) of 2026.
 
 ### 2025
