@@ -1,5 +1,5 @@
 ---
-title: Bridging Disciplines: Phyloinformatics Lab Supports Study on Inclusive Education
+title: "Bridging Disciplines: Phyloinformatics Lab Supports Study on Inclusive Education"
 tags:
   - phylogenetics
   - health

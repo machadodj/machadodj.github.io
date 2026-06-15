@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Set up Python
         uses: actions/setup-python@v5   # upgraded from v2
         with:
@@ -26,7 +26,7 @@ jobs:
       - name: Build updated citations
         run: python ./auto-cite/auto-cite.py
       - name: Commit updated citations
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           file_pattern: "_data/citations.yaml"
           commit_message: "Generate citations"

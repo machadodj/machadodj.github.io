@@ -52,20 +52,20 @@
     - mitochondrion
     - stand alone
 
+
 - title: CladesRF
   subtitle: Measuring the association between terminal metadata and a cladogram
   group: featured
   image: images/cladesrf.png
   link: https://gitlab.com/phyloinformatics/cladesrf
-  description: This project provides easy-to-use Python 3 tools (and documentation) for
-quantifying the association between the metadata of a set of terminals and the
-clades they form on a tree, using random forests.
+  description: This project provides easy-to-use Python 3 tools (and documentation) for quantifying the association between the metadata of a set of terminals and the clades they form on a tree, using random forests.
   repo: https://gitlab.com/phyloinformatics/cladesrf
   tags:
     - phylogenetics
     - artificial intelligence
     - machine learning
     - random forest
+
 
 - title: CladesGBM
   subtitle: Measuring the association between terminal metadata and a cladogram using LightGBM
@@ -80,20 +80,20 @@ clades they form on a tree, using random forests.
     - machine learning
     - lightgbm
 
+
 - title: CladesRF
   subtitle: Measuring the association between terminal metadata and a cladogram using random forests
   group: featured
   image: images/cladesrf.png
   link: https://gitlab.com/phyloinformatics/cladesrf
-  description: This project provides easy-to-use Python 3 tools (and documentation) for
-quantifying the association between the metadata of a set of terminals and the
-clades they form on a tree, using random forests.
+  description: This project provides easy-to-use Python 3 tools (and documentation) for quantifying the association between the metadata of a set of terminals and the clades they form on a tree, using random forests.
   repo: https://gitlab.com/phyloinformatics/cladesrf
   tags:
     - phylogenetics
     - artificial intelligence
     - machine learning
     - random forest
+
 
 - title: Phyloinformatics
   subtitle: Fundamentals of Phylogenomics and Bioinformatics in the Age of AI
