@@ -1,3 +1,29 @@
+- title: CladesRF
+  subtitle: Measuring the association between terminal metadata and a cladogram
+  group: featured
+  image: images/cladesrf.png
+  link: https://gitlab.com/phyloinformatics/cladesrf
+  description: This project provides easy-to-use Python 3 tools (and documentation) for quantifying the association between the metadata of a set of terminals and the clades they form on a tree, using random forests.
+  repo: https://gitlab.com/phyloinformatics/cladesrf
+  tags:
+    - phylogenetics
+    - artificial intelligence
+    - machine learning
+    - random forest
+
+- title: CladesGBM
+  subtitle: Measuring the association between terminal metadata and a cladogram using LightGBM
+  group: featured
+  image: images/cladesgbm.png
+  link: https://gitlab.com/phyloinformatics/cladesgbm
+  description: The cladegbm program measures how well per-terminal metadata predicts the clades of a phylogenetic tree, and validates that signal with the perturbation test — the same question asked by Alves et al. (2025), but with a more general, automated, and faster engine.
+  repo: https://gitlab.com/phyloinformatics/cladesgbm
+  tags:
+    - phylogenetics
+    - artificial intelligence
+    - machine learning
+    - lightgbm
+
 - title: FLAVi
   subtitle: Fast Loci Annotation of Viruses
   group: featured
@@ -51,35 +77,6 @@
     - circularity
     - mitochondrion
     - stand alone
-
-
-- title: CladesRF
-  subtitle: Measuring the association between terminal metadata and a cladogram
-  group: featured
-  image: images/cladesrf.png
-  link: https://gitlab.com/phyloinformatics/cladesrf
-  description: This project provides easy-to-use Python 3 tools (and documentation) for quantifying the association between the metadata of a set of terminals and the clades they form on a tree, using random forests.
-  repo: https://gitlab.com/phyloinformatics/cladesrf
-  tags:
-    - phylogenetics
-    - artificial intelligence
-    - machine learning
-    - random forest
-
-
-- title: CladesGBM
-  subtitle: Measuring the association between terminal metadata and a cladogram using LightGBM
-  group: featured
-  image: images/cladesgbm.png
-  link: https://gitlab.com/phyloinformatics/cladesgbm
-  description: The cladegbm program measures how well per-terminal metadata predicts the clades of a phylogenetic tree, and validates that signal with the perturbation test — the same question asked by Alves et al. (2025), but with a more general, automated, and faster engine.
-  repo: https://gitlab.com/phyloinformatics/cladesgbm
-  tags:
-    - phylogenetics
-    - artificial intelligence
-    - machine learning
-    - lightgbm
-
 
 - title: Phyloinformatics
   subtitle: Fundamentals of Phylogenomics and Bioinformatics in the Age of AI
