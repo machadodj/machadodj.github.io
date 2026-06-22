@@ -2,6 +2,19 @@
 # 2026
 ##
 
+# 2026: RECOSIM
+- id: doi:10.64898/2026.06.14.732057
+  image: images/DENV.jpg
+  tags:
+    - phylogenetics
+    - dengue
+    - recombination
+  authors:
+    - H. de Paula Oliveiraa
+    - D. Jacob Machado
+    - P. Prieto-Oliveira
+    - K. Ocaña
+
 # 2026: HP2NET
 - id: doi:10.64898/2026.03.05.709005
   image: images/20260309_Rafael_Terra.jpg
