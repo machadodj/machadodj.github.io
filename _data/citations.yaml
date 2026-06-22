@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.64898/2026.06.14.732057
+  title: Evidence for recombination in dengue virus genomes
+  authors:
+  - H. de Paula Oliveiraa
+  - D. Jacob Machado
+  - P. Prieto-Oliveira
+  - "K. Oca\xF1a"
+  publisher: openRxiv
+  date: '2026-06-16'
+  link: https://doi.org/hb8gcc
+  image: images/DENV.jpg
+  tags:
+  - phylogenetics
+  - dengue
+  - recombination
+  _cache: 31846e3f69060b929dba789bf34caec8d11a8a5c2304ec52613bc435a40051a9
 - id: doi:10.64898/2026.03.05.709005
   title: 'HP2NET: Empowering Efficient Phylogenetic Network Analysis through High-Performance
     Computing'
