@@ -12,12 +12,13 @@ member: Denis_Jacob_Machado
 {% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
-# Uncovering the Hidden Switches in Dengue Virus Evolution
-
 {% include figure.html image="images/DENV.jpg" caption="Oliveira's et al. (2026; Figure 3): ML phylogenomic cladogram of DENV. Ingroup: 6,638 sequences; Outgroup: 1 ZIKV, 3 WNV. Colors: DENV-1 (yellow),-2 (green),-3 (purple),-4 (blue)."%}
 {:.center}
 
+# Uncovering the Hidden Switches in Dengue Virus Evolution
+
 We are thrilled to announce that our lab has just released a new preprint: "Evidence for recombination in dengue virus genomes". For a long time, Dengue virus (DENV) was thought to evolve primarily through the simple, clonal accumulation of mutations. However, our latest genome-wide screen reveals that viral recombination—where genetic material is exchanged between co-infecting viruses—plays a widespread role in its evolution.
+
 Here are a few key takeaways from our research:
 
 - We analyzed a massive dataset of 6,905 complete DENV genomes representing all four serotypes, collected across 82 countries between 1944 and 2023.
