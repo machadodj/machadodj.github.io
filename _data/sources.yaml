@@ -2,6 +2,17 @@
 # 2026
 ##
 
+# 2026: FAIR
+- id: doi:https://doi.org/10.1111/cla.70050
+  image: images/20260702_fair.jpg
+  tags:
+    - phylogenetics
+    - health
+    - fair
+  authors:
+    - O. Marne
+    - D. Jacob Machado
+
 # 2026: RECOSIM
 - id: doi:10.64898/2026.06.14.732057
   image: images/DENV.jpg
