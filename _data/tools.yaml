@@ -1,3 +1,17 @@
+- title: Péva
+  subtitle: Phylogenetics Result Analyses
+  group: featured
+  image: images/peva.png
+  link: https://gitlab.com/phyloinformatics/peva-public
+  description: Péva is our actively developed phylogenetics platform and the successor to YBYRÁ. It brings together character categorization, clade sensitivity analysis, topological (tree-to-tree) distances, and wildcard taxon detection in a single, modern, extensible framework. Note that Péva is not yet recommended for tree searches — for those we currently suggest Goloboff's TNT or Wheeler's PhyG — but exciting new functionality is on the way.
+  repo: https://gitlab.com/phyloinformatics/peva-public
+  tags:
+    - phylogenetics
+    - character categorization
+    - sensitivity analyses
+    - topological distances
+    - wildcard search
+
 - title: CladesRF
   subtitle: Measuring the association between terminal metadata and a cladogram
   group: featured
