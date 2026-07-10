@@ -51,21 +51,6 @@
     - viruses
     - web app
 
-- title: YBYRÁ
-  subtitle: Phylogenetics Result Analyses
-  group: featured
-  image: images/YBYRA.jpg
-  link: https://gitlab.com/MachadoDJ/ybyra/-/wikis/home
-  description: The YBYRÁ project integrates software solutions for data analysis in phylogenetics. It comprises tools for topological distance calculation, clade sensitivity analysis, categorization of synapomorphies, identidfication of wildcard taxa, and more.
-  repo: https://gitlab.com/MachadoDJ/ybyra
-  tags:
-    - character optimization
-    - phylogenetics
-    - sensitivity analyses
-    - stand alone
-    - tolopological distances
-    - wildcard seacrh
-
 - title: CMA
   subtitle: Cestode Mitogenome Annotator
   group: featured
@@ -91,6 +76,21 @@
     - circularity
     - mitochondrion
     - stand alone
+
+- title: YBYRÁ
+  subtitle: Phylogenetics Result Analyses
+  group: sofware
+  image: images/YBYRA.jpg
+  link: https://gitlab.com/MachadoDJ/ybyra/-/wikis/home
+  description: The YBYRÁ project integrates software solutions for data analysis in phylogenetics. It comprises tools for topological distance calculation, clade sensitivity analysis, categorization of synapomorphies, identification of wildcard taxa, and more.
+  repo: https://gitlab.com/MachadoDJ/ybyra
+  tags:
+    - character optimization
+    - phylogenetics
+    - sensitivity analyses
+    - stand alone
+    - topological distances
+    - wildcard search
 
 - title: Phyloinformatics
   subtitle: Fundamentals of Phylogenomics and Bioinformatics in the Age of AI
