@@ -79,7 +79,7 @@
 
 - title: YBYRÁ
   subtitle: Phylogenetics Result Analyses
-  group: sofware
+  group: software
   image: images/YBYRA.jpg
   link: https://gitlab.com/MachadoDJ/ybyra/-/wikis/home
   description: The YBYRÁ project integrates software solutions for data analysis in phylogenetics. It comprises tools for topological distance calculation, clade sensitivity analysis, categorization of synapomorphies, identification of wildcard taxa, and more.
