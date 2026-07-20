@@ -74,6 +74,11 @@ nav:
 
 ## <i class="fas fa-user-group"></i>Posters
 
+### 2026
+
+- **July 20, 2026**: "Péva has the first automated tool for measuring the association between a phylogeny and its metadata" by Emily Biaz and Denis Jacob Machado. This student project and presentation was funded by CCI's REU program "Smart and Secure Future Computing" (NSF #2244424) and presented at the Summer Research Symposium 2026, organized by UNC Charlotte's Office of Undergraduate Research (Charlotte, NC, USA). See the poster and supplementary materials in [GitLab](https://gitlab.com/phyloinformatics/peva-public/-/tree/main/research/reu26/biaz_hierarchical_clade_prediction).
+- **July 20, 2026**: "Benchmarking Péva against RDP5 for viral recombination detection using simulated alignments" by Sumedha Budaraju and Denis Jacob Machado. This student project and presentation was funded by CCI's REU program "Smart and Secure Future Computing" (NSF #2244424) and presented at the Summer Research Symposium 2026, organized by UNC Charlotte's Office of Undergraduate Research (Charlotte, NC, USA). See the poster and supplementary materials in [GitLab](https://gitlab.com/phyloinformatics/peva-public/-/tree/main/research/reu26/budaraju_recombination_benchmark).
+
 ### 2025
 
 - **April 23, 2025**: "Automated Protocol for Testing Crucial Mutations in Coronaviruses Using AI: Insights into Immune Escape and Resistance," by Anastasiia Duchenko, Daniel Janies, and Denis Jacob Machado at Mutations in Time and Space 2025 Conference -- Broad Institute of MIT and Harvard, Cambridge, MA, USA ([click here to go to the GitLab project](https://gitlab.com/staisyelash/2025_mutationsintimeandspace_duchenko))
