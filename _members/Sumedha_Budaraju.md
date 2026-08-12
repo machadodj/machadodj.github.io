@@ -2,7 +2,7 @@
 name: Sumedha Budaraju
 image: headshots/SumedhaBudaraju.jpg
 description: Undergraduate Student (external)
-role: undergrad
+role: alumni
 aliases:
   - Sumedha Budaraju
   - Budaraju, Sumedha
