@@ -38,6 +38,33 @@
     - machine learning
     - random forest
 
+- title: RECOSIM
+  subtitle: Recombination Simulation and Detection
+  group: featured
+  image: images/recosim.png
+  link: https://gitlab.com/phyloinformatics/recosim
+  description: RECOSIM simulates recombination in aligned sequences and detects it. Detection rests on a simple idea. A recombinant sits close to its major donor on the phylogenetic tree, yet shares a spatially clustered block of homoplastic character states with a more distant minor donor, a block too dense to credibly attribute to convergence or chance. The toolkit finds that block, assigns the donor and recombinant roles, reports the breakpoints, and scores the results against known ground truth.
+  repo: https://gitlab.com/phyloinformatics/recosim
+  tags:
+    - phylogenetics
+    - recombination
+    - simulation
+    - stand alone
+    - viruses
+
+- title: FLAVi-CoV
+  subtitle: Genome Annotation for SARS-CoV-2 and Relatives
+  group: featured
+  image: images/flavi-cov.png
+  link: https://gitlab.com/MachadoDJ/flavi-cov
+  description: FLAVi-CoV adapts our annotation framework to complete genomes (about 29,000 bp) of SARS-CoV-2 and SARS-CoV-2-related viruses. It combines MAFFT, BLAST, and HMMER to predict genes, and it returns per-gene nucleotide and amino acid alignments, a concatenated alignment with partitions, and a detailed table of predictions. A Singularity container is provided. We aim to expand FLAVi-CoV into a general annotator for all _Orthocoronavirinae_.
+  repo: https://gitlab.com/MachadoDJ/flavi-cov
+  tags:
+    - coronaviruses
+    - gene annotation
+    - stand alone
+    - viruses
+
 - title: FLAVi
   subtitle: Fast Loci Annotation of Viruses
   group: featured
