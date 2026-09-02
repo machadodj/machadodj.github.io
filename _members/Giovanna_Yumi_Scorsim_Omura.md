@@ -3,6 +3,8 @@ name: Giovanna Yumi Scorsim Omura
 image: headshots/GiovannaOmura.jpg
 description: Ph.D. Candidate
 role: phd
+redirect_from:
+  - /members/Giovanna_Yui_Scorsim_Omura.html
 aliases:
   - Giovanna Yumi Scorsim Omura
   - G. Yumi Scorsim Omura
