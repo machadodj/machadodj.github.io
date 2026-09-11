@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1371/journal.pcbi.1014753
+  title: Eight quick tips for requesting materials from natural history collections
+  authors:
+  - G. Y. Scorsim Omura
+  - D. Furr
+  - D. Jacob Machado
+  publisher: PLOS Computational Biology
+  date: '2026-09-10'
+  link: https://doi.org/hcjb9r
+  image: images/20260910_QuickTips.png
+  tags:
+  - natural history collections
+  - museum
+  - education
+  - malacology
+  _cache: fddaba1037c4b1698ff37fd6fd084f0ec82a818ededbaa23679fba4c586a4d9f
 - id: doi:https://doi.org/10.1111/cla.70050
   title: "Advancing <span style=\"font-variant:small-caps;\">FAIR</span> phylogenetics\
     \ for health threats: a systematic review of <span style=\"font-variant:small-caps;\"\
