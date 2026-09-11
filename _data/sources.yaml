@@ -2,6 +2,19 @@
 # 2026
 ##
 
+# 2026: Quick Tips
+- id: doi:10.1371/journal.pcbi.1014753
+  image: images/20260910_QuickTips.png
+  tags:
+    - natural history collections
+    - museum
+    - education
+    - malacology
+  authors:
+    - G. Y. Scorsim Omura
+    - D. Furr
+    - D. Jacob Machado
+
 # 2026: FAIR
 - id: doi:https://doi.org/10.1111/cla.70050
   image: images/20260702_fair.jpg
