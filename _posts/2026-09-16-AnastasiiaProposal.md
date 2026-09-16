@@ -13,7 +13,7 @@ member: Denis_Jacob_Machado
 {% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
-{% include figure.html image="images/20260916_Anastasiia.jpg" caption="Anastasiia Duchenko celebrates her proposal defense with members of the Phyloinformatics Lab on September 16, 2026." width="600px" %}
+{% include figure.html image="images/20260916_Anastasiia.jpg" caption="Anastasiia Duchenko celebrates her proposal defense with members of the Phyloinformatics Lab and friends on September 16, 2026. Left to right: Reyhaneh, Hannah, Steve, Anastasiia, and Denis." width="600px" %}
 {:.center}
 
 # Congratulations, Anastasiia

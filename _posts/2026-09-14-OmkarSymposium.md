@@ -14,7 +14,7 @@ member: Denis_Jacob_Machado
 {% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
-{% include figure.html image="images/20260914_Omkar.jpg" caption="Omkar Marne presents \"The SARS-CoV-2 phylogeny is sensitive to alignment parameters and outgroup selection\" at the Charlotte Regional Biomedical Symposium on September 14, 2026." %}
+{% include figure.html image="images/20260914_Omkar.jpg" caption="Omkar Marne presents 'The SARS-CoV-2 phylogeny is sensitive to alignment parameters and outgroup selection' at the Charlotte Regional Biomedical Symposium on September 14, 2026." %}
 {:.center}
 
 # Omkar puts our SARS-CoV-2 work in front of the region
