@@ -1,7 +1,7 @@
 ---
 name: Anastasiia Duchenko
 image: headshots/AnastasiiaDuchenko.jpg
-description: Ph.D. Student
+description: Ph.D. Candidate
 role: phd
 aliases:
   - Anastasiia Duchenko
@@ -18,7 +18,7 @@ Anastasiia is a Ukrainian scientist with a Master’s in Molecular Biology and G
 
 ## Current Status
 
-PhD student and Teaching Assistant.
+Ph.D. Candidate and Teaching Assistant.
 
 ## Current Research Focus
 
