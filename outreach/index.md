@@ -22,7 +22,7 @@ nav:
 
 - **March 9, 2026**: "HP2NET: Empowering Efficient Phylogenetic Network Analysis through High-Performance Computing," a review by  Rafael Terra, Diego Carvalho, Denis Jacob Machado, Carla Osthoff, and Kary Ocaña. This pre-print is available from bioRxiv (DOI: [10.64898/2026.03.05.7090051](https://doi.org/10.64898/2026.03.05.709005)).
 
-- **March 6, 2026**: "AlphaFold and the Transformation of Structural Biology: Evolution, Applications, Limitations, and Future Directions," a review by Anastasiia Duckenko and Denis Jacob Machado. This pre-print is available from Authorea (DOI: [10.22541/au.177282022.20654724/v1](https://doi.org/10.22541/au.177282022.20654724/v1)).
+- **March 6, 2026**: "AlphaFold and the Transformation of Structural Biology: Evolution, Applications, Limitations, and Future Directions," a review by Anastasiia Duchenko and Denis Jacob Machado. This pre-print is available from Authorea (DOI: [10.22541/au.177282022.20654724/v1](https://doi.org/10.22541/au.177282022.20654724/v1)).
 
 <!--Oral Presentations-->
 
@@ -30,9 +30,10 @@ nav:
 
 ### 2026
 
+- **September 14, 2026**: "The SARS-CoV-2 phylogeny is sensitive to alignment parameters and outgroup selection" by Omkar Marne and Denis Jacob Machado. This talk was given by Omkar Marne at the Charlotte Regional Biomedical Symposium (Charlotte, NC, USA). [Click here for our news post about it](https://phyloinformatics.com/2026/09/14/OmkarSymposium.html).
 - **June 8, 2026**: "FAIR Docking: Best Practices for Reproducible Protein-Protein Interactions on the Cloud Platforms" by Anastasiia Duchenko and Denis Jacob Machado. This talk was given at the Genomic Research and Data Science Center for Cloud Computing (GRADS-4C) Research Symposium at the Koury Convention Center in Greensboro, NC.
 - **May 14, 2026**: "Promoting Reproducible Research with AVOIDRUNE: An Automated Pipeline for Protein-Protein Interaction Analysis” by Anastasiia Duchenko and Denis Jacob Machado. This talk was given at the ThinkAI Research and Innovation Symposium at the UNC Charlotte Dubois Center in Charlotte, NC
-- **April 7, 2026**: "The SARS-Cov-2 Phyogeny is sensitive to alignment parameters and outgroup selection," by Omkar Marne and Denis Jacob Machado. This talk was given at the UNC Charlotte's Graduate Research Symposium (GRS) of 2026.
+- **April 7, 2026**: "The SARS-CoV-2 phylogeny is sensitive to alignment parameters and outgroup selection," by Omkar Marne and Denis Jacob Machado. This talk was given at the UNC Charlotte's Graduate Research Symposium (GRS) of 2026.
 
 ### 2025
 
