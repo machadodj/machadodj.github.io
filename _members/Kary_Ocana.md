@@ -1,7 +1,7 @@
 ---
-name: Kary Ocaña
+name: Kary Ocaña Gautherot
 image: headshots/KaryOcana.jpg
-description: Full Researcher
+description: Assistant Research Professor
 role: colab
 aliases:
   - Kary Ocaña
@@ -16,23 +16,31 @@ aliases:
   - Ocana, Kary
   - Ocana, K
   - Ocana, K.
+  - Kary Ocaña Gautherot
+  - Kary Ocana Gautherot
+  - Ocaña Gautherot, Kary
+  - Ocana Gautherot, Kary
 links:
-  home-page: https://www.lncc.br/~karyann/
+  home-page: https://biology.charlotte.edu/people/3353-2-2/
+  google-scholar: https://scholar.google.com/citations?user=vHfrhZ4AAAAJ
+  external: https://www.researchgate.net/profile/Kary-Ocana
 ---
 
 # Bio
 
-Dr. Kary Ocaña is a Full Researcher (Pesquisadora Plena) Technologist at the Bioinformatics Laboratory (LABINFO), which is part of the National Laboratory of Scientific Computing (LNCC).
+Dr. Kary Ocaña Gautherot is an Assistant Research Professor in the Department of Biological Sciences at the University of North Carolina at Charlotte. She has more than two decades of experience where computational biology meets high-performance computing (HPC) and artificial intelligence. Her research develops HPC-native architectures, scalable workflows, and parallel computing models. In the Augusto Lab, she uses single-cell long-read transcriptomics, HPC, data mining, and machine learning to study pathogen evolution, emerging viruses (such as H5N1 and dengue virus), and human immunogenetics in complex autoimmune diseases.
 
-From 2010 to 2015, Dr. Ocanã worked as a postdoctoral fellow at the Department of Computer Science, COPPE Institute, Federal University of Rio de Janeiro (UFRJ), Brazil. Her postdoctoral fellowship funded by the Fundação de Amparo à Pesquisa do Rio de Janeiro's (FAPERJ) "Pós-doutorado Nota 10" (Postdoc Grade A) from 2013 to 2015. Dr. Ocaña has also received Young Scientist of Our State award by FAPERJ (2017--current). In 2018, Dr. Ocaña worked as a visiting scholar at the Center of Bioinformatics, Biostatistics, and Integrative Biology at Institut Pasteur (Paris-France), reinforcing collaborative research. She received both her D.Sc. (2010) and M.Sc. (2006) in Cellular and Molecular Biology from the Oswaldo Cruz Institute (FIOCRUZ, RJ-Brazil). She also received a B.Sc. (2002) in pharmaceutical biochemistry cosigned by the National University of San Marcos (UNMSM, Lima-Peru) and UFRJ.
+Before joining UNC Charlotte, Dr. Ocaña was a Full Researcher (Pesquisadora Plena) Technologist at the Bioinformatics Laboratory (LABINFO) of the Brazilian National Laboratory for Scientific Computing (LNCC). From 2010 to 2015, she was a postdoctoral fellow in the Department of Computer Science at the COPPE Institute, Federal University of Rio de Janeiro (UFRJ), Brazil. The Fundação de Amparo à Pesquisa do Rio de Janeiro (FAPERJ) funded her fellowship from 2013 to 2015 through its "Pós-doutorado Nota 10" (Postdoc Grade A) program. FAPERJ also named her a Young Scientist of Our State in 2017. In 2018, she was a visiting scholar at the Center of Bioinformatics, Biostatistics, and Integrative Biology at the Institut Pasteur in Paris, France.
 
-Dr. Ocanã participates in pharmaceutical biochemistry and molecular and cell biology research projects with funding from Brazilian government agencies such as CNPq, CAPES, and FAPERJ. She is a member of SBC, IEEE, and ACM.
+Dr. Ocaña received her D.Sc. (2010) and M.Sc. (2006) in Cellular and Molecular Biology from the Oswaldo Cruz Institute (Fiocruz, Rio de Janeiro, Brazil). She received her B.Sc. (2002) in pharmaceutical biochemistry, cosigned by the National University of San Marcos (UNMSM, Lima, Peru) and UFRJ. She is a member of SBC, IEEE, and ACM.
+
+Dr. Ocaña has collaborated with the Phyloinformatics Lab since 2023. Together we have studied recombination in dengue virus and other flaviviruses, and we developed HP2NET for phylogenetic network analysis on the Santos Dumont supercomputer.
 
 # Interests
 
-Dr. Ocanã's research interests include phylogenomics, genomics, development of bioinformatics software, e-Science, scientific workflows for bioinformatics, high-performance computing, data analytics in bioinformatics, provenance, and machine learning.
+Dr. Ocaña's research interests include phylogenomics, genomics, immunogenetics, single-cell long-read transcriptomics, bioinformatics software development, e-Science, scientific workflows for bioinformatics, high-performance computing, data analytics in bioinformatics, provenance, and machine learning.
 
 # Contact
 
-- Address: National Laboratory of Scientific Computing (LNCC), Bioinformatics Laboratory (LABINFO). Avenida Getúlio Vargas 333, Quitandinha 25651075--Petrópolis, RJ--Brasil, PO box 68511.
-- Contact: karyann [at] lncc [dot] br
+- Address: Department of Biological Sciences, Woodward Hall 363, University of North Carolina at Charlotte, 9201 University City Blvd, Charlotte, NC 28223, U.S.A.
+- Phone: 704-687-8622
