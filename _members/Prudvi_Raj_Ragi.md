@@ -18,7 +18,7 @@ links:
 
 ## Background
 
-Hello, I am Prudvi Raj Ragi, currently pursuing an MS in Bioinformatics at the University of North Carolina at Charlotte. I have a strong background in biotechnology and data analysis. I earned my Bachelor’s degree in Biotechnology from Bharath Institute of Higher Education and Research, where I led research projects such as the molecular analysis of sickle cell anemia and comparative studies on the phytochemical profile of Solanum Nigrum. My expertise in data science was further developed during my tenure at Zetabytes Communications, where I analyzed COVID-19 data using Python and created interactive dashboards and reports to uncover key trends.
+Hello, I am Prudvi Raj Ragi, currently pursuing an MS in Bioinformatics at the University of North Carolina at Charlotte. I have a strong background in biotechnology and data analysis. I earned my Bachelor’s degree in Biotechnology from Bharath Institute of Higher Education and Research, where I led research projects such as the molecular analysis of sickle cell anemia and comparative studies on the phytochemical profile of Solanum nigrum. My expertise in data science was further developed during my tenure at Zetabytes Communications, where I analyzed COVID-19 data using Python and created interactive dashboards and reports to uncover key trends.
 
 ## What am I working on?
 

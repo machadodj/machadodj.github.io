@@ -19,7 +19,7 @@ member: Denis_Jacob_Machado
 
 # Anastasiia Duchenko Selected for the Graduate Life Fellowship
 
-We are incredibly proud to celebrate Anastasiia Duchenko for being selected as a Graduate Life Fellow by The Center for Graduate Life and Learning at UNC Charlotte for the 2026–2027 academic year! 
+We are incredibly proud to celebrate Anastasiia Duchenko for being selected as a Graduate Life Fellow by the Center for Graduate Life and Learning at UNC Charlotte for the 2026–2027 academic year! 
 
 Graduate Life Fellows serve as vital leaders, mentors, and liaisons within the university's graduate community, helping peers navigate the complexities of graduate school with resilience, empathy, and strong peer support. 
 

@@ -17,11 +17,9 @@
   - education
   - malacology
   _cache: fddaba1037c4b1698ff37fd6fd084f0ec82a818ededbaa23679fba4c586a4d9f
-- id: doi:https://doi.org/10.1111/cla.70050
-  title: "Advancing <span style=\"font-variant:small-caps;\">FAIR</span> phylogenetics\
-    \ for health threats: a systematic review of <span style=\"font-variant:small-caps;\"\
-    >SARS</span> \u2010 <span style=\"font-variant:small-caps;\">CoV</span> \u2010\
-    2 research and guidelines for future outbreaks"
+- id: doi:10.1111/cla.70050
+  title: 'Advancing FAIR phylogenetics for health threats: a systematic review of
+    SARS-CoV-2 research and guidelines for future outbreaks'
   authors:
   - O. Marne
   - D. Jacob Machado
@@ -33,11 +31,11 @@
   - phylogenetics
   - health
   - fair
-  _cache: 2df623810fdb27e31f04f765ed382b5ec936da3591f4181d84bd70a488b0439f
+  _cache: 058a038daa75becbe4a67ea247c2572acb408753aa57ff6963b0168f327d8ffd
 - id: doi:10.64898/2026.06.14.732057
   title: Evidence for recombination in dengue virus genomes
   authors:
-  - H. de Paula Oliveiraa
+  - H. de Paula Oliveira
   - D. Jacob Machado
   - P. Prieto-Oliveira
   - "K. Oca\xF1a"
@@ -49,7 +47,7 @@
   - phylogenetics
   - dengue
   - recombination
-  _cache: 31846e3f69060b929dba789bf34caec8d11a8a5c2304ec52613bc435a40051a9
+  _cache: da68237ca1e9de2e42aac0ce9720286e55c112b65af3f38897928b4e3b791020
 - id: doi:10.64898/2026.03.05.709005
   title: 'HP2NET: Empowering Efficient Phylogenetic Network Analysis through High-Performance
     Computing'
@@ -318,11 +316,11 @@
   - echinoderms
   - non-model organism
   - genomics
-  - invertebates
+  - invertebrates
   - zoology
   - database
-  - softare
-  _cache: 7516badf6b5595564e8308d8d84a47f777a4d78f4aefdecb76383d21eff8d0c6
+  - software
+  _cache: a0be6b5baa53e370e1da114441886b11534e51675fbeea78f8303cc2b2e2d6e9
 - id: doi:10.1186/s12864-022-08750-y
   title: 'Twinkle twinkle brittle star: the draft genome of Ophioderma brevispinum
     (Echinodermata: Ophiuroidea) as a resource for regeneration research'
@@ -341,13 +339,13 @@
   - echinoderms
   - non-model organism
   - genomics
-  - invertebates
+  - invertebrates
   - zoology
   - gene annotation
   - gene prediction
   - mitogenome
   - nuclear genome
-  _cache: 6c0e4715a74cab11a101de747d00fb78311d78ac39bffcf4b34847bebdbcb844
+  _cache: 308a59cd54223fa4d955880326f8358eeff58d708ae2def469bcee39e6f0e264
 - id: doi:10.1186/s12983-022-00461-0
   title: A subterminal growth zone at arm tip likely underlies life-long indeterminate
     growth in brittle stars
@@ -411,22 +409,22 @@
   - genomics
   _cache: 486f886ac44dd09f06dcc6d20ef7e7f2749ac0b3828e0578ed596224d541488e
 - id: doi:10.54502/msuceva.v2n2a5
-  title: "Relaciones de estructura-funci\xF3n en la P-glicoprote\xEDna humana (ABCB1):\
-    \ Perspectivas de las simulaciones de din\xE1mica molecular"
+  title: "Fundamentos de la epidemiolog\xEDa gen\xF3mica, lecciones aprendidas de\
+    \ la enfermedad por coronavirus (COVID-19) y nuevas direcciones"
   authors:
-  - Liadys Mora Lagares
-  - "Yunierkis P\xE9rez Castillo"
-  - Nikola Minovski
-  - "Marjana Novi\u02C7c"
+  - Denis Jacob Machado
+  - Richard Allen White III
+  - Janice Kofsky
+  - Daniel A. Janies
   publisher: Magna Scientia UCEVA
-  date: '2022-12-21'
+  date: '2022-12-01'
   link: https://doi.org/hbh3pj
   image: images/placeholder.svg
   tags:
   - epidemiology
   - viruses
   - coronavirus
-  _cache: c3a629d3bdb502dcf1d4a59b0a3bcef68d14016c46e1417855b4684ca7084908
+  _cache: aa8a20914f291db71e7de6f1216681a35452c3d2b5f3e8097eec6cdae29f2609
 - id: doi:10.1017/ash.2021.222
   title: Fundamentals of genomic epidemiology, lessons learned from the coronavirus
     disease 2019 (COVID-19) pandemic, and new directions
@@ -566,15 +564,15 @@
   - gene annotation
   - gene prediction
   - genome skimming
-  - invertebates
+  - invertebrates
   - mitogenome
   - parasitology
   - zoology
-  _cache: 21e7330be335d10a2406454027e32854a8f833db5e835907ccaeddb9db8d0832
+  _cache: c5d050d548f65a9cd541ea6a89dcc094fb80a68f1af2947cd65b34510e0cc35d
 - id: doi:10.3390/v12080892
   title: 'FLAVi: An Enhanced Annotator for Viral Genomes of Flaviviridae'
   authors:
-  - Adriano de Bernadi Schneider
+  - Adriano de Bernardi Schneider
   - Denis Jacob Machado
   - Sayal Guirales
   - Daniel A. Janies
@@ -595,7 +593,7 @@
   - viruses
   - zoonoses
   - software
-  _cache: de1e8d4fc3f2cf2a9b035f57b1ff8505dbd48cc6c2ead35c0ff21efc09dc8109
+  _cache: 6f843b4057bdc403e561ca957f9af9aa06e015ec0c312c478736b7d33c950f38
 - id: doi:10.1371/journal.pone.0232981
   title: Active Notch signaling is required for arm regeneration in a brittle star
   authors:
@@ -760,8 +758,8 @@
   link: https://doi.org/gqmgsr
   image: https://uconn-today-universityofconn.netdna-ssl.com/wp-content/uploads/2017/12/2_20171029-Acanth_rodm.jpg
   tags:
-  - invertebates
+  - invertebrates
   - parasitology
   - zoological taxonomy
   - zoology
-  _cache: 7a56cb235b4a92ecfb583e8745344d45526d6f31a48313d9f0d4e6c19bb4df60
+  _cache: eb1e3acac1d9274bc2a4a03bb81484131e569a224dd76fc4ad316f92db6b1a78

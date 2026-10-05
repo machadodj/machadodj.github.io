@@ -22,7 +22,7 @@ Ph.D. Candidate and Teaching Assistant.
 
 ## Current Research Focus
 
-Over the past year, Anastasiia has been leveraging advanced computational tools such as AlphaFold2, ChimeraX, HADDOCK (v2.4 and v3.0), and PRODIGY. She has also been involved in developing Singularity containers and utilizing High-Performance Computing (HPC) resources at the UNC Charlotte cluster. During her first rotation in the Phyloinformatics lab, she focused on analyzing SARS-CoV-2 variant receptor-binding domain (RBD) proteins and predicting their docking interactions with antibodies and ACE2 receptors.
+Over the past year, Anastasiia has been leveraging advanced computational tools such as AlphaFold2, ChimeraX, HADDOCK (v2.4 and v3.0), and PRODIGY. She has also been involved in developing Singularity containers and utilizing High-Performance Computing (HPC) resources at the UNC Charlotte cluster. During her first rotation in the Phyloinformatics Lab, she focused on analyzing SARS-CoV-2 variant receptor-binding domain (RBD) proteins and predicting their docking interactions with antibodies and ACE2 receptors.
 
 ## Scientific Interests
 
@@ -37,4 +37,4 @@ Molecular biology, genetics, 3D protein structures, artificial intelligence and 
 
 ## Awards
 
-- The Graduate & Professional Student Government (GPSG) Travel Funding, UNC Charlotte (July, 2025).
+- The Graduate & Professional Student Government (GPSG) Travel Funding, UNC Charlotte (July 2025).

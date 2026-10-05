@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Email, address, and location
 
-Our lab is part of UNC Charlotte's [Computational Intelligence to Predict Health and Environmental Risks (CIPHER)](https://cipher.charlotte.edu/) reserach center. We are located on the 4th floor of the [Department of Bioinformatics and Genomics](https://cci.charlotte.edu/bioinformatics/47/3).
+Our lab is part of UNC Charlotte's [Computational Intelligence to Predict Health and Environmental Risks (CIPHER)](https://cipher.charlotte.edu/) research center. We are located on the 4th floor of the [Department of Bioinformatics and Genomics](https://cci.charlotte.edu/bioinformatics/47/3).
 
 {%
   include link.html
@@ -45,7 +45,7 @@ Our lab is part of UNC Charlotte's [Computational Intelligence to Predict Health
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-You can mail Dr. Denis Jacob Machado at 9331 Robert D. Snyder Rd, Office 453,  Charlotte, NC 28223, USA.
+You can mail Dr. Denis Jacob Machado at 9331 Robert D. Snyder Rd, Office 453, Charlotte, NC 28223, USA.
 
 {% include section.html %}
 
@@ -127,9 +127,9 @@ We would be thrilled if you're considering joining the vibrant community at the 
 To streamline our communication and ensure everyone gets the attention they deserve, we've put together a few friendly tips for reaching out, especially if you're a student interested in job opportunities or collaboration:
 
 1. Stay updated on our latest open positions! We regularly post about them in our [news section](https://phyloinformatics.com/news/) and on [UNC Charlotte's applicant site](https://jobs.charlotte.edu/postings/search). All paid opportunities will be listed there, and we kindly ask that inquiries about such positions come in response to these posts.
-2. Before reaching out, take a moment to explore our lab's mission, vision, and research areas on our [homepage](https://phyloinformatics.com/). Please familiarize yourself with the goals of UNC Charlotte's [CIPHER center](https://cipher.charlotte.edu/) and the [Department of Bioinformatics and Genomics](Department of Bioinformatics and Genomics), our proud location. Dive into our [research](https://phyloinformatics.com/research/) projects, and let us know what aspects caught your eye.
+2. Before reaching out, take a moment to explore our lab's mission, vision, and research areas on our [homepage](https://phyloinformatics.com/). Please familiarize yourself with the goals of UNC Charlotte's [CIPHER center](https://cipher.charlotte.edu/) and the [Department of Bioinformatics and Genomics](https://cci.charlotte.edu/bioinformatics/47/3), our proud location. Dive into our [research](https://phyloinformatics.com/research/) projects, and let us know what aspects caught your eye.
 3. When you contact us, share your specific interests in our lines of research and outline your overarching goals as a student or researcher. While you don't need a fully formed research plan, we're open to detailed ideas and suggestions for potential funding opportunities.
 4. Make your email uniquely yours! If it feels too generic and seems like a copy-paste message that could go to any lab, it might be mistaken for spam, and unfortunately, we won't be able to respond.
-5. If your question is about applying to become a student, perhaps in one of our graduate programs in bioinformatics, you should first check the details on UNC Charlotte's website. For example, [click here](https://cci.charlotte.edu/academics/bioinformatics/bioinformatics-ms-program/) to read about our Master's in bioinformatics and [click here](https://gradadmissions.charlotte.edu/programs/bioinformatics-and-computational-biology-phd#:~:text=The%20Ph.,worldwide%20in%20academia%20and%20industry) to read about the Ph.D. program on bioinformatics and computational biology.
+5. If your question is about applying to become a student, perhaps in one of our graduate programs in bioinformatics, you should first check the details on UNC Charlotte's website. For example, [click here](https://cci.charlotte.edu/academics/bioinformatics/bioinformatics-ms-program/) to read about our Master's in bioinformatics and [click here](https://gradadmissions.charlotte.edu/programs/bioinformatics-and-computational-biology-phd#:~:text=The%20Ph.,worldwide%20in%20academia%20and%20industry) to read about the Ph.D. program in bioinformatics and computational biology.
 
 We're eager to connect with individuals who share our passion for phyloinformatics, and we look forward to hearing from you. Your thoughtful approach will undoubtedly make our interaction more fruitful. Let's embark on this exciting journey together!

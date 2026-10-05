@@ -9,7 +9,7 @@ author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
 
-# Congratualions to our Master's students that just graduated!
+# Congratulations to our Master's students that just graduated!
 
 {% include figure.html image="images/20241215_commencement.jpg" caption="From left to right: Prudvi, Denis, Tulasi, and Shivam."%}
 {:.center}

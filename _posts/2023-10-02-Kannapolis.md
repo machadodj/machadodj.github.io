@@ -18,7 +18,7 @@ Bring your lab coats and get your hands dirty with hands-on art and design, chem
 
 You will be able to join our partners:
 
-## Cabarrus' Health Alliance
+## Cabarrus Health Alliance
 
 Come learn about nutrition with Cabarrus Health Alliance! We'll talk about our Healthy Living initiatives using hands-on activities such as our sugar and salt shocker kits, portion plates, and many other engaging models.
  
@@ -30,7 +30,7 @@ Complete a STEM activity with information about microgreens, how to grow them, t
 
 ## UNC Charlotte's Department of Bioinformatics and Genomics
 
-The Phyloinformatics Lab appreciates the invitation [Lab LaBella](https://www.lablabella.com/) to help you learn how the bioinformaticians department at UNC Charlotte reads DNA to discover new traits in organism. Come over, meet us in person, and be guided on a journey through building model bacteria!
+The Phyloinformatics Lab appreciates the invitation from [Lab LaBella](https://www.lablabella.com/) to help you learn how the bioinformatics department at UNC Charlotte reads DNA to discover new traits in organisms. Come over, meet us in person, and be guided on a journey through building model bacteria!
  
 ## More
 

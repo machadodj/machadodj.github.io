@@ -1,12 +1,12 @@
 ---
-title: Bioinformatics Teaching in the age of GenAI — An Update
+title: Bioinformatics Teaching in the Age of GenAI — An Update
 tags:
   - ai
   - bioinformatics
   - education
   - teaching
   - learning
-  - programing
+  - programming
   - python
   - reflection
 author: Denis Jacob Machado

@@ -28,7 +28,7 @@ aliases:
 
 Hello!
 
-I'm a PhD student at the UNC Charlotte, specializing in Malacology, the study of mollusks, particularly land snails. I hold degrees in Biology and Education, with a Master's in Zoology.
+I'm a PhD student at UNC Charlotte, specializing in Malacology, the study of mollusks, particularly land snails. I hold degrees in Biology and Education, with a Master's in Zoology.
 
 My research focuses on terrestrial malacofauna worldwide, encompassing taxonomy, phylogeny, and gastropod ecology. I possess expertise in bioinformatics, Python programming, scientific collection curation, and modern evolutionary synthesis.
 
@@ -36,7 +36,7 @@ I actively participate in various societies, including the American Malacologica
 
 My PhD research at the Phyloinformatics Lab centers on:
 
-- Evaluating land snail genus _Triodopsis_' reciprocal monophyly using complete mitochondrial genome (mitogenome) trees.
+- Evaluating the land snail genus _Triodopsis_' reciprocal monophyly using complete mitochondrial genome (mitogenome) trees.
 - Revising the taxonomy of selected taxa and developing an identification key.
 - Investigating whether morphological or biogeographical snail characteristics can predict evolutionary relationships (tree topology) in the absence of DNA data, ranking their relative importance.
 
@@ -47,4 +47,4 @@ My PhD research at the Phyloinformatics Lab centers on:
 
 ## Awards
 
-- The Thomas L. Reynolds Center for Graduate Life & Learning (CGLL) the second annual Campus Superhero Award for 2025, for her efforts in going above and beyond to help her fellow graduate students., UNC Charlotte.
+- The Thomas L. Reynolds Center for Graduate Life & Learning (CGLL) second annual Campus Superhero Award for 2025, for her efforts in going above and beyond to help her fellow graduate students, UNC Charlotte.

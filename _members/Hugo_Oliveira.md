@@ -22,7 +22,7 @@ Hugo obtained his Master's degree on July 11, 2025, at 11:52 AM (GMT-3). The Phy
 
 Hello!
 
-I’m a M.Sc. student at the National Laboratory for Scientific Computing (LNCC), with a strong interest in applying genomic approaches to evolutionary biology.
+I’m an M.Sc. student at the National Laboratory for Scientific Computing (LNCC), with a strong interest in applying genomic approaches to evolutionary biology.
 
 Currently, I am investigating the in-silico landscape of genome recombination in dengue viruses under the supervision of Dr. Kary Ocaña and Dr. Denis Jacob Machado.
 

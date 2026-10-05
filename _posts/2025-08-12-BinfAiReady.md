@@ -1,12 +1,12 @@
 ---
-title: Bioinformatics Teaching in the age of GenAI
+title: Bioinformatics Teaching in the Age of GenAI
 tags:
   - ai
   - bioinformatics
   - education
   - teaching
   - learning
-  - programing
+  - programming
   - python
 author: Denis Jacob Machado
 member: Denis_Jacob_Machado
@@ -20,7 +20,7 @@ Our work was grounded in a review of selected scholarly publications from 2023 t
 
 ## Background
 
-Franklin *et al*. (2025) define Generative AI (GenAI) as the artificial intelligence models that generate new content, such as text, images, audio, or video, based on learned patterns from large datasets. Generative AI quickly advanced from niche to commodity in November 2022 with the launch of ChatGPT by OpenAI (Thorbecke, 2023). Franklin et al. (2025) define ChatGPT as a conversational large language model (LLM) developed by OpenAI and designed to generate human-like responses in a dialogue format. Like other LLMs, ChatGPT is trained on large datasets to produce coherent and contextually appropriate text outputs by gennerating serquences of " tokens" (words or phrases). These models, however, may suffer from " hallucinations," a phenomenon where a LLM generates incorrect or nonsensical responses that appear plausible but are not gournded in its training data or factual information.
+Franklin *et al*. (2025) define Generative AI (GenAI) as the artificial intelligence models that generate new content, such as text, images, audio, or video, based on learned patterns from large datasets. Generative AI quickly advanced from niche to commodity in November 2022 with the launch of ChatGPT by OpenAI (Thorbecke, 2023). Franklin et al. (2025) define ChatGPT as a conversational large language model (LLM) developed by OpenAI and designed to generate human-like responses in a dialogue format. Like other LLMs, ChatGPT is trained on large datasets to produce coherent and contextually appropriate text outputs by generating sequences of "tokens" (words or phrases). These models, however, may suffer from "hallucinations," a phenomenon where an LLM generates incorrect or nonsensical responses that appear plausible but are not grounded in its training data or factual information.
 
 GenAI is reshaping computer science education, challenging the primacy of traditional programming skills. Tools like ChatGPT and AI-based code assistants now perform tasks once reserved for junior developers, prompting a reevaluation of what it means to "learn to code." Simultaneously, the job market for computer science (CS) graduates has tightened, with fewer entry-level positions available as AI increasingly automates routine coding work. In response, leading institutions like Carnegie Mellon are actively rethinking their curricula to address these shifts (Lohr, 2025).
 
@@ -32,7 +32,7 @@ Ongoing debates question how much emphasis should remain on coding itself and ho
 
 ### Building AI-Readiness Across Bioinformatics Core Courses
 
-Our Summer 2025 project is titled “Building AI-Readiness Across Bioinformatics Core Courses*" and it is supported by institutional funding. The project's primary goal is to strategically integrate GenAI content and pedagogy into the foundational sequence of courses in Bioinformatics. In this work, we especifically focus on Programming I (BINF-6111 and BINF-8111, combined), Programming II (BINF-6112 and BINF-8112, combined), and Machine Learning (BINF-6210 and BINF-8210, combined).
+Our Summer 2025 project is titled “Building AI-Readiness Across Bioinformatics Core Courses” and it is supported by institutional funding. The project's primary goal is to strategically integrate GenAI content and pedagogy into the foundational sequence of courses in Bioinformatics. In this work, we specifically focus on Programming I (BINF-6111 and BINF-8111, combined), Programming II (BINF-6112 and BINF-8112, combined), and Machine Learning (BINF-6210 and BINF-8210, combined).
 
 To support our work, we conducted a literature review of manuscripts on teaching and learning in the age of GenAI from 2023 to 2025. The purpose of this literature review was twofold:
 
@@ -65,11 +65,11 @@ We analyzed the selected materials to identify significant themes, challenges, o
 
 ## Key Observations from the Literature
 
-We summarized our key observations in Table 1 and discussed them below.
+We summarized our key observations in Table 1 and discuss them below.
 
 A recurring theme in the literature is that the act of programming is shifting from writing code from scratch to critically engaging with AI-generated content. Studies by Mello *et al.* (2023), Glazer *et al.* (2024), and Garcia (2025) highlight that the ability to understand, validate, and adapt AI-generated code is becoming more central than syntactic mastery alone. As a result, skills in critical reading and debugging have emerged as essential components of modern programming education.
 
-This transformation goes hand in hand with a new emphasis on structured problem formulation. Deriba *et al.* (2024), Denny *et al.* (2024a), and Jošt *et al.* (2024), educators should prioritize teaching students how to frame computational problems, as this skill is now more valuable than mechanically constructing solutions. Computational thinking and intentional solution design are emerging as core competencies (Corbeil *et al*., 2025).
+This transformation goes hand in hand with a new emphasis on structured problem formulation. According to Deriba *et al.* (2024), Denny *et al.* (2024a), and Jošt *et al.* (2024), educators should prioritize teaching students how to frame computational problems, as this skill is now more valuable than mechanically constructing solutions. Computational thinking and intentional solution design are emerging as core competencies (Corbeil *et al*., 2025).
 
 To support this pedagogical shift, GenAI is increasingly used to enhance instructional feedback and assessment. Research by Dăscălescu *et al.* (2025), Wang & Zhan (2024), and Demirel (2024) demonstrates the potential of GenAI tools to generate test cases, create personalized exercises, and automate feedback loops. McCulloh *et al.* (2025) provide empirical evidence that these tools can help close learning gaps between novice and advanced students, promoting more equitable learning environments.
 
@@ -102,7 +102,7 @@ In Programming I, we want to foster independent problem-solving using Python fun
 
 - **Focus**: Logic, syntax, and manual debugging.
 - **AI Use**: Discouraged, except for supervised observation.
-- **Goal**: Establish foundational skills and learner autonomy
+- **Goal**: Establish foundational skills and learner autonomy.
 
 The student learning outcomes (SLOs) and proposed assessment rubrics for Programming I are described in Tables 2 and 3, respectively. Additionally, to establish foundational Python programming skills and computational thinking, the following topics will be covered in Programming I:
 
@@ -193,7 +193,7 @@ In Machine Learning (ML), our students shall apply ML algorithms to bioinformati
 - **AI Use**: fully integrated into projects and analysis
 - **Goal**: train specialists capable of critically assessing AI-based tools
 
-The student learning outcomes (SLOs) and proposed assessment rubrics for Programming II are described in Tables 6 and 7, respectively. To introduce students to machine learning paradigms and provide hands-on implementation using Python tools in a bioinformatics context, the following topics will be covered in Machine Learning:
+The student learning outcomes (SLOs) and proposed assessment rubrics for Machine Learning are described in Tables 6 and 7, respectively. To introduce students to machine learning paradigms and provide hands-on implementation using Python tools in a bioinformatics context, the following topics will be covered in Machine Learning:
 
 1. Introduction to AI, machine learning (ML), and deep learning
 2. Data preparation: normalization, splitting, labeling
@@ -251,7 +251,7 @@ We address specific strategies for Programming I, II, and Machine Learning in th
 
 In earlier drafts of this project, we proposed the use of **Jupyter Notebooks** and **Google Colab** as primary environments for interactive coding and visualization. However, recent teaching experience has revealed a growing skills gap among incoming students: many arrive without having mastered essential **operating system (OS) competencies**.
 
-Specifically, we have observed in both undergraduate-level (ITSC-1213) and graduate-level (BINF-6112 and BINF-8112, combined)  that a significant number of students struggle with:
+Specifically, we have observed in both undergraduate-level (ITSC-1213) and graduate-level (BINF-6112 and BINF-8112, combined) courses that a significant number of students struggle with:
 
 - Downloading and locating files on their computer  
 - Extracting contents from compressed files (*e.g.*, `.zip`)  
@@ -276,9 +276,9 @@ In Programming I, students will be introduced to essential computing tools such 
 
 - **Basic local file management and organization skills** — downloading, locating, moving, renaming, and organizing files and directories on a personal computer before progressing to shell navigation.
 
-  **Python scripting basics** — creating, saving, and running Python scripts locally.
+- **Python scripting basics** — creating, saving, and running Python scripts locally.
 
-  **Bash shell fundamentals** — introduced later in the course, including navigation, file manipulation, and script execution.
+- **Bash shell fundamentals** — introduced later in the course, including navigation, file manipulation, and script execution.
 
 Hands-on activities will guide students in organizing directories and files, navigating a terminal interface, and running basic Python programs. By the end of Programming I, students should be able to complete basic exercises using these tools independently.
 
@@ -314,20 +314,20 @@ This structured progression allows instructors to focus on teaching machine lear
 | Students will be able to apply basic programming constructs and programming best practices to complete programs | ✔️             | ✔️              |                  |
 | Students will be able to apply basic concepts of procedural programming to write and debug programs | ✔️             | ✔️              |                  |
 | Acquire advanced theoretical knowledge and practical programming skills |               | ✔️              |                  |
-| Design, develop, or implement software that address complex biological questions |               | ✔️              | ✔️                |
+| Design, develop, or implement software that addresses complex biological questions |               | ✔️              | ✔️                |
 | Adhere to best practices in both academic and industry-standard programming conventions | ✔️             | ✔️              | ✔️                |
 | Understand concepts underlying popular machine learning methods |               |                | ✔️                |
 | Apply machine learning algorithms to solve practical bioinformatics problems |               |                | ✔️                |
 
 ---
 
-## Adaptative Teaching Strategies
+## Adaptive Teaching Strategies
 
-Our review of recent literature on teaching in the age of GenAI clearly indicates the need for adaptative teaching strategies that either incorporate AI as a learning tool or reinforce traditional coding skills in novel ways that are resistant to trivial LLM-generated solutions, always encoraging the students to disclose the extent to which they used GenAI in their work.
+Our review of recent literature on teaching in the age of GenAI clearly indicates the need for adaptive teaching strategies that either incorporate AI as a learning tool or reinforce traditional coding skills in novel ways that are resistant to trivial LLM-generated solutions, always encouraging the students to disclose the extent to which they used GenAI in their work.
 
-Traditionally, there have been four categories of programming exercises that assess and develop student skills: tracing, explaining in plain English (EiPE), Parsno's problems, and coding problems (Franklin *et al*., 2025). More recently, Denny *et al*. (2024c) also proposed "prompt problems."  Prompt problems, as introduced by Denny *et al.* (2024c), are a new category of programming exercises designed specifically for the LLM-enhanced educational context. Unlike traditional exercises that ask students to produce or analyze code directly, prompt problems ask students to write effective prompts that would lead a generative AI system (like ChatGPT) to produce correct or desired programming outputs.
+Traditionally, there have been four categories of programming exercises that assess and develop student skills: tracing, explaining in plain English (EiPE), Parsons problems, and coding problems (Franklin *et al*., 2025). More recently, Denny *et al*. (2024c) also proposed "prompt problems." Prompt problems, as introduced by Denny *et al.* (2024c), are a new category of programming exercises designed specifically for the LLM-enhanced educational context. Unlike traditional exercises that ask students to produce or analyze code directly, prompt problems ask students to write effective prompts that would lead a generative AI system (like ChatGPT) to produce correct or desired programming outputs.
 
-Building on Franklin *et al*. (2025) and Denny *et al.* (2024c), our review of the literature, in addition to the four aforementioned types of exercises, we selected practical, specific strategies that align with adaptive pedagogy in the GenAI era and encourage transparency (see Table 8).
+Building on Franklin *et al*. (2025), Denny *et al.* (2024c), and our review of the literature, in addition to the four aforementioned types of exercises, we selected practical, specific strategies that align with adaptive pedagogy in the GenAI era and encourage transparency (see Table 9).
 
 #### Table 9: Practical strategies for teaching programming in the age of GenAI.
 
@@ -404,7 +404,7 @@ By reinforcing transparency, reflection, and responsible use, we aim to reduce d
 
 ## On AI Teaching Assistants
 
-While recent advances in generative AI have enabled the development of AI-powered teaching assistants (AI-TAs), their role in computer science education remains a topic of debate (*e.g*., Heicke *et al*., 2023; Denny *et al*., 2024b; Liu *et al*., 2024). Franklin *et al*. (2025) present evidence suggesting that AI-TAs can effectively support instruction in large-scale courses, particularly in grading structured programming assignments and offering real-time feedback for routine problems. In some controlled settings, AI-TAs have demonstrated performance comparable to entry-level human TAs in narrowly defined tasks such as code debugging or syntax correction.
+While recent advances in generative AI have enabled the development of AI-powered teaching assistants (AI-TAs), their role in computer science education remains a topic of debate (*e.g*., Hicke *et al*., 2023; Denny *et al*., 2024b; Liu *et al*., 2024). Franklin *et al*. (2025) present evidence suggesting that AI-TAs can effectively support instruction in large-scale courses, particularly in grading structured programming assignments and offering real-time feedback for routine problems. In some controlled settings, AI-TAs have demonstrated performance comparable to entry-level human TAs in narrowly defined tasks such as code debugging or syntax correction.
 
 However, the current state of research does not suggest that AI-TAs can replace the pedagogical or emotional intelligence of human instructors and teaching assistants. In small to mid-sized classrooms (which are typical in Programming I, Programming II, and Machine Learning courses), human presence remains crucial. Unlike AI-TAs, human instructors can recognize subtle affective cues, respond empathetically to personal or emotional challenges, and adapt instruction based on informal feedback. These capabilities are essential not only for student performance but also for well-being and retention.
 
@@ -416,7 +416,7 @@ Given these considerations, we believe there is currently no strong pedagogical 
 
 ## Conclusion
 
-Teaching computation and informatics topics, including bioinformatics, in the age of GenAI calls for strategic foresight, strong conceptual grounding, and ethical clarity. While GenAI tools can personalize learning, enhance engagement, and improve assessment if implemented thoughtfully, their use must be guided by clear goals and critical pedagogical frameworks. As such, we proposed updates to the course structure of core classes in Bioinformatics (Programming I, Programming II, and Machine Learning) that respont to the demaots of teaching and learning in the age of GenAI and that will prepare students not merely to write code but also to think computationally, reason critically, and work alongside intelligent systems.
+Teaching computation and informatics topics, including bioinformatics, in the age of GenAI calls for strategic foresight, strong conceptual grounding, and ethical clarity. While GenAI tools can personalize learning, enhance engagement, and improve assessment if implemented thoughtfully, their use must be guided by clear goals and critical pedagogical frameworks. As such, we proposed updates to the course structure of core classes in Bioinformatics (Programming I, Programming II, and Machine Learning) that respond to the demands of teaching and learning in the age of GenAI and that will prepare students not merely to write code but also to think computationally, reason critically, and work alongside intelligent systems.
 
 ---
 
@@ -435,7 +435,7 @@ This curriculum redesign positions our bioinformatics graduates to thrive in an 
 - Denny, P., Prather, J., Becker, B. A., Finnie-Ansley, J., Hellas, A., Leinonen, J., ... & Sarsa, S. (2024a). Computing education in the era of generative AI. *Communications of the ACM*, *67*(2), 56-67.
 - Denny, P., MacNeil, S., Savelka, J., Porter, L., & Luxton-Reilly, A. (2024b). Desirable characteristics for ai teaching assistants in programming education. In *Proceedings of the 2024 on Innovation and Technology in Computer Science Education V. 1* (pp. 408-414). https://doi.org/10.1145/3649217.3653574
 - Denny, P., Leinonen, J., Prather, J., Luxton-Reilly, A., Amarouche, T., Becker, B. A., & Reeves, B. N. (2024c). Prompt Problems: A new programming exercise for the generative AI era. In *Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1* (pp. 296-302). https://doi.org/10.1145/3626252.3630909
-- Dăscălescu, M., Popescu, A., & Ionescu, V. (2025). Leveraging generative AI for enhancing automated assessment in programming education contests. *International Journal of Artificial Intelligence in Education, 35*(1), 45–63. https://doi.org/10.5678/ijaie.2025.35.1.045
+- Dăscălescu, S., Dumitran, M., & Vasiluta, M. A. (2025). Leveraging generative AI for enhancing automated assessment in programming education contests. In *Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)* (pp. 89–99). Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.bea-1.7
 - Deriba, F., Sanusi, I. T., O Campbell, O., & Oyelere, S. S. (2024). Computer Programming Education in the Age of Generative AI: Insights from Empirical Research.
 - Franklin, D., Denny, P., Gonzalez-Maldonado, D. A., & Tran, M. (2025). Generative AI in computer science education: Challenges and opportunities. *Cambridge University Press*.
 - Gaitantzi, A., & Kazanidis, I. (2025). The Role of Artificial Intelligence in Computer Science Education: A Systematic Review with a Focus on Database Instruction. *Applied Sciences*, *15*(7), 3960.
@@ -451,7 +451,7 @@ This curriculum redesign positions our bioinformatics graduates to thrive in an 
 - Raihan, N., Siddiq, M. L., Santos, J. C., & Zampieri, M. (2025, February). Large language models in computer science education: A systematic literature review. In *Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1* (pp. 938-944).
 - Spector, C. (2023, February 13). What do AI chatbots really mean for students and cheating? *Stanford Graduate School of Education*. Available from https://ed.stanford.edu/news/what-do-ai-chatbots-really-mean-students-and-cheating. Last accessed on July 13, 2025.
 - Sivasakthi, M., & Meenakshi, A. (2025). Generative AI in Programming Education: Evaluating ChatGPT's Effect on Computational Thinking. *SN Computer Science*, *6*(5), 1-11.
-- Thorbecke, C. (2023). A year after ChatGPT's release, the AI revolution is just beginning. *CNN*. Available fromhttps://edition.cnn.com/2023/11/30/tech/chatgpt-openai-revolution-one-year. Last accessed on  July 13, 2025.
+- Thorbecke, C. (2023). A year after ChatGPT's release, the AI revolution is just beginning. *CNN*. Available from https://edition.cnn.com/2023/11/30/tech/chatgpt-openai-revolution-one-year. Last accessed on July 13, 2025.
 - Wang, L., & Zhan, S. (2024). How can Generative AI Benefit Educators in Designing Assessments in Computer Science?. *Education Research and Perspectives (Online)*, *51*, 82-101.
 - Lee, S., & Song, K. S. (2024). Teachers' and students' perceptions of AI-generated concept explanations: Implications for integrating generative AI in computer science education. *Computers and Education: Artificial Intelligence*, *7*, 100283.
 

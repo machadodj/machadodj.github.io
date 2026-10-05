@@ -14,4 +14,4 @@ links:
 
 # Tulasi Arla
 
-Tulasi Arla has completed a Master's intership with us on the Summer of 2024.
+Tulasi Arla completed a Master's internship with us in the Summer of 2024.

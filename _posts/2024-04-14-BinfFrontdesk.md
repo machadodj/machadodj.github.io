@@ -8,9 +8,9 @@ author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
 
-# BINF Front Desk/ Receptionist position
+# BINF Front Desk/Receptionist position
 
-We have a vacancy for BINF Front Desk/ Receptionist position this for the Summer of 2025. Candidates should email their résumés directly to Ms. Rania Sour at rsorour@charlotte.edu.
+We have a vacancy for the BINF Front Desk/Receptionist position for the Summer of 2025. Candidates should email their résumés directly to Ms. Rania Sour at rsorour@charlotte.edu.
 
 ## Hours
 
@@ -19,9 +19,9 @@ Monday through Friday, from 12 pm to 4 pm or from 1 pm to 5 pm.
 ## Job Description
 
 - Direct faculty, staff, students, and visitors to the appropriate office
-- Answers faculty, staff, and student inquiries in a courteous and professional manner
+- Answer faculty, staff, and student inquiries in a courteous and professional manner
 - Take accurate messages 
-- Notify Pproper staff of package deliveries
+- Notify proper staff of package deliveries
 - Check mail and distribute in faculty staff mailboxes
 - Assist Department Staff with seminar series flyers and information
 - Department filing (maintain files and manage the filing log)

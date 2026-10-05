@@ -19,4 +19,4 @@ links:
   external: https://www.researchgate.net/profile/Paula-Prieto-Oliveira
 ---
 
-Dr. Paula Prieto Oliveira was a postdoctoal fellow at UNC Charlotte's Phyloinformatics Lab, with onset in 06/16/2023. She left our lab to do other amazing and great things on on 06/20/2025. She is experienced on molecular medicine and bioinformatics applications to virology, pathology, and degenerative or age-related diseases. Her work at the Phyloinformatics Lab focused on virology, epidemiology, evolution, and machine learning, highlighting their application in human health.
+Dr. Paula Prieto Oliveira was a postdoctoral fellow at UNC Charlotte's Phyloinformatics Lab, with onset in 06/16/2023. She left our lab to do other amazing and great things on 06/20/2025. She is experienced in molecular medicine and bioinformatics applications to virology, pathology, and degenerative or age-related diseases. Her work at the Phyloinformatics Lab focused on virology, epidemiology, evolution, and machine learning, highlighting their application in human health.

@@ -49,7 +49,7 @@ links:
 
 Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the University of North Carolina at Charlotte (UNC Charlotte), College of Computing and Informatics (CCI), Department of Bioinformatics and Genomics (BiG), starting on Aug. 15, 2022. He was one of the first hires of the Computational Intelligence to Predict Health and Environmental Risks (CIPHER) research center. He is also the first Latine faculty at UNC Charlotte’s BiG.
 
-Dr. Jacob Machado leads the Phyloinformatics Lab. The lab uses computational intelligence and phylogenetics to create an evolutionary framework integrating multi-omics data to answer practical questions in One Health. In response to the continued increase in the risk of zoonoses, the phyloinformatics lab has two main lines of research. First, investigate new pathogens’ emergence, evolution, and spread, focusing on preventing and treating infectious diseases. Second, create computational and molecular solutions to make data from biorepositories more readily available to biomedical research.
+Dr. Jacob Machado leads the Phyloinformatics Lab. The lab uses computational intelligence and phylogenetics to create an evolutionary framework integrating multi-omics data to answer practical questions in One Health. In response to the continued increase in the risk of zoonoses, the Phyloinformatics Lab has two main lines of research. First, investigate new pathogens’ emergence, evolution, and spread, focusing on preventing and treating infectious diseases. Second, create computational and molecular solutions to make data from biorepositories more readily available to biomedical research.
 
 # Highlights
 
@@ -59,7 +59,7 @@ Dr. Jacob Machado leads the Phyloinformatics Lab. The lab uses computational int
 
 - 10+ years of experience in **molecular biology**, **high-throughput sequencing** (e.g., Illumina, PacBio, Hi-C, GWAS, and RNA-Seq), sequence assembly, and differential gene expression analyses.
 
-- Concepts used in my current and past projects include Python, Flask, R, Shiny, Tableau, SQL, Git, Jupyter, AlphaFold2, RoseTTAFold, HADDOCK, SQL, and AWS.
+- Concepts used in my current and past projects include Python, Flask, R, Shiny, Tableau, SQL, Git, Jupyter, AlphaFold2, RoseTTAFold, HADDOCK, and AWS.
 
 # Experience
 
@@ -67,7 +67,7 @@ Dr. Jacob Machado leads the Phyloinformatics Lab. The lab uses computational int
 
 **Assistant Professor in Bioinformatics**, _University of North Carolina at Charlotte_, Charlotte--NC, USA.
 
-- Head of the Phyloinformatics Lab at the College of Computing in Informatics (CCI), Department of Bioinformatics and Genomics (BiG), Computational Intelligence to Predict Health and Environmental Risks (CIPHER) research center.
+- Head of the Phyloinformatics Lab at the College of Computing and Informatics (CCI), Department of Bioinformatics and Genomics (BiG), Computational Intelligence to Predict Health and Environmental Risks (CIPHER) research center.
 - Dr. Jacob Machado is Brazilian. He was BiG's first Latine faculty.
 
 ## 2019–2022
@@ -75,15 +75,15 @@ Dr. Jacob Machado leads the Phyloinformatics Lab. The lab uses computational int
 **Postdoctoral Researcher**, _University of North Carolina at Charlotte_, Charlotte--NC, USA.
 
 - I studied the origins, evolution, and zoonotic events of coronaviruses. I also employed big data analysis to categorize different variants of SARS-CoV-2 and applied deep learning techniques to produce highly accurate structure predictions of their proteins.
-- I predict how structural changes in the receptor-binding domain of the spike protein of different variants of SARS-CoV-2 may reduce antibody interaction without completely evading existing neutralizing antibodies (and, therefore, current vaccines).
-- I created the first programs for gene prediction and annotation of *Orthocoronavirinae* (including SARS-COV-2) and *Flaviviridae* (including Hepatites C, yellow fever, dengue, and Zika virus) and deployed the pipelines as web applications.
+- I predicted how structural changes in the receptor-binding domain of the spike protein of different variants of SARS-CoV-2 may reduce antibody interaction without completely evading existing neutralizing antibodies (and, therefore, current vaccines).
+- I created the first programs for gene prediction and annotation of *Orthocoronavirinae* (including SARS-CoV-2) and *Flaviviridae* (including hepatitis C, yellow fever, dengue, and Zika virus) and deployed the pipelines as web applications.
 - Produced draft genomes of highly regenerative echinoderms such as brittle stars and sea cucumbers for comparative genomics and tissue regeneration research.
 
 ## 2018–2019
 
 **Research Collaborator**, _Universidade de São Paulo_, São Paulo--SP, Brazil.
 
-- I built and administered the first computer clusters at the Muzeum of Zoology of the University of São Paulo (MUZUSP), providing training and technology to bridge the gap between basic animal research and applied bioinformatics with potential biomedical significance.
+- I built and administered the first computer clusters at the Museum of Zoology of the University of São Paulo (MZUSP), providing training and technology to bridge the gap between basic animal research and applied bioinformatics with potential biomedical significance.
 - I participated in the planning, funding acquisition, and implementation of the first laboratory to sequence historical DNA (e.g., from degraded museum samples) at the Department of Zoology of the University of São Paulo (USP).
 - I developed new genome skimming techniques to retrieve genomic data of non-model organisms when samples were small or degraded. I also created the necessary software to facilitate the analysis of organelle genomes, including new indices that check for the completeness of circular genomes or misalignments in other types of contigs and scaffolds.
 
@@ -95,8 +95,8 @@ Dr. Jacob Machado leads the Phyloinformatics Lab. The lab uses computational int
 
 **Invited Lecturer**, _Universidad del Magdalena_, Santa Marta D.T.C.H., Colombia.
 
-- I designed and taught the first course in bioinformatics at the University of Magdalena. Classes included practical and theoretical lessons on DNA extraction and isolation, high-throughput sequencing, sequence alignment, reference, and de novo genome assembly, and gene prediction and annotation.
-- I also consulted to faculty members involved in animal research who needed web and dry lab solutions for next-generation sequence analyses.
+- I designed and taught the first course in bioinformatics at the University of Magdalena. Classes included practical and theoretical lessons on DNA extraction and isolation, high-throughput sequencing, sequence alignment, reference and de novo genome assembly, and gene prediction and annotation.
+- I also consulted for faculty members involved in animal research who needed web and dry lab solutions for next-generation sequence analyses.
 
 # Education
 
@@ -106,7 +106,7 @@ Dr. Jacob Machado leads the Phyloinformatics Lab. The lab uses computational int
 
 # Random links
 
-- My first name is Denis and my last name is Jacob Machado. I don't have a middle name. [Click here](https://youtu.be/fUwCwPK6DC8) for an YouTube video where you can hear my name. Alternatively, [click here](https://www.name-coach.com/denis-jacobmachado) for audio only.
+- My first name is Denis and my last name is Jacob Machado. I don't have a middle name. [Click here](https://youtu.be/fUwCwPK6DC8) for a YouTube video where you can hear my name. Alternatively, [click here](https://www.name-coach.com/denis-jacobmachado) for audio only.
 
 {% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}

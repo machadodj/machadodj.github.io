@@ -1,7 +1,7 @@
 ---
-title: New Fullbright Application
+title: New Fulbright Application
 tags:
-  - Fullbright
+  - Fulbright
   - grants
   - proposals
   - collaborations
@@ -9,9 +9,9 @@ author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
 
-# New Fullbright Application
+# New Fulbright Application
 
-The Phyloinformatics lab has finalized and submitted a new grant proposal. This time, we worked with our collaborator in Pakistan, Dr. Muhammad Iqbal Qureshi, to submit a proposal for a Fullbright scholarship through the U.S. Educational Foundation in Pakistan (USEFP; process no. FS/2025/45360) that could allow him to visit UNC Charlotte for 12 months if approved.
+The Phyloinformatics lab has finalized and submitted a new grant proposal. This time, we worked with our collaborator in Pakistan, Dr. Muhammad Iqbal Qureshi, to submit a proposal for a Fulbright scholarship through the U.S. Educational Foundation in Pakistan (USEFP; process no. FS/2025/45360) that could allow him to visit UNC Charlotte for 12 months if approved.
 
 Dr. Iqbal is based in the National Institute of Virology, Dr. Panjwani Center for Molecular Medicine and Drug Research, International Center for Chemical and Biological Sciences, University of Karachi, Karachi-75270, Sindh.
 

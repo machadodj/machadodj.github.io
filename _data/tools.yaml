@@ -17,7 +17,7 @@
   group: featured
   image: images/cladesgbm.png
   link: https://gitlab.com/phyloinformatics/cladesgbm
-  description: The cladegbm program measures how well per-terminal metadata predicts the clades of a phylogenetic tree, and validates that signal with the perturbation test — the same question asked by Alves et al. (2025), but with a more general, automated, and faster engine.
+  description: The CladesGBM program measures how well per-terminal metadata predicts the clades of a phylogenetic tree, and validates that signal with the perturbation test — the same question asked by Alves et al. (2025), but with a more general, automated, and faster engine.
   repo: https://gitlab.com/phyloinformatics/cladesgbm
   tags:
     - phylogenetics
@@ -129,7 +129,7 @@
     - phylogenetics
     - literature
     - concept
-    - phylosophy
+    - philosophy
     - history
     - reading
 
@@ -175,7 +175,7 @@
   group: guide
   image: images/SLURM.jpg
   link: https://www.notion.so/phyloinformatics/How-to-use-the-SLURM-job-scheduler-3eb8be78f603474281c11424083df1fe
-  description: How to use the SLURM job scheduler, especially in UNC Charlotte's reserach clusters.
+  description: How to use the SLURM job scheduler, especially in UNC Charlotte's research clusters.
   tags:
     - guides
 
@@ -184,7 +184,7 @@
   group: template
   image: images/BetterPoster.jpg
   link: https://www.youtube.com/watch?v=1RwJbhkCA58
-  description: A template that helps you creating a better research poster in less time. [Click here](https://youtu.be/1RwJbhkCA58) for the YouTube video and [click here](https://osf.io/ef53g/) for the template.
+  description: A template that helps you create a better research poster in less time. [Click here](https://youtu.be/1RwJbhkCA58) for the YouTube video and [click here](https://osf.io/ef53g/) for the template.
   tags:
     - poster
     - template
@@ -204,7 +204,7 @@
   group: template
   image: images/UNC_Charlotte_Beamer.jpg
   link: https://www.overleaf.com/latex/templates/unc-charlotte-beamer-template/bvnmbzkrnhbz
-  description: A 2022 Beamer presentation template with UNC Charlotte's official logo and colors. Based on [UC Berkeley Beamer Theme](https://www.overleaf.com/latex/templates/uc-berkeley-beamer-theme/bywswngntrws) and odified by Kimberly Mays (Creative Commons CC BY 4.0).
+  description: A 2022 Beamer presentation template with UNC Charlotte's official logo and colors. Based on [UC Berkeley Beamer Theme](https://www.overleaf.com/latex/templates/uc-berkeley-beamer-theme/bywswngntrws) and modified by Kimberly Mays (Creative Commons CC BY 4.0).
   tags:
     - slides
     - template
@@ -214,7 +214,7 @@
   group: lab
   image: images/paperwork.jpg
   link: https://docs.google.com/forms/d/e/1FAIpQLSf8UO-cvH9UPpAuEGqLqVc8R-2wwCLJfpmd0mp2wqEA6-bLQQ/viewform?usp=header
-  description: Most up-to-date version of the Phloinformatics Lab's Mentor-Mentee Agreement (CC BY-NC 4.0).
+  description: Most up-to-date version of the Phyloinformatics Lab's Mentor-Mentee Agreement (CC BY-NC 4.0).
   tags:
     - paperwork
 
@@ -223,12 +223,12 @@
   group: lab
   image: images/paperwork.jpg
   link: https://docs.google.com/document/d/1Vh4gkFt78FggikttYNrJHzd7AEhZkMI5/edit#heading=h.tx900u4hisdb
-  description: Most up-to-date version of the Phloinformatics Lab's Code of Conduct (CC BY-NC 4.0).
+  description: Most up-to-date version of the Phyloinformatics Lab's Code of Conduct (CC BY-NC 4.0).
   tags:
     - paperwork
 
 - title: UNC Charlotte's
-  subtitle: Resources for the 49ners
+  subtitle: Resources for the 49ers
   group: niners
   image: images/Caring.jpg
   link: https://www.notion.so/phyloinformatics/UNC-Charlotte-s-resources-for-the-49ners-community-f0c537c7aba242ba80d27ccea00ec994

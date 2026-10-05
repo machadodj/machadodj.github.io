@@ -23,7 +23,7 @@ I am from Brazil, and I am currently an Adjunct Lecturer at the Department of Bi
 
 ## Background
 
-I have a Master and PhD in Zoology and Parasitology, earned in Brazil at the Universidade Estadual Paulista “Júlio de Mesquita Filho”, Instituto de Biociências, Botucatu, São Paulo State. After finishing graduate school, I conducted a short-term postdoc at the Institute of Parasitology of the Biology Centre of the Czech Academy of Sciences, České Budějovice. Subsequently, I conducted a second postdoc, for 40 months, at the North-West University, Potchefstroom campus, South Africa.
+I have a Master's and PhD in Zoology and Parasitology, earned in Brazil at the Universidade Estadual Paulista “Júlio de Mesquita Filho”, Instituto de Biociências, Botucatu, São Paulo State. After finishing graduate school, I conducted a short-term postdoc at the Institute of Parasitology of the Biology Centre of the Czech Academy of Sciences, České Budějovice. Subsequently, I conducted a second postdoc, for 40 months, at the North-West University, Potchefstroom campus, South Africa.
 
 ## Research
 

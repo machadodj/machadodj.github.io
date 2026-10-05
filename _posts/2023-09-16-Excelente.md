@@ -13,7 +13,7 @@ member: Denis_Jacob_Machado
 {% include figure.html image="images/20230916ExcelenciaAwardsWithSusanaCisneros.jpg" caption="Congratulations Susana Cisneros!"%}
 {:.center}
 
-The [Excelent Awards](https://excelenteawards.com/) is a wonderful event to recognize the outstanding achievements of Latino leaders and their supporters.
+The [Excelente Awards](https://excelenteawards.com/) is a wonderful event to recognize the outstanding achievements of Latino leaders and their supporters.
 
 Excelente Awards will be presented to Latin American business and service people. Also, one special award recognizes a non-Latin person who has strongly supported the Latino community and another special award will recognize outstanding Latino students.
 
@@ -23,9 +23,9 @@ This award recognizes an exceptional educator who has made a significant impact 
 
 # Susana Cisneros
 
-[Susana Cisneros](https://languages.charlotte.edu/people/susana-cisneros/) (she/ella) is a Senior Lecturer of Spanish and Affiliate Faculty of Latin American Studies. She teaches elementary, intermediate and advanced Spanish courses, she is currently serving as an advisor for the Spanish Club C.E.P.A. and also leads the Tertulia/Virtulia Spanish Conversation hour. Susana was inducted into the Honors Society of Phi Kappa Phi in March 2021. This is the nation’s oldest, largest, and most selective honors society.
+[Susana Cisneros](https://languages.charlotte.edu/people/susana-cisneros/) (she/ella) is a Senior Lecturer of Spanish and Affiliate Faculty of Latin American Studies. She teaches elementary, intermediate and advanced Spanish courses. She is currently serving as an advisor for the Spanish Club C.E.P.A. and also leads the Tertulia/Virtulia Spanish Conversation hour. Susana was inducted into the Honors Society of Phi Kappa Phi in March 2021. This is the nation’s oldest, largest, and most selective honors society.
 
-She enjoys creating academic experiences outside of the classroom that students often say are life changing. Susana develops educational partnerships within the local community, including inviting high-caliber guest speakers to the classroom, hosting career panels for bilingual personnel, and organizing tours in workplaces such the Charlotte Mecklenburg County Courthouse, the Camino Community Center, and the Charlotte Bilingual Preschool, among other places.
+She enjoys creating academic experiences outside of the classroom that students often say are life changing. Susana develops educational partnerships within the local community, including inviting high-caliber guest speakers to the classroom, hosting career panels for bilingual personnel, and organizing tours in workplaces such as the Charlotte Mecklenburg County Courthouse, the Camino Community Center, and the Charlotte Bilingual Preschool, among other places.
 
 Susana developed a spring break program in Argentina, a professional internship in the Latino community, and a year-long seminar in collaboration with the Charlotte Teachers Institute. She redesigned three courses to be more interactive and to promote leadership.
 

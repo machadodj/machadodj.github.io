@@ -1,9 +1,9 @@
 ---
-title: Graduate students developers needed
+title: Graduate student developers needed
 tags:
   - opportunity
   - programming
-  - developters
+  - developers
   - genomics
   - tools
   - software

@@ -2,7 +2,7 @@
 title: Stoic Dedication and Scientific Discovery
 tags:
   - phyloinformatics
-  - phylosophy
+  - philosophy
   - science
   - AI
 author: Denis Jacob Machado
@@ -11,7 +11,7 @@ member: Denis_Jacob_Machado
 
 # Stoic Dedication and Scientific Discovery: Lessons from Jane Goodall and the Philosophy of Inquiry
 
-This document, written by [Dr. Denis Jacob Machado](https://phyloinformatcis.com) on October 2, 2025, is inspired by discussions on the lives and works of Jane Goodall, Charles S. Peirce, Karl Popper, Willi Hennig, and the Stoic philosophers Epictetus, Seneca, and Marcus Aurelius. It is intended as an accessible reflection for early-career researchers and students.
+This document, written by [Dr. Denis Jacob Machado](https://phyloinformatics.com) on October 2, 2025, is inspired by discussions on the lives and works of Jane Goodall, Charles S. Peirce, Karl Popper, Willi Hennig, and the Stoic philosophers Epictetus, Seneca, and Marcus Aurelius. It is intended as an accessible reflection for early-career researchers and students.
 
 ## Introduction
 
@@ -45,7 +45,7 @@ Peirce emphasized that **inquiry starts with abduction**, proceeds to **deductiv
 
 **Karl Popper** (1902–1994), an Austrian-British philosopher, argued that what defines science is not confirmation, but **falsification**—the ability to test and potentially refute hypotheses.
 
-> **Definition: Falsification**  is a scientific theory must make predictions that can be proven wrong. If a theory cannot be tested or falsified, it does not belong to science.
+> **Definition: Falsification** is the principle that a scientific theory must make predictions that can be proven wrong. If a theory cannot be tested or falsified, it does not belong to science.
 
 Popper’s insistence on falsifiability shifted the focus of science to **deductive rigor** and bold theorizing. He critiqued **inductive confirmation** as always fallible, stressing that no number of positive observations can guarantee a theory is true—yet a single counterexample can disprove it.
 
@@ -63,7 +63,7 @@ Popper’s insistence on falsifiability shifted the focus of science to **deduct
 
 **Jane Goodall** (b. 1934, England) was not trained as a conventional scientist but began observing chimpanzees in Tanzania in 1960. Despite skepticism from the male-dominated academic community, she persisted for **years** without recognition. Her discovery that chimpanzees **make and use tools** overturned prior assumptions about human uniqueness.
 
-> **Dr. Jane Goodall**, who chronicled the social lives of chimps, passed at 91 on October, 2025. Her discoveries as a primatologist in the 1960s about how chimpanzees behave in the wild were hailed by Dr. Stephen Jay Gould, the evolutionary biologist and science historian, as "one of the Western world’s great scientific achievements."
+> **Dr. Jane Goodall**, who chronicled the social lives of chimps, passed at 91 on October 1, 2025. Her discoveries as a primatologist in the 1960s about how chimpanzees behave in the wild were hailed by Dr. Stephen Jay Gould, the evolutionary biologist and science historian, as "one of the Western world’s great scientific achievements."
 
 Her approach embodies **stoic patience**, humility, and dedication to truth. Goodall’s work was not funded by corporations seeking products, but by **public institutions and philanthropic science foundations**, such as the **Leakey Foundation** and **National Geographic Society**.
 
@@ -73,10 +73,10 @@ Her research ultimately led to:
 - Educational programs via the **Jane Goodall Institute**
 - Influence on **animal welfare laws** and **conservation science**
 
-> **Definition: Fundamental Research** is a curiosity-driven research aimed at understanding basic principles or phenomena, without immediate commercial application. Often funded by public or academic institutions.
+> **Definition: Fundamental Research** is curiosity-driven research aimed at understanding basic principles or phenomena, without immediate commercial application. Often funded by public or academic institutions.
 > **Examples of Fundamental Research with Impact** include: Goodall’s primate studies (animal rights legislation, environmental policy), CRISPR gene editing (originated from bacterial immunity research), and the internet (born from academic interest in distributed computing).
 
-### Dr. Goodman as a Hero Fighting the Bandwagon Effect
+### Dr. Goodall as a Hero Fighting the Bandwagon Effect
 
 > **Definition: Bandwagon Effect** is the tendency to adopt certain beliefs or behaviors because many others have already adopted them. It reflects our instinct to conform, avoid exclusion, and align with the “winning” or popular side.
 
@@ -100,7 +100,7 @@ Consider a sports fan who switches teams simply because the new team is winning,
 
 > **Why does the Bandwagon Effect happen?** It happens because of natural (and evolutionarily beneficial) mental shortcuts (heuristic processes). Popularity is used as a proxy for truth. Moreover, social conformity dictates that we seek inclusion and avoid isolation. Finally, we all have an inherited desire to win. Therefore, aligning with the majority can feel safer or more advantageous.
 
-When unchecked, the bandwagon effect contributes to **mob mentality**, **suppression of dissent**, and **poor decision-making**. It is closely related to:
+When unchecked, the bandwagon effect contributes to **mob mentality**, **suppression of dissent**, and **poor decision-making**. It is closely related to groupthink.
 
 Both biases **erode individual critical thinking**, especially in high-stakes or high-pressure environments. When people feel they can’t express minority opinions without facing backlash, they may remain silent—a dynamic known as the **spiral of silence**. This doesn’t just shape behavior; it shapes what we think we’re allowed to say, even to ourselves.
 
@@ -112,9 +112,9 @@ But **adoption without discernment** can be wasteful or even harmful. Voice assi
 
 > **Lesson**: In a world flooded with trends and hype, slowing down our decision-making is a form of intellectual courage. Good ideas don’t always come with popular backing—and popular ideas aren’t always good.
 
-## Digression: A Shamelles Plug of Phylogenetics
+## Digression: A Shameless Plug of Phylogenetics
 
-**Will Hennig** (1913–1976), a German entomologist, revolutionized biological classification with his work on **cladistics**, a method for reconstructing evolutionary relationships based on **shared derived characters** (*synapomorphies*).
+**Willi Hennig** (1913–1976), a German entomologist, revolutionized biological classification with his work on **cladistics**, a method for reconstructing evolutionary relationships based on **shared derived characters** (*synapomorphies*).
 
 > **Definition: Cladistics Phylogenetics** is a scientific method that classifies organisms based on the most recent common ancestor, using shared derived traits (*synapomorphies*) to define evolutionary lineages.
 

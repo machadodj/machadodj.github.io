@@ -20,7 +20,7 @@ nav:
 
 ### 2026
 
-- **March 9, 2026**: "HP2NET: Empowering Efficient Phylogenetic Network Analysis through High-Performance Computing," a review by  Rafael Terra, Diego Carvalho, Denis Jacob Machado, Carla Osthoff, and Kary Ocaña. This pre-print is available from bioRxiv (DOI: [10.64898/2026.03.05.7090051](https://doi.org/10.64898/2026.03.05.709005)).
+- **March 9, 2026**: "HP2NET: Empowering Efficient Phylogenetic Network Analysis through High-Performance Computing," a review by Rafael Terra, Diego Carvalho, Denis Jacob Machado, Carla Osthoff, and Kary Ocaña. This pre-print is available from bioRxiv (DOI: [10.64898/2026.03.05.709005](https://doi.org/10.64898/2026.03.05.709005)).
 
 - **March 6, 2026**: "AlphaFold and the Transformation of Structural Biology: Evolution, Applications, Limitations, and Future Directions," a review by Anastasiia Duchenko and Denis Jacob Machado. This pre-print is available from Authorea (DOI: [10.22541/au.177282022.20654724/v1](https://doi.org/10.22541/au.177282022.20654724/v1)).
 
@@ -32,29 +32,29 @@ nav:
 
 - **September 14, 2026**: "The SARS-CoV-2 phylogeny is sensitive to alignment parameters and outgroup selection" by Omkar Marne and Denis Jacob Machado. This talk was given by Omkar Marne at the Charlotte Regional Biomedical Symposium (Charlotte, NC, USA). [Click here for our news post about it](https://phyloinformatics.com/2026/09/14/OmkarSymposium.html).
 - **June 8, 2026**: "FAIR Docking: Best Practices for Reproducible Protein-Protein Interactions on the Cloud Platforms" by Anastasiia Duchenko and Denis Jacob Machado. This talk was given at the Genomic Research and Data Science Center for Cloud Computing (GRADS-4C) Research Symposium at the Koury Convention Center in Greensboro, NC.
-- **May 14, 2026**: "Promoting Reproducible Research with AVOIDRUNE: An Automated Pipeline for Protein-Protein Interaction Analysis” by Anastasiia Duchenko and Denis Jacob Machado. This talk was given at the ThinkAI Research and Innovation Symposium at the UNC Charlotte Dubois Center in Charlotte, NC
-- **April 7, 2026**: "The SARS-CoV-2 phylogeny is sensitive to alignment parameters and outgroup selection," by Omkar Marne and Denis Jacob Machado. This talk was given at the UNC Charlotte's Graduate Research Symposium (GRS) of 2026.
+- **May 14, 2026**: "Promoting Reproducible Research with AVOIDRUNE: An Automated Pipeline for Protein-Protein Interaction Analysis" by Anastasiia Duchenko and Denis Jacob Machado. This talk was given at the ThinkAI Research and Innovation Symposium at the UNC Charlotte Dubois Center in Charlotte, NC.
+- **April 7, 2026**: "The SARS-CoV-2 phylogeny is sensitive to alignment parameters and outgroup selection," by Omkar Marne and Denis Jacob Machado. This talk was given at UNC Charlotte's Graduate Research Symposium (GRS) of 2026.
 
 ### 2025
 
 - **July 24, 2025**: "Beetles, bytes, and branches: integrating artificial intelligence into the taxonomy and phylogenetics of Passalidae" by Larry Jiménez-Ferbans, Cristian Beza-Beza, Anastasiia Duchenko, Aram Mikaelyan, and Denis Jacob Machado. This talk was given at the XLII Annual Meeting of the Willi Hennig Society (The Chinese University of Hong Kong, HKSAR, China). [Click here for the Conference Website](https://willi-hennig-society.org/meetings/2025).
 - **July 23, 2025**: "Advancing phylogenetics for health threats: lessons from the COVID-19 pandemic and beyond" by Omkar Marne and Denis Jacob Machado. This talk was presented as part of Symposium 1: *Phylogenetics & Public Health* at the XLII Annual Meeting of the Willi Hennig Society (The Chinese University of Hong Kong, HKSAR, China). [Click here for the Conference Website](https://willi-hennig-society.org/meetings/2025).
-- **July 9, 2025**: "AI-driven predictions of phylogenetic trees from zoogeographical data in dactylogyrids (Platyhelminthes: Monogenea): a novel strategy for external phylogenetic support" by Aline Acosta, Anastasiia Duchenko, and Denis Jacob Machado. This talk was given at The 100th Annual Meeting of the American Society of Parasitologists (Winstom-Salem, NC, USA). [Click here for the Conference Website](https://aspmeetings.wixsite.com/2025).
+- **July 9, 2025**: "AI-driven predictions of phylogenetic trees from zoogeographical data in dactylogyrids (Platyhelminthes: Monogenea): a novel strategy for external phylogenetic support" by Aline Acosta, Anastasiia Duchenko, and Denis Jacob Machado. This talk was given at the 100th Annual Meeting of the American Society of Parasitologists (Winston-Salem, NC, USA). [Click here for the Conference Website](https://aspmeetings.wixsite.com/2025).
 - **June 7, 2025**: "AI-driven predictions of phylogenetic trees from zoogeographical data in dactylogyrids (Platyhelminthes: Monogenea)" by Denis Jacob Machado, Aline A. Acosta, and Anastasiia Duchenko. This oral presentation was given at the *100th Annual Meeting of the American Society of Parasitologists* (Winston-Salem, NC, USA). [Click here for more details](https://doi.org/10.1111/cla.12610).
-- **May 29, 2025**: "Simplifying specimen loans: Ten simple rules for researchers" by Giovanni Yumi Scorsim Omura and Denis Jacob Machado. This talk was given at the SPNHC (Society for the Preservation of Natural History Collections) 2025 Annual Meeting (Lawrence, KS, USA). [Click here for the Conference Website](https://spnhc2025.ku.edu/).
+- **May 29, 2025**: "Simplifying specimen loans: Ten simple rules for researchers" by Giovanna Yumi Scorsim Omura and Denis Jacob Machado. This talk was given at the SPNHC (Society for the Preservation of Natural History Collections) 2025 Annual Meeting (Lawrence, KS, USA). [Click here for the Conference Website](https://spnhc2025.ku.edu/).
 - **April 17, 2025**: "FLAVi 2: Increasing Efficiency and Accessibility of Flaviviridae Genome Annotation" by Cayden Jacobsen and Denis Jacob Machado. This talk was given at the UNC Charlotte Undergraduate Research Conference (URC) 2025 (Charlotte, NC, USA). [Click here for the YouTube video](https://www.youtube.com/watch?v=k6bCMXNy_NQ).
 - **March 27, 2025**: "Preparing for the Faculty Interview" by Denis Jacob Machado, Skylar Hopkins, Ebony Jones, and Maria Rodgers. This invited panel talk was given as part of the *Postdoctoral Readiness to Enter the Professorship Program (PREPP)* (online, UNC System, USA). [Click here for more details](https://grad.ncsu.edu/professional-development/opa/professional-development/).
-- **January 5, 2025**: "Unveiling the modulators of mutable collagenous tissue in the brittle star _Ophiomastix	wendtii_: an RNA-Seq analysis" by Reyhaneh Nouri, Vladimir Mashanov, and Denis Jacob Machado. This talk was given by Reyhaneh Nouri at the 2025 Annual Meeting of the Society for Integrative and Comparative Biology (SICB) (Atlanta, GA, USA). [Click here for the slide deck](https://gitlab.com/phyloinformatics-presentations/20241121/-/blob/main/reyhaneh_nouri/20250105_Nouri.pdf).
+- **January 5, 2025**: "Unveiling the modulators of mutable collagenous tissue in the brittle star _Ophiomastix wendtii_: an RNA-Seq analysis" by Reyhaneh Nouri, Vladimir Mashanov, and Denis Jacob Machado. This talk was given by Reyhaneh Nouri at the 2025 Annual Meeting of the Society for Integrative and Comparative Biology (SICB) (Atlanta, GA, USA). [Click here for the slide deck](https://gitlab.com/phyloinformatics-presentations/20241121/-/blob/main/reyhaneh_nouri/20250105_Nouri.pdf).
 
 ### 2024
 
 - **October 21, 2024**: "How much should we worry about SARS-CoV-2 mutations according to AI?" by Anastasiia Duchenko, under the supervision of Dr. Jun-tao Guo and Dr. Denis Jacob Machado. This talk was given by Anastasiia Duchenko at the 10th Annual Biological Sciences Research Symposium (UNC Charlotte, NC, USA). Additional information is available upon request.
 - **September 9, 2024**: "Unveiling the Modulators of Mutable Collagenous Tissue in the Brittle Star _Ophiomastix wendtii_: An RNA-Seq Analysis" by Reyhaneh Nouri, Vladimir Mashanov, and Denis Jacob Machado. This talk was given by Reyhaneh Nouri at the 2024 Biomedical Sciences Symposium (Charlotte, NC, USA). [Contact us for more details](https://phyloinformatics.com/contact/).
 - **July 30, 2024**: "Twenty years after: What larval characters are still telling us about the phylogeny of frogs (Amphibia: Anura)" by Pedro Henrique dos Santos Dias, Alexander Haas, and Denis Jacob Machado. This talk was given by Dr. Jacob Machado at the XLI Annual Meeting of the Willi Hennig Society (Mexico City, Mexico) and is available in [Zenodo](https://doi.org/10.5281/zenodo.13126486).
-- **June 14-17, 2024**: "Mitogenome organization, diversity, and evolutionary relationships of proteocephalidean tapeworms (Cestoda, Onchoproteocephalidea) unveiled by a genome skimming approach" by Philippe V. Alves, Reinaldo J. da Silva, Daniel Janies, Willian Taylor, April Harris, Gari New, and Denis Jacob Machado. A presentation for the 99th Annual Meeting of the American Association of Parasitology (ASP) ([Zenodo](https://zenodo.org/records/11477509))
-- **June 14-17, 2024**: "Machine learning models accurately predict clades of proteocephalidean tapeworms (Onchoproteocephalidea) based on host and zoogeographical data" by Philippe Vieira Alves, Reinaldo J. da Silva, Alain de Chambrier, José L. Luque, Anastasiia Duchenko, Daniel Janies, and Denis Jacob Machado. A presentation for the 99th Annual Meeting of the American Association of Parasitology (ASP) ([Zenodo](https://zenodo.org/records/11307234))
-- **June 11-14, 2024**: "Evidence of recombination in dengue virus (DENV)" by by Hugo de Paula Oliveira, Paula Prieto Oliveira, Denis Jacob Machado, and Kary Ocaña. A presentation for the X-Meeting 2024 (Brazilian Bioinformatics Conference, Salvador--BA, Brazil). The presentation is available upon request (contact Dr. [Kary Ocaña](https://phyloinformatics.com/members/Kary_Ocana.html))
-- **March 22, 2024**: "How can we reversibly control collagen pliability? An investigation of mutable collagenous tissues in the brittle star Ophiomastix wendtii" by Reyhaneh Nouri, Vladimir Mashanov, and Denis Jacob Machado. This talk was given by Reyhaneh Nouri at the UNC Charlotte’s 23rd Annual Graduate Research Symposium (Charlotte, NC, USA). [Contact us for more details](https://phyloinformatics.com/contact/).
+- **June 14-17, 2024**: "Mitogenome organization, diversity, and evolutionary relationships of proteocephalidean tapeworms (Cestoda, Onchoproteocephalidea) unveiled by a genome skimming approach" by Philippe V. Alves, Reinaldo J. da Silva, Daniel Janies, Willian Taylor, April Harris, Gari New, and Denis Jacob Machado. A presentation for the 99th Annual Meeting of the American Society of Parasitologists (ASP) ([Zenodo](https://zenodo.org/records/11477509))
+- **June 14-17, 2024**: "Machine learning models accurately predict clades of proteocephalidean tapeworms (Onchoproteocephalidea) based on host and zoogeographical data" by Philippe Vieira Alves, Reinaldo J. da Silva, Alain de Chambrier, José L. Luque, Anastasiia Duchenko, Daniel Janies, and Denis Jacob Machado. A presentation for the 99th Annual Meeting of the American Society of Parasitologists (ASP) ([Zenodo](https://zenodo.org/records/11307234))
+- **June 11-14, 2024**: "Evidence of recombination in dengue virus (DENV)" by Hugo de Paula Oliveira, Paula Prieto Oliveira, Denis Jacob Machado, and Kary Ocaña. A presentation for the X-Meeting 2024 (Brazilian Bioinformatics Conference, Salvador--BA, Brazil). The presentation is available upon request (contact Dr. [Kary Ocaña](https://phyloinformatics.com/members/Kary_Ocana.html))
+- **March 22, 2024**: "How can we reversibly control collagen pliability? An investigation of mutable collagenous tissues in the brittle star Ophiomastix wendtii" by Reyhaneh Nouri, Vladimir Mashanov, and Denis Jacob Machado. This talk was given by Reyhaneh Nouri at UNC Charlotte’s 23rd Annual Graduate Research Symposium (Charlotte, NC, USA). [Contact us for more details](https://phyloinformatics.com/contact/).
 
 ### 2023
 
@@ -62,7 +62,7 @@ nav:
 - **November 17, 2023**: "How can we reversibly control collagen pliability? An investigation of mutable collagenous tissue in the brittle star _Ophiomastix wendtii_" by Reyhaneh Nouri, Vladimir Mashanov, and Denis Jacob Machado, presented at UNC Charlotte's 9th Annual Biological Sciences Research Symposium Program ([click here](https://drive.google.com/file/d/1-d1JfO4zFEQLy4NuQtg0KcZv2eil4b2e/view?usp=drive_link))
 - **November 17, 2023**: "A phylogenomic and machine learning framework for discriminating SARS-CoV-2 variants" by Omkar Marne and Denis Jacob Machado, presented at UNC Charlotte's 9th Annual Biological Sciences Research Symposium Program ([click here](https://drive.google.com/file/d/1FFZ8n4IukBM76pd1lAz9oj8oMEo8_vOH/view?usp=drive_link))
 - **July 11, 2023**: "Combining phylogenetic and artificial intelligence to unravel viral recombination," a talk given at the XL Annual Meeting of the [Willi Hennig Society](https://cladistics.org/) -- Cornell University, Ithaca, N.Y., U.S.A. ([click here](https://drive.google.com/file/d/1jupSdnD0Q2mxHt-unEpYUua6c36laA0N/view?usp=sharing))
-- **June 15, 2023**: "What is phyloinformatics and how can it help us respond faster to health emergencies?," a talk prepared as response to an invitation from [Dr. Jhon Ospina-Sarria](https://orcid.org/0000-0002-9099-7793) -- [Calima Foundation](https://en.fundacioncalima.org/), Cali, Valle del Cauca, Colombia ([click here](https://drive.google.com/file/d/1FZQ5azNeGHLWIiACQTEnYvwRDuvy5vGp/view?usp=sharing))
+- **June 15, 2023**: "What is phyloinformatics and how can it help us respond faster to health emergencies?," a talk prepared as a response to an invitation from [Dr. Jhon Ospina-Sarria](https://orcid.org/0000-0002-9099-7793) -- [Calima Foundation](https://en.fundacioncalima.org/), Cali, Valle del Cauca, Colombia ([click here](https://drive.google.com/file/d/1FZQ5azNeGHLWIiACQTEnYvwRDuvy5vGp/view?usp=sharing))
 
 ### 2022
 
@@ -108,8 +108,8 @@ mutations in the sodium channels of poison dart frogs that may confer resistance
 
 - **July 28, 2023**: "Replicating Ford _et al_.’s investigation on the immune
 consequences and SARS-CoV-2 antibody’s binding affinity using an _in silico_ approach" by C. Jones, H. Zeru, and D. Jacob Machado ([click here](https://drive.google.com/drive/folders/1iPcip7kIEQxjv9oHRKLypa_zOFGditk-?usp=sharing))
-- **April 28, 2023**: "Are there alkaloid-resistance mutations in _Phyllobates terribilis_’ sodium channels?" by R. Nouri and D. Jacob Machado. Poster presenter at the Spring graduate poster session of UNC Charlotte's Dept. of Bioinformatics and Genomics -- Charlotte, NC, USA ([click here](https://drive.google.com/drive/folders/1Buv7pVdwTh9bZcWi2RVl-i89VYDgFkt8?usp=sharing))
-- **April 28, 2023**: "A phylogenomics and machine learning framework for discriminating SARS-CoV-2 variants" by O. Marne and D. Jacob Machado. Poster presenter at the Spring graduate poster session of UNC Charlotte's Dept. of Bioinformatics and Genomics -- Charlotte, NC, USA ([click here](https://drive.google.com/drive/folders/1Nzj7uxV1kpH8VrH9PiVj9ir06YuA9UBJ?usp=sharing))
+- **April 28, 2023**: "Are there alkaloid-resistance mutations in _Phyllobates terribilis_’ sodium channels?" by R. Nouri and D. Jacob Machado. Poster presented at the Spring graduate poster session of UNC Charlotte's Dept. of Bioinformatics and Genomics -- Charlotte, NC, USA ([click here](https://drive.google.com/drive/folders/1Buv7pVdwTh9bZcWi2RVl-i89VYDgFkt8?usp=sharing))
+- **April 28, 2023**: "A phylogenomics and machine learning framework for discriminating SARS-CoV-2 variants" by O. Marne and D. Jacob Machado. Poster presented at the Spring graduate poster session of UNC Charlotte's Dept. of Bioinformatics and Genomics -- Charlotte, NC, USA ([click here](https://drive.google.com/drive/folders/1Nzj7uxV1kpH8VrH9PiVj9ir06YuA9UBJ?usp=sharing))
 
 {% include section.html %}
 
@@ -128,26 +128,26 @@ How can evolutionary trees help us respond to pandemics? This symposium brings t
 
 July 23, 2025:
 
-- 9:00 AM:Symposium welcome & introduction, by Denis Jacob Machado (University of North Carolina at Charlotte) 
+- 9:00 AM: Symposium welcome & introduction, by Denis Jacob Machado (University of North Carolina at Charlotte) 
 - 9:10 AM: "H5N1 Influenza A is now promiscuous in host range and has improved replication in mammals," by Sayal Guirales-Medrano (University of North Carolina at Charlotte) _et al_. 
-- 9:40 AM: "Evolutionary adaptations of papillomaviruses: understanding  carcinogenicity through host-virus coevolution," by Dr. Zigui Chen (The Chinese University of Hong Kong) 
+- 9:40 AM: "Evolutionary adaptations of papillomaviruses: understanding carcinogenicity through host-virus coevolution," by Dr. Zigui Chen (The Chinese University of Hong Kong) 
 - 10:10 AM: "Evolutionary trait of the mpox virus in its recent epidemics and clinical association," by Dr. Maggie Wang & Jingzhi Lou (The Chinese University of Hong Kong) 
 - 11:00 AM: "Genomic surveillance and molecular epidemiology of SARS-CoV-2 in Hong Kong," by Dr. Haoga Gu (The University of Hong Kong) 
-- 11:30 PM: Symposium 1 conclusion, with the talk "Advancing phylogenetics for health threats: lessons from the COVID-19 pandemic and beyond," by Dr. Denis Jacob Machado & Omkar Marne (University of North Carolina at Charlotte) 
+- 11:30 AM: Symposium 1 conclusion, with the talk "Advancing phylogenetics for health threats: lessons from the COVID-19 pandemic and beyond," by Dr. Denis Jacob Machado & Omkar Marne (University of North Carolina at Charlotte) 
 
 {:.center}
 {% include link.html type="external" icon="" text="XLII Meeting of the Willi Hennig Society" link="https://cladistics.org/xlii-annual-meeting-2025/" style="button" %}
 
 ## The "Phylogenetics as Applied to Infectious Diseases" Symposium at the XL Hennig Meeting
 
-This symposium was organized by Drs. Daniel Janies and Denis Jacob Machado at the [The XL Annual Meeting of the Willi Hennig Society](https://cladistics.org/2023/03/01/hennig-xl-annual-meeting/) (Cornell University, Ithaca, NY July 9th -13th, 2023). The symposium took place on July 11, 2023.
+This symposium was organized by Drs. Daniel Janies and Denis Jacob Machado at the [XL Annual Meeting of the Willi Hennig Society](https://cladistics.org/2023/03/01/hennig-xl-annual-meeting/) (Cornell University, Ithaca, NY, July 9th-13th, 2023). The symposium took place on July 11, 2023.
 
 ### Program
 - 1:30-2:10 pm, Janies: “Phylogenetics as applied to infectious diseases”
 - 2:10-3 pm, Czech & Stamatakis: “Leveraging phylogenetic placement to understand the environmental drivers of microbial community composition”
-- 3-3:40pm, Dornburg, Hassler, and Townsend: “An evolving future for pandemic preparedness: evolutionary medicine and phylogenetic comparative methods inform the durability of SARS-CoV-2 immunity”
+- 3-3:40 pm, Dornburg, Hassler, and Townsend: “An evolving future for pandemic preparedness: evolutionary medicine and phylogenetic comparative methods inform the durability of SARS-CoV-2 immunity”
 - 4:10-4:50 pm, Ocaña, Silva, Coelho, Terra, & Osthoff: “Phylogenetic and evolutionary analysis of dengue virus serotypes in Brazil: User-steering in large-scale phylogenomic workflows”
-- 4:50-5:30 pm, Jacob Machado: “Combining phylogenetic and artificial intelligence to unravel viral recombination"
+- 4:50-5:30 pm, Jacob Machado: “Combining phylogenetic and artificial intelligence to unravel viral recombination”
 
 {:.center}
 {% include link.html type="external" icon="" text="The Willi Hennig Society" link="https://cladistics.org/" style="button" %}
@@ -160,9 +160,9 @@ The main goals of the Virtual Meetings of Systematics, Biogeography, and Evoluti
 
 - First, provide a **high-quality international scientific meeting** on systematics, biogeography, and evolution.
 - Second, make the event **accessible** to people that could have difficulty attending other international scientific events due to financial constraints or the COVID-19 pandemic.
-- Third, **promote diversity and gender equality** in science, technology, agronomy, mathematics, and medicine (STEAMM).
+- Third, **promote diversity and gender equality** in science, technology, engineering, agronomy, mathematics, and medicine (STEAMM).
 
-For those reasons, the first three editions (2020, 2021, and 2022) of the SBE meeting were **100% online** and  **100% free** for all attendees.
+For those reasons, the first three editions (2020, 2021, and 2022) of the SBE meeting were **100% online** and **100% free** for all attendees.
 
 {:.center}
 {% include link.html type="external" icon="" text="SBEmeeting.weebly.com" link="https://sbemeeting.weebly.com/" style="button" %}

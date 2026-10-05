@@ -16,7 +16,8 @@
     - D. Jacob Machado
 
 # 2026: FAIR
-- id: doi:https://doi.org/10.1111/cla.70050
+- id: doi:10.1111/cla.70050
+  title: "Advancing FAIR phylogenetics for health threats: a systematic review of SARS-CoV-2 research and guidelines for future outbreaks"
   image: images/20260702_fair.jpg
   tags:
     - phylogenetics
@@ -34,7 +35,7 @@
     - dengue
     - recombination
   authors:
-    - H. de Paula Oliveiraa
+    - H. de Paula Oliveira
     - D. Jacob Machado
     - P. Prieto-Oliveira
     - K. Ocaña
@@ -290,10 +291,10 @@
     - echinoderms
     - non-model organism
     - genomics
-    - invertebates
+    - invertebrates
     - zoology
     - database
-    - softare
+    - software
 
 # 2022: Twinkle twinkle brittle star
 - id: doi:10.1186/s12864-022-08750-y
@@ -302,7 +303,7 @@
     - echinoderms
     - non-model organism
     - genomics
-    - invertebates
+    - invertebrates
     - zoology
     - gene annotation
     - gene prediction
@@ -343,7 +344,15 @@
 
 # 2022: Fundamentos de la epidemiología genómica
 - id: doi:10.54502/msuceva.v2n2a5
+  title: Fundamentos de la epidemiología genómica, lecciones aprendidas de la enfermedad por coronavirus (COVID-19) y nuevas direcciones
+  publisher: Magna Scientia UCEVA
+  date: "2022-12-01"
   image: images/placeholder.svg
+  authors:
+    - Denis Jacob Machado
+    - Richard Allen White III
+    - Janice Kofsky
+    - Daniel A. Janies
   tags:
     - epidemiology
     - viruses
@@ -432,7 +441,7 @@
     - gene annotation
     - gene prediction
     - genome skimming
-    - invertebates
+    - invertebrates
     - mitogenome
     - parasitology
     - zoology
@@ -445,6 +454,11 @@
 # 2020: FLAVi
 - id: doi:10.3390/v12080892
   image: https://www.mdpi.com/viruses/viruses-12-00892/article_deploy/html/images/viruses-12-00892-g009-550.jpg
+  authors:
+    - Adriano de Bernardi Schneider
+    - Denis Jacob Machado
+    - Sayal Guirales
+    - Daniel A. Janies
   tags:
     - character categorization
     - flaviviruses
@@ -583,7 +597,7 @@
 - id: doi:10.11646/zootaxa.3505.1.7
   image: https://uconn-today-universityofconn.netdna-ssl.com/wp-content/uploads/2017/12/2_20171029-Acanth_rodm.jpg
   tags:
-    - invertebates
+    - invertebrates
     - parasitology
     - zoological taxonomy
     - zoology

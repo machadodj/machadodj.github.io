@@ -14,7 +14,7 @@ links:
 
 # Who is Johannes?
 
-Johannes was a M.Sc. student (now graduated!) with interest in bioinformatics. He produced his Master's thesis as part of a double degree program between the University of Münster and the Universidade de São Paulo, supervised by Drs. Taran Grant and Denis Jacob Machado.
+Johannes was an M.Sc. student (now graduated!) with interest in bioinformatics. He produced his Master's thesis as part of a double degree program between the University of Münster and the Universidade de São Paulo, supervised by Drs. Taran Grant and Denis Jacob Machado.
 
 # Education
 

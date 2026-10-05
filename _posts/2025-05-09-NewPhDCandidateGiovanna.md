@@ -1,7 +1,7 @@
 ---
 title: Giovanna Yumi Scorsim Omura is our newest Ph.D. Candidate
 tags:
-  - congratuulations
+  - congratulations
   - milestone
   - achievement
 author: Denis Jacob Machado

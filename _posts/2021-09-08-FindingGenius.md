@@ -1,5 +1,5 @@
 ---
-title: Listen to our interview with Finding Genious
+title: Listen to our interview with Finding Genius
 tags:
   - virology
   - epidemiology
@@ -28,5 +28,5 @@ Even though humans may have been affected by viruses similar to what we face tod
 
 Through this better understanding, we may be able to more quickly and effectively respond to future threats. With continued research into how mutations can pose a threat in the future, there is even hope to prevent situations like the one in which we find ourselves today.
 
-{% include link.html link="https://www.findinggeniuspodcast.com/podcasts/viral-genome-annotation-and-comparative-genomics-through-evolutionary-processes-with-denis-jacob-machado/" text="Go to Finding Genius' epidose" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://www.findinggeniuspodcast.com/podcasts/viral-genome-annotation-and-comparative-genomics-through-evolutionary-processes-with-denis-jacob-machado/" text="Go to Finding Genius' episode" icon="fas fa-arrow-right" flip=true %}
 {:.center}

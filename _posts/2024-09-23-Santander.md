@@ -1,7 +1,7 @@
 ---
 title: Exciting Research Internship Opportunity for Ph.D. Student Igor Salles de Oliveira at UNC Charlotte
 tags:
-  - intership
+  - internship
   - grants
   - proposals
   - collaborations

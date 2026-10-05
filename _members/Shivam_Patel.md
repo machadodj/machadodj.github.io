@@ -14,7 +14,7 @@ links:
 
 # Shivam Patel
 
-Lat update: Sept. 23, 2024.
+Last update: Sept. 23, 2024.
 
 ## Background
 
@@ -24,6 +24,6 @@ These experiences helped me build a solid foundation in data analysis, bioinform
 
 ## What am I working on?
 
-Currently (as of September, 2024), I am focused on reviewing research papers published since 2016 on sodium channel mutations in poison dart frogs. This literature review will inform the introduction of a project that revisits the groundbreaking work of Tarvin et al. (2016), which explored toxin resistance mechanisms in these frogs. My responsibilities include data curation, reviewing the latest research, and preparing materials for manuscript drafting and a poster presentation.
+Currently (as of September 2024), I am focused on reviewing research papers published since 2016 on sodium channel mutations in poison dart frogs. This literature review will inform the introduction of a project that revisits the groundbreaking work of Tarvin et al. (2016), which explored toxin resistance mechanisms in these frogs. My responsibilities include data curation, reviewing the latest research, and preparing materials for manuscript drafting and a poster presentation.
 
 Throughout this project, I’m working with advanced bioinformatics tools such as AutoDock Vina, GROMACS, HADDOCK3, and cluster computing to deepen my understanding of protein docking analysis. This project is laying the groundwork for further studies into the relationship between sodium channel mutations and chemical defense mechanisms in poison dart frogs.

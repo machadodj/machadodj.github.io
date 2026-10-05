@@ -16,5 +16,5 @@ On September 9th, the 2024 Biomedical Sciences Symposium took place at the UNC C
 
 Ms. Reyhaneh Nouri presented her research, "Unveiling the Modulators of Mutable Collagenous Tissue in the Brittle Star _Ophiomastix wendtii_: An RNA-Seq Analysis." This work, a collaboration with Drs. Vladimir Mashanov (Wake Forest Institute for Regenerative Medicine - WFIRM) and Denis Jacob Machado (UNC Charlotte), explores the regulation of mutable collagenous tissue (MCT) in brittle stars, with potential implications for developing smart and dynamic biomaterials. Her presentation was well-received and underscored the innovative research in the Phyloinformatics Lab at UNC Charlotte.
 
-{% include link.html link="https://www.ncbiotech.org/events/2024-biomedical-sciences-symposium" text="Go to the event's websiter" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://www.ncbiotech.org/events/2024-biomedical-sciences-symposium" text="Go to the event's website" icon="fas fa-arrow-right" flip=true %}
 {:.center}

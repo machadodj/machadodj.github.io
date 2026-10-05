@@ -12,13 +12,13 @@ member: Denis_Jacob_Machado
 
 # We submitted a new manuscript to Cladistics
 
-We are very pleased to announce that our manuscript entitled "Machine learning models accurately predict clades of proteocephalidean tapeworms (Onchoproteocephalidea) based on host and biogeographical data}" was submitted for publication in Cladistics. Wish us good luck with the reviews!
+We are very pleased to announce that our manuscript entitled "Machine learning models accurately predict clades of proteocephalidean tapeworms (Onchoproteocephalidea) based on host and biogeographical data" was submitted for publication in Cladistics. Wish us good luck with the reviews!
 
 ## The collaboration
 
 This is the first of two manuscripts that our lab is preparing in collaboration with Dr. Philippe Vieira Alves.
 
-Dr. Alves received a Research Internship Abroad (BEPE) Award from the São Paulo Research Foundations (FAPESP; Proc. No. Process No.2023/00714-5). This award funded Dr. Alves’ reserach in collaboration with the Phyloinformatics Lab from July 1, 2023, to June 30, 2024. The funded reserach project was entitled “Mitogenome organization and diversity of proteocephalid tapeworms (Cestoda) unveiled by genome skimming.”
+Dr. Alves received a Research Internship Abroad (BEPE) Award from the São Paulo Research Foundation (FAPESP; Proc. No. 2023/00714-5). This award funded Dr. Alves’ research in collaboration with the Phyloinformatics Lab from July 1, 2023, to June 30, 2024. The funded research project was entitled “Mitogenome organization and diversity of proteocephalid tapeworms (Cestoda) unveiled by genome skimming.”
 
 Here is our complete list of eight authors from five institutions in four countries:
 
@@ -33,7 +33,7 @@ Here is our complete list of eight authors from five institutions in four countr
 
 Shout out to [Anastasiia Duchenko](https://phyloinformatics.com/members/Anastasiia_Duchenko.html), one of our co-authors, who is a first-semester student in our Ph.D. program in Bioinformatics and Computational Biology.
 
-## What is the manuscript about
+## What is the manuscript about?
 
 In this study, we reviewed the phylogenetic relationships of proteocephalid tapeworms (Cestoda) by analyzing hundreds of publicly available and newly generated sequences from the nuclear 28S rRNA and mitochondrial MT-CO1 genes. These sequences were combined for a comprehensive analysis of 537 terminals, providing a much-needed update on the phylogenetic relationships within this group.
 
