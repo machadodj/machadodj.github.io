@@ -22,9 +22,10 @@ aliases:
 links:
   home-page: phyloinformatics.com
   email: dmachado@charlotte.edu
+  orcid: 0000-0001-9858-4515
+  google-scholar: TK6Ms80AAAAJ
+  github: machadodj
   linkedin: machadodj
-  google-scholar: https://scholar.google.com/citations?user=RSChnSQAAAAJ&hl=en
-  hear my name: https://www.name-coach.com/denis-jacobmachado
 ---
 
 {%
@@ -47,66 +48,32 @@ links:
 %}
 {:.center}
 
-Dr. Denis Jacob Machado is an assistant professor in bioinformatics at the University of North Carolina at Charlotte (UNC Charlotte), College of Computing and Informatics (CCI), Department of Bioinformatics and Genomics (BiG), starting on Aug. 15, 2022. He was one of the first hires of the Computational Intelligence to Predict Health and Environmental Risks (CIPHER) research center. He is also the first Latine faculty at UNC Charlotte’s BiG.
+Denis Jacob Machado builds evolutionary trees and puts them to work on pathogens, parasites, and biodiversity. He is an Assistant Professor in the Department of Bioinformatics and Genomics at UNC Charlotte and leads the Phyloinformatics Lab at the [CIPHER research center](https://cipher.charlotte.edu/).
 
-Dr. Jacob Machado leads the Phyloinformatics Lab. The lab uses computational intelligence and phylogenetics to create an evolutionary framework integrating multi-omics data to answer practical questions in One Health. In response to the continued increase in the risk of zoonoses, the Phyloinformatics Lab has two main lines of research. First, investigate new pathogens’ emergence, evolution, and spread, focusing on preventing and treating infectious diseases. Second, create computational and molecular solutions to make data from biorepositories more readily available to biomedical research.
+The lab joins phylogenetics, machine learning, and high-performance computing. It tracks recombination in dengue and other viruses, predicts how new mutations change antibody binding, recovers genomes from old museum specimens, and studies the brittle star collagen that turns from stiff to soft in seconds. The lab's open-source platform, [Péva](https://gitlab.com/phyloinformatics/peva-public), finds parsimony trees and then tells you how much to trust them.
 
-# Highlights
+# Now
 
-- Peer-reviewed publications on topics including **genomics**, **evolution**, **parasitology**, **regeneration**, **emerging infectious diseases**, and **genomic epidemiology**.
+- Editor of *Cladistics* and Editorial Board Member of *BMC Genomic Data*.
+- Fellow of the Willi Hennig Society since 2024, member of its Council for 2026 to 2028, and host of the Society's 2028 Annual Meeting at UNC Charlotte.
+- Advisor of four Ph.D. candidates in Bioinformatics and Computational Biology.
+- Grants from NIH/NIAID through the READDI-AViDD Center, CNPq in Brazil, FAPESP, and UNC Charlotte.
 
-- 3+ years of experience using **machine learning** (e.g., PyTorch, TensorFlow), **predictive modeling**, **high-throughput data processing**, and **data mining** algorithms to solve practical problems.
+# Path
 
-- 10+ years of experience in **molecular biology**, **high-throughput sequencing** (e.g., Illumina, PacBio, Hi-C, GWAS, and RNA-Seq), sequence assembly, and differential gene expression analyses.
+- 2022 to now: Assistant Professor, UNC Charlotte.
+- 2019 to 2022: Postdoctoral Researcher, UNC Charlotte, on the evolution of coronaviruses and flaviviruses and the genomes of regenerating echinoderms.
+- 2018: Ph.D. in Bioinformatics, Universidade de São Paulo ([dissertation](https://doi.org/10.11606/T.95.2018.tde-20012023-095836)).
+- 2012: M.Sc. in Zoology, Universidade de São Paulo.
+- 2009: B.Sc. in Biological Sciences with a qualification in Marine Biology, Universidade Estadual Paulista (UNESP).
 
-- Concepts used in my current and past projects include Python, Flask, R, Shiny, Tableau, SQL, Git, Jupyter, AlphaFold2, RoseTTAFold, HADDOCK, and AWS.
+# A tapeworm named for him
 
-# Experience
+In 2025, Sakai, Marques, and Trevisan named a new tapeworm from the longnose stingray *Anthocephalum machadoi*, for his contribution to cestode systematics through bioinformatics.
 
-## August 15, 2022--Current
+# Say his name
 
-**Assistant Professor in Bioinformatics**, _University of North Carolina at Charlotte_, Charlotte--NC, USA.
-
-- Head of the Phyloinformatics Lab at the College of Computing and Informatics (CCI), Department of Bioinformatics and Genomics (BiG), Computational Intelligence to Predict Health and Environmental Risks (CIPHER) research center.
-- Dr. Jacob Machado is Brazilian. He was BiG's first Latine faculty.
-
-## 2019–2022
-
-**Postdoctoral Researcher**, _University of North Carolina at Charlotte_, Charlotte--NC, USA.
-
-- I studied the origins, evolution, and zoonotic events of coronaviruses. I also employed big data analysis to categorize different variants of SARS-CoV-2 and applied deep learning techniques to produce highly accurate structure predictions of their proteins.
-- I predicted how structural changes in the receptor-binding domain of the spike protein of different variants of SARS-CoV-2 may reduce antibody interaction without completely evading existing neutralizing antibodies (and, therefore, current vaccines).
-- I created the first programs for gene prediction and annotation of *Orthocoronavirinae* (including SARS-CoV-2) and *Flaviviridae* (including hepatitis C, yellow fever, dengue, and Zika virus) and deployed the pipelines as web applications.
-- Produced draft genomes of highly regenerative echinoderms such as brittle stars and sea cucumbers for comparative genomics and tissue regeneration research.
-
-## 2018–2019
-
-**Research Collaborator**, _Universidade de São Paulo_, São Paulo--SP, Brazil.
-
-- I built and administered the first computer clusters at the Museum of Zoology of the University of São Paulo (MZUSP), providing training and technology to bridge the gap between basic animal research and applied bioinformatics with potential biomedical significance.
-- I participated in the planning, funding acquisition, and implementation of the first laboratory to sequence historical DNA (e.g., from degraded museum samples) at the Department of Zoology of the University of São Paulo (USP).
-- I developed new genome skimming techniques to retrieve genomic data of non-model organisms when samples were small or degraded. I also created the necessary software to facilitate the analysis of organelle genomes, including new indices that check for the completeness of circular genomes or misalignments in other types of contigs and scaffolds.
-
-**Invited Lecturer**, _Universidade de São Paulo_, São Paulo--SP, Brazil.
-
-- I created and taught the first graduate-level courses in bioinformatics and computer programming for biologists at USP’s Graduate Program in Zoology, ranked first in animal research worldwide for several years.
-
-## 2017
-
-**Invited Lecturer**, _Universidad del Magdalena_, Santa Marta D.T.C.H., Colombia.
-
-- I designed and taught the first course in bioinformatics at the University of Magdalena. Classes included practical and theoretical lessons on DNA extraction and isolation, high-throughput sequencing, sequence alignment, reference and de novo genome assembly, and gene prediction and annotation.
-- I also consulted for faculty members involved in animal research who needed web and dry lab solutions for next-generation sequence analyses.
-
-# Education
-
-- **Ph.D.** (_Bioinformatics_): Universidade de São Paulo (USP), São Paulo–SP, Brazil, 2018 ([click here](https://www.teses.usp.br/teses/disponiveis/95/95131/tde-20012023-095836/pt-br.php) for the dissertation; doi: [10.11606/T.95.2018.tde-20012023-095836](https://doi.org/10.11606/T.95.2018.tde-20012023-095836))
-- **M.Sc.** (_Zoology_): Universidade de São Paulo (USP), São Paulo–SP, Brazil, 2013
-- **B.Sc.** (_Biological Sciences_/ _Marine Biology_): Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP), São Vicente–SP, Brazil, 2009
-
-# Random links
-
-- My first name is Denis and my last name is Jacob Machado. I don't have a middle name. [Click here](https://youtu.be/fUwCwPK6DC8) for a YouTube video where you can hear my name. Alternatively, [click here](https://www.name-coach.com/denis-jacobmachado) for audio only.
+His first name is Denis and his last name is Jacob Machado. He has no middle name. Hear it on [YouTube](https://youtu.be/fUwCwPK6DC8) or [NameCoach](https://www.name-coach.com/denis-jacobmachado).
 
 {% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
