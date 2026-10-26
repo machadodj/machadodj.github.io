@@ -54,7 +54,7 @@ The lab joins phylogenetics, machine learning, and high-performance computing. I
 
 # Now
 
-- Editor of *Cladistics* and Editorial Board Member of *BMC Genomic Data*.
+- Editorial Board Member of *Cladistics*, where I handle manuscripts as an editor, and of *BMC Genomic Data*.
 - Fellow of the Willi Hennig Society since 2024, member of its Council for 2026 to 2028, and host of the Society's 2028 Annual Meeting at UNC Charlotte.
 - Advisor of four Ph.D. candidates in Bioinformatics and Computational Biology.
 - Grants from NIH/NIAID through the READDI-AViDD Center, CNPq in Brazil, FAPESP, and UNC Charlotte.
