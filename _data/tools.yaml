@@ -3,7 +3,7 @@
   group: featured
   image: images/peva.png
   link: https://gitlab.com/phyloinformatics/peva-public
-  description: Péva is our actively developed phylogenetics platform and the successor to YBYRÁ. It brings together character categorization, clade sensitivity analysis, topological (tree-to-tree) distances, and wildcard taxon detection in a single, modern, extensible framework. Note that Péva is not yet recommended for tree searches — for those we currently suggest Goloboff's TNT or Wheeler's PhyG — but exciting new functionality is on the way.
+  description: Péva is our actively developed phylogenetics platform and the successor to YBYRÁ. It brings together character categorization, clade sensitivity analysis, topological (tree-to-tree) distances, and wildcard taxon detection in a single, modern, extensible framework. It also runs parsimony tree searches with the heuristics systematists know from TNT, or an exact branch-and-bound search for small matrices.
   repo: https://gitlab.com/phyloinformatics/peva-public
   tags:
     - phylogenetics
@@ -157,7 +157,7 @@
     - tutorials
     - wet lab
 
-- title: Metazoan Phylogenomics and Bioinformatics
+- title: Study Topics in Metazoan Phylogenomics and Bioinformatics
   subtitle: Open Textbook (LaTeX)
   group: guide
   image: images/dna_helix.jpg

@@ -23,7 +23,7 @@ We are incredibly proud to celebrate Anastasiia Duchenko for being selected as a
 
 Graduate Life Fellows serve as vital leaders, mentors, and liaisons within the university's graduate community, helping peers navigate the complexities of graduate school with resilience, empathy, and strong peer support. 
 
-Anastasiia is a second-year Ph.D. student in the Bioinformatics and Genomics program, conducting her dissertation research in the Phyloinformatics Lab under the mentorship of Dr. Denis Jacob Machado. Her research focuses on developing cutting-edge, AI-based methodologies to analyze pathogen evolution and improve public health approaches. 
+Anastasiia is a second-year Ph.D. student in the Bioinformatics and Computational Biology program, conducting her dissertation research in the Phyloinformatics Lab under the mentorship of Dr. Denis Jacob Machado. Her research focuses on developing cutting-edge, AI-based methodologies to analyze pathogen evolution and improve public health approaches. 
 
 Beyond her demanding research, Anastasiia has consistently poured her vibrant energy into serving the UNC Charlotte campus. She serves as the elected President of the High-Performance Computing (HPC) Graduate Student Organization—where she has organized key community events like a campus Hackathon and computational automation workshops—and is a frequent volunteer and participant at Center for Graduate Life and Learning initiatives. 
 
