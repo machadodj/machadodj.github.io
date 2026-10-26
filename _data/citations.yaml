@@ -125,14 +125,14 @@
   - G. New
   - D. Jacob Machado
   publisher: International Journal for Parasitology
-  date: '2025-12-01'
+  date: '2026-07-01'
   link: https://doi.org/hbmjfr
   image: images/2025_Vieira_Skimming.jpg
   tags:
   - genomics
   - bioinformatics
   - parasitology
-  _cache: 4d8f49d5baef1232b00afb7f5b327e704c404de6f7722fb7978ad211b8d83ff8
+  _cache: 1f3d62abe3d452f94f401ad80765950435f96d269e2b3f0e5536ca0d437e4a82
 - id: doi:10.46471/gigabyte.157
   title: A draft genome assembly for the dart-poison frog Phyllobates terribilis
   authors:
