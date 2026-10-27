@@ -69,14 +69,13 @@
   subtitle: Fast Loci Annotation of Viruses
   group: featured
   image: images/FLAVi.jpg
-  link: http://flavi-web.com/
+  link: https://gitlab.com/MachadoDJ/FLAVi
   description: The FLAVi pipeline aims to provide an annotation framework for multiple complete or partial genomes of viruses. Currently, FLAVi is designed to annotate the genomes of viruses of the family _Flaviviridae_ only.
   repo: https://gitlab.com/MachadoDJ/FLAVi
   tags:
     - gene annotation
     - stand alone
     - viruses
-    - web app
 
 - title: CMA
   subtitle: Cestode Mitogenome Annotator
