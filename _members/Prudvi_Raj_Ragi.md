@@ -14,6 +14,8 @@ links:
   linkedin: prudvi-raj-ragi-a8b466216
 ---
 
+Prudvi graduated with an M.S. in Bioinformatics from UNC Charlotte in December 2024. In September 2026 he received an offer from UConn Health for a position as a Research Assistant in bioinformatics.
+
 # Prudvi Raj Ragi
 
 ## Background

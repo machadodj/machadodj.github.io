@@ -21,6 +21,8 @@ links:
   external: https://www.researchgate.net/profile/Philippe-Alves
 ---
 
+Philippe is now an Assistant Professor of Parasitology in the Department of Biodiversity and Biostatistics, Institute of Biosciences, São Paulo State University (UNESP), Botucatu. He started in September 2026 after placing first in the 2026 public competition for the position. Read [our post about it](https://phyloinformatics.com/2026/05/13/Alves.html).
+
 # Philippe Vieira Alves (updated on July 29, 2024)
 
 I am originally from Brazil, where I completed a teaching degree in Biology at the Universidade Federal de Juiz de Fora (UFJF), and an M.Sc. and a Ph.D. in Animal Biology at the Universidade Federal Rural do Rio de Janeiro (UFRRJ). During my graduate studies, I realized several short and long-term research stays at the Institute of Parasitology of the Biology Centre of the Czech Academy of Sciences, České Budějovice (under the guidance of Dr. Tomáš Scholz), and at the Parasitic Platyhelminthes Collection of the Natural History Museum, Geneva (under the guidance of Dr. Alain de Chambrier).
@@ -31,6 +33,6 @@ At present, I am conducting another postdoc research project at the São Paulo S
 
 # São Paulo Research Foundation's Research Internship Abroad Award
 
-Dr. Alves received a Research Internship Abroad (BEPE) Award from the São Paulo Research Foundation (FAPESP; Proc. No. 2023/00714-5). This award funds Dr. Alves' research in collaboration with the Phyloinformatics Lab from July 1, 2023, to June 30, 2024. The funded research project is entitled "Mitogenome organization and diversity of proteocephalid tapeworms (Cestoda) unveiled by genome skimming."
+Dr. Alves received a Research Internship Abroad (BEPE) Award from the São Paulo Research Foundation (FAPESP; Proc. No. 2023/00714-5). This award funded Dr. Alves' research in collaboration with the Phyloinformatics Lab from July 1, 2023, to June 30, 2024. The funded research project is entitled "Mitogenome organization and diversity of proteocephalid tapeworms (Cestoda) unveiled by genome skimming."
 
 This project will optimize molecular biology and bioinformatics protocols to reveal the mitogenome organization and sequence diversity of fish proteocephalids. Moreover, modern and comprehensive evolutionary analyses leveraging publicly available molecular sequences and data generated _de novo_ will answer long-standing questions in proteocephalid evolution. Furthermore, this project will generate a methodological and conceptual framework to bridge the gap between the taxonomy of parasitic flatworms. In that way, the methodology developed as a result of this proposal will add to the pool of resource-efficient molecular analyses that promise to make museum biorepositories more readily available to biomedical research.
