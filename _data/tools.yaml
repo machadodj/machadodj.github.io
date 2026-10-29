@@ -143,6 +143,17 @@
     - guides
     - tutorials
 
+- title: Phyloinformatics News
+  subtitle: AI News for Bioinformatics
+  group: tip
+  image: images/News.png
+  link: https://www.notion.so/phyloinformatics/Phyloinformatics-News-9ae8df065d89437e91e670911c27d7e0
+  description: Curated news on artificial intelligence that matters for bioinformatics, with links to the original sources.
+  tags:
+    - news
+    - ai
+    - policy
+    - funding
 
 - title: Nanodrop and Qubit
   subtitle: How To Use
