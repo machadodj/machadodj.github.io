@@ -12,7 +12,7 @@ author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
+{% include link.html link="support" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
 {% include figure.html image="images/20260910_QuickTips.png" caption="Visual summary of Scorsim Omura, Furr, and Jacob Machado (2026). Scan the QR code to read the open-access article in *PLOS Computational Biology*." width="600px" %}

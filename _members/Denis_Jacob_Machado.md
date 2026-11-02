@@ -75,5 +75,5 @@ In 2025, Sakai, Marques, and Trevisan named a new tapeworm from the longnose sti
 
 His first name is Denis and his last name is Jacob Machado. He has no middle name. Hear it on [YouTube](https://youtu.be/fUwCwPK6DC8) or [NameCoach](https://www.name-coach.com/denis-jacobmachado).
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
+{% include link.html link="support" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}

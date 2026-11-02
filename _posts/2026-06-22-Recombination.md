@@ -9,7 +9,7 @@ author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
+{% include link.html link="support" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
 {% include figure.html image="images/DENV.jpg" caption="Oliveira et al. (2026; Figure 3): ML phylogenomic cladogram of DENV. Ingroup: 6,638 sequences; Outgroup: 1 ZIKV, 3 WNV. Colors: DENV-1 (yellow), -2 (green), -3 (purple), -4 (blue)."%}

@@ -12,7 +12,7 @@ author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
+{% include link.html link="support" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
 # Giovanna Yumi Scorsim Omura turned a coffee hour into a malacology lesson

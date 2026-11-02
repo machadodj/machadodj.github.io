@@ -11,6 +11,19 @@ nav:
 
 Your contributions to the **College of Computing & Informatics**'s **Bioinformatics Research Center** directly empower our students and accelerate our daily research. We are deeply grateful to the private donors who help make our scientific breakthroughs possible.
 
+## How to Give
+
+Giving takes about two minutes. Steps 3 to 5 matter most, because they send your gift to the Bioinformatics Research Center.
+
+1. Click the Support Us button below to open the secure UNC Charlotte giving site.
+2. Choose a gift type and an amount.
+3. Under Designations, click Show More +.
+4. Type bioinformatics in the search box and click Search.
+5. Check **Bioinformatics Research Center** and leave the other bioinformatics options unchecked. You can also find it under Colleges & Units, then College of Computing & Informatics.
+6. Click Next and fill in the form with your name and contact information.
+7. Enter your billing and payment details. You can pay by card, PayPal, or Venmo.
+8. Email [dmachado@charlotte.edu](mailto:dmachado@charlotte.edu) after you give so we can thank you.
+
 {% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 

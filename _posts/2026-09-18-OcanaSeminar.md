@@ -11,7 +11,7 @@ author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
+{% include link.html link="support" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
 {% include figure.html image="images/20260918_Ocana.jpg" caption="Dr. Kary Ocaña Gautherot presents 'HLA-omics: A New Look at HLA Expression' at the Larry Mays Bioinformatics Seminar Series on Friday, September 18, 2026, in Bioinformatics Building Room 105 and on Zoom." %}

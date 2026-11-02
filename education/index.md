@@ -9,7 +9,7 @@ nav:
 
 # <i class="fas fa-chalkboard-teacher"></i>Courses, talks, workshops, and more
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
+{% include link.html link="support" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
 <!--Current Courses-->

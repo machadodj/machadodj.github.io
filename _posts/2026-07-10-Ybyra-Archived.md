@@ -10,7 +10,7 @@ author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
 
-{% include link.html link="https://give.charlotte.edu/ascendportal/s/give" text="Support Us" icon="fas fa-heart" style="button" %}
+{% include link.html link="support" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
 {% include figure.html image="images/YBYRA.jpg" caption="YBYRÁ served the phylogenetics community for a decade. It is now archived for historical reference, and its functionality has moved into our new platform, Péva."%}
