@@ -1,5 +1,7 @@
 ---
 title: Eight Quick Tips for Requesting Materials from Natural History Collections
+description: Eight practical tips help researchers borrow museum specimens, protect them, and earn the trust of the curators who lend them.
+image: images/20260910_QuickTips.png
 tags:
   - natural history collections
   - museum

@@ -1,5 +1,7 @@
 ---
 title: Unlocking the Genomic Code of the World's Deadliest Frog
+description: We published the first genome of the golden poison frog, Phyllobates terribilis. It is 12.6 billion base pairs long, four times the size of ours.
+image: images/2010_JKoehler.jpg
 tags:
   - genomics
   - amphibians
@@ -10,24 +12,24 @@ author: Denis Jacob Machado
 member: Denis_Jacob_Machado
 ---
 
-# Unlocking the Genomic Code of the World's Deadliest Frog
-
-{% include figure.html image="images/2010_JKoehler.jpg" caption="_Phyllobates terribilis_, the golden poison frog, now has a publicly available draft genome (Márquez _et al._, 2025). Photo by Jörn Köhler (CalPhotos)." %}
+{% include link.html link="support" text="Support Us" icon="fas fa-heart" style="button" %}
 {:.center}
 
-We’re thrilled to share that our team has just published a draft genome assembly for _Phyllobates terribilis_, the golden poison frog—one of the most toxic vertebrates on Earth!
+{% include figure.html image="images/2010_JKoehler.jpg" caption="_Phyllobates terribilis_, the golden poison frog, now has a publicly available draft genome (Márquez _et al._, 2025). Photo by Jörn Köhler (CalPhotos)." %}
 
-This international collaboration, with authors from institutions in the USA and Brazil, including my Ph.D. student Reyhaneh Nouri and myself, marks a major step forward in amphibian genomics. The paper was published in *Gigabyte* and is freely available at [https://doi.org/10.46471/gigabyte.157](https://doi.org/10.46471/gigabyte.157).
+We’re thrilled to share that our team has just published a draft genome assembly for _Phyllobates terribilis_, the golden poison frog, one of the most toxic vertebrates on Earth.
 
-What makes this frog so interesting? Aside from its dazzling coloration, _P. terribilis_ produces batrachotoxins—neurotoxins so potent that indigenous hunters historically used them to poison blow darts. Despite this notoriety, until now there was no genome assembly for this species.
+This international collaboration, with authors from institutions in the USA and Brazil, including my Ph.D. student Reyhaneh Nouri and myself, marks a major step forward in amphibian genomics. The paper was published in *GigaByte* and is freely available at [https://doi.org/10.46471/gigabyte.157](https://doi.org/10.46471/gigabyte.157).
 
-Generating this assembly was no small feat. The genome is estimated to be a staggering 12.6 Gb—about four times the size of the human genome—and roughly 88% of it consists of repetitive elements. These properties have long made poison frogs difficult to work with at the genomic level.
+What makes this frog so interesting? Aside from its dazzling coloration, _P. terribilis_ produces batrachotoxins, neurotoxins so potent that indigenous hunters historically used them to poison blow darts. Despite this notoriety, until now there was no genome assembly for this species.
+
+Generating this assembly was no small feat. The genome is estimated to be a staggering 12.6 Gb (about four times the size of the human genome), and roughly 88% of it consists of repetitive elements. These properties have long made poison frogs difficult to work with at the genomic level.
 
 To tackle this, we combined Illumina, PacBio, and Hi-C sequencing with a multi-step assembly and annotation pipeline. Despite the expected fragmentation, our assembly (PTer_1.0) successfully captured nearly 46,000 protein-coding genes and confirmed the presence of critical pathways like Notch and Wnt signaling as well as voltage-gated sodium channels, which are involved in batrachotoxin resistance.
 
 This resource opens new doors for investigating the evolution of chemical defense, color pattern diversity, neurotoxin resistance, and developmental biology in amphibians. It also contributes to the broader goal of making genomic data accessible for species with large, complex genomes.
 
-We’re proud of what this project represents—not just scientifically, but also as a cross-continental collaboration between universities in the U.S. and Brazil. Congratulations to everyone involved!
+We’re proud of what this project represents, not just scientifically but also as a cross-continental collaboration between universities in the U.S. and Brazil. Congratulations to everyone involved.
 
-{% include link.html link="https://doi.org/10.46471/gigabyte.157" text="Click here to read the full article in Gigabyte" icon="fas fa-arrow-right" flip=true %}
+{% include link.html link="https://doi.org/10.46471/gigabyte.157" text="Click here to read the full article in GigaByte" icon="fas fa-arrow-right" flip=true %}
 {:.center}

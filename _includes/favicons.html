@@ -15,9 +15,9 @@
 <!-- https://metatags.io/ -->
 <meta
   property="og:image"
-  content="{{ 'favicons/share-thumbnail.jpg' | relative_url }}"
+  content="{{ page.image | default: 'favicons/share-thumbnail.jpg' | absolute_url }}"
 />
 <meta
   property="twitter:image"
-  content="{{ 'favicons/share-thumbnail.jpg' | relative_url }}"
+  content="{{ page.image | default: 'favicons/share-thumbnail.jpg' | absolute_url }}"
 />
