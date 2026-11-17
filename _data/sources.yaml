@@ -343,10 +343,13 @@
     - genomics
 
 # 2022: Fundamentos de la epidemiología genómica
-- id: doi:10.54502/msuceva.v2n2a5
-  title: Fundamentos de la epidemiología genómica, lecciones aprendidas de la enfermedad por coronavirus (COVID-19) y nuevas direcciones
+# No DOI. The journal lists 10.54502/msuceva.v2n2a5, but Crossref registered that DOI to
+# another paper in the same issue (Mora Lagares et al., pp. 185-206), checked November 17, 2026.
+# Journal page: http://revistas.uceva.edu.co/index.php/magnascientia/article/view/50
+- title: Fundamentos de la epidemiología genómica, lecciones aprendidas de la enfermedad por coronavirus (COVID-19) y nuevas direcciones
   publisher: Magna Scientia UCEVA
   date: "2022-12-01"
+  link: https://hdl.handle.net/20.500.12993/3914
   image: images/placeholder.svg
   authors:
     - Denis Jacob Machado

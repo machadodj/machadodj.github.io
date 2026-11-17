@@ -408,23 +408,21 @@
   - flavivirus
   - genomics
   _cache: 486f886ac44dd09f06dcc6d20ef7e7f2749ac0b3828e0578ed596224d541488e
-- id: doi:10.54502/msuceva.v2n2a5
-  title: "Fundamentos de la epidemiolog\xEDa gen\xF3mica, lecciones aprendidas de\
+- title: "Fundamentos de la epidemiolog\xEDa gen\xF3mica, lecciones aprendidas de\
     \ la enfermedad por coronavirus (COVID-19) y nuevas direcciones"
+  publisher: Magna Scientia UCEVA
+  date: '2022-12-01'
+  link: https://hdl.handle.net/20.500.12993/3914
+  image: images/placeholder.svg
   authors:
   - Denis Jacob Machado
   - Richard Allen White III
   - Janice Kofsky
   - Daniel A. Janies
-  publisher: Magna Scientia UCEVA
-  date: '2022-12-01'
-  link: https://doi.org/hbh3pj
-  image: images/placeholder.svg
   tags:
   - epidemiology
   - viruses
   - coronavirus
-  _cache: aa8a20914f291db71e7de6f1216681a35452c3d2b5f3e8097eec6cdae29f2609
 - id: doi:10.1017/ash.2021.222
   title: Fundamentals of genomic epidemiology, lessons learned from the coronavirus
     disease 2019 (COVID-19) pandemic, and new directions
