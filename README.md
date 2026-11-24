@@ -1,3 +1,5 @@
+**Content license.** Posts on [phyloinformatics.com](https://phyloinformatics.com) are all rights reserved. The rest of the site's content is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). See [License and how to cite](https://phyloinformatics.com/license/) for the full terms. The BSD 3-Clause License in `LICENSE.md` covers only the template code from the Greene Lab.
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
 
 <h1 align="center">Lab Website Template</h1>

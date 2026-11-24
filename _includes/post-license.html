@@ -1,0 +1,33 @@
+{%- comment -%}
+  Copyright and citation notice at the end of each post.
+  It appears on posts by Denis Jacob Machado.
+  Front matter options:
+    license: false            hides the notice on a post
+    license: true             shows it on a post by another author (only with their agreement)
+    citation_title: "..."     replaces the title in the citation, for example in sentence case
+    citation_author: "..."    sets the author in the citation for another author, as "Last, F. M."
+{%- endcomment -%}
+{%- assign owner = "Denis Jacob Machado" -%}
+{%- assign show_license = false -%}
+{%- if page.author == owner -%}
+  {%- assign show_license = true -%}
+{%- endif -%}
+{%- if page.license == true -%}
+  {%- assign show_license = true -%}
+{%- endif -%}
+{%- if page.license == false -%}
+  {%- assign show_license = false -%}
+{%- endif -%}
+{%- if show_license -%}
+  {%- if page.author == owner -%}
+    {%- assign cite_author = "Machado, D. J." -%}
+  {%- else -%}
+    {%- assign cite_author = page.citation_author | default: page.author -%}
+  {%- endif -%}
+  {%- assign cite_title = page.citation_title | default: page.title -%}
+  {%- assign cite_url = page.url | absolute_url -%}
+<div class="post_license">
+  <p>Copyright {{ page.date | date: "%Y" }} {{ page.author }}. All rights reserved. You may quote short passages if you cite this post. Do not use this writing commercially or place it behind a paywall. <a href="{{ '/contact/' | relative_url }}">Ask me</a> before you republish it in full or in large part. Full terms: <a href="{{ '/license/' | relative_url }}">License and how to cite</a>.</p>
+  <p>Cite as: {{ cite_author }} ({{ page.date | date: "%Y, %B %-d" }}). {{ cite_title }}. {{ site.title }}. <a href="{{ cite_url }}">{{ cite_url }}</a></p>
+</div>
+{%- endif -%}

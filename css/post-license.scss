@@ -1,0 +1,24 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+.post_license {
+  margin: 40px 0 20px 0;
+  padding-top: 20px;
+  border-top: solid 1px $gray-300;
+  color: $gray-700;
+  font-size: 0.9rem;
+  text-align: left;
+
+  p {
+    margin: 10px 0;
+    text-align: left;
+  }
+
+  p:last-child {
+    overflow-wrap: anywhere;
+  }
+}
