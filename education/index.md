@@ -20,7 +20,9 @@ nav:
 
 - UNC Charlotte (2025--present): **Introduction to Computer Science II**, the College of Computing and Informatics's Summer version of ITSC-1213. Student-facing materials for this class are publicly available on [GitLab](https://gitlab.com/phyloinformatics/introcompsci2).
 
-- UNC Charlotte (2024--present): **Programming II** (BINF-6112 and BINF-8112 combined), the Dept. of Bioinformatics and Genomics' second graduate-level course in Shell and Python3 programming. Student-facing materials for this class are publicly available on [GitLab](https://gitlab.com/phyloinformatics/pythonforbinf).
+- UNC Charlotte (since Spring 2027): **Programming I** (BINF-6111 and BINF-8111 combined, also offered as HCIP-5376, ITIS-5101, and ITSC-6111), the Dept. of Bioinformatics and Genomics' first graduate-level course in Shell and Python3 programming, taught online and asynchronously. Student-facing materials for this class are publicly available on [GitLab](https://gitlab.com/phyloinformatics/pythonforbinf/-/tree/main/Programming1).
+
+- UNC Charlotte (2024--present): **Programming II** (BINF-6112 and BINF-8112 combined), the Dept. of Bioinformatics and Genomics' second graduate-level course in Shell and Python3 programming. Student-facing materials for this class are publicly available on [GitLab](https://gitlab.com/phyloinformatics/pythonforbinf/-/tree/main/Programming2).
 
 <!--Past Courses-->
 
